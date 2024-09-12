@@ -2,7 +2,7 @@
 name: Huixin Dong
 image: images/photo.jpg
 description: Ph.D. Candidate
-role: Low power internet of Things
+role: PhD
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson

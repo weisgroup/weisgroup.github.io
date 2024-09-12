@@ -1,7 +1,8 @@
 ---
 name: Zhiqing Luo
 image: images/photo.jpg
-role: Postdocal Researcher
+description: Ph.D. Candidate
+role: Postdoc
 group: alum
 links:
   github: john-doe

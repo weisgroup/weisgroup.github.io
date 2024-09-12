@@ -1,8 +1,8 @@
 ---
-name: Sarah Johnson
+name: Yong Huang
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+description: Now Assitant Professor in ZZU
+role: Alumni
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson
