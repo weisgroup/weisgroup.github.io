@@ -1,8 +1,9 @@
 ---
 name: Yong Huang
 image: images/photo.jpg
-description: Now Assitant Professor in ZZU
+description: Now Associate Professor in Zheng Zhou University
 role: Alumni
+# group: alusm # 校友，毕业后拉入
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson
