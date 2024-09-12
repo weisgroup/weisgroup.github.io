@@ -13,9 +13,14 @@ Team Description
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: Postdoc" %}
-{% include list.html data="members" component="portrait" filters="role: PhD" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html %}
+
+{% include list.html data="members" component="portrait" filters="role: PhD" %}
+{% include list.html data="members" component="portrait" filters="role: Ms" %}
+
+{% include section.html %}
+# {% include section.html background="images/background.jpg" dark=true %}
 
 Alumni
 
