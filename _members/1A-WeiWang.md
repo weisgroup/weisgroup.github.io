@@ -2,7 +2,7 @@
 name: Wei Wang
 # image: images/photo.jpg
 image: https://eic.hust.edu.cn/professor/wangwei/Wei_files/head3.jpg
-role: Principal investigator
+role: pi
 affiliation: Principal investigator
 aliases:
   - W. Wang
