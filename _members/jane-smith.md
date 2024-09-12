@@ -1,11 +1,12 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
-role: pi
-affiliation: University of Colorado
+name: Wei Wang
+# image: images/photo.jpg
+image: https://eic.hust.edu.cn/professor/wangwei/Wei_files/head3.jpg
+role: PI
+affiliation: Huazhong University of Science and Technology
 aliases:
-  - J. Smith
-  - J Smith
+  - W. Wang
+  - W Wang
 links:
   home-page: https://janesmith.com
   orcid: 0000-0001-8713-9213
