@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Join us
 nav:
   order: 5
   tooltip: Email, address, and location
@@ -7,9 +7,12 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Looking For Students/PostDocs
+======
+We are currently looking for highly motivated graduate (Ph.D. and master) and undergraduate students to work on research projects in wireless networking and mobile computing.
+Candidates are expected to have solid background in network/mobile systems, and strong motivation towards academic excellence.
+Hands-on system implementation and/or strong mathematical background is a big plus.
+If interested and have the right background, please email me at weiwangw (AT) hust (DOT) edu (DOT) cn.
 
 {%
   include button.html
