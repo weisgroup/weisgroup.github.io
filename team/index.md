@@ -20,11 +20,8 @@ Team Description
 {% include list.html data="members" component="portrait" filters="role: Ms" %}
 
 {% include section.html %}
-# {% include section.html background="images/background.jpg" dark=true %}
 
 Alumni
-
-{% include section.html %}
 
 {% capture content %}
 
