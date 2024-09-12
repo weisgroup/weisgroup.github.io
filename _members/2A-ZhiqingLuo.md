@@ -3,7 +3,7 @@ name: Zhiqing Luo
 image: images/photo.jpg
 description: Ph.D. Candidate
 role: Postdoc
-affiliation: Huazhong University of Science and Technology
+# affiliation: Huazhong University of Science and Technology
 # group: alusm # 校友，毕业后拉入
 links:
   github: john-doe
