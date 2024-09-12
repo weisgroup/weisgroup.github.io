@@ -1,20 +1,16 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
-role: pi
-affiliation: University of Colorado
+name: Wei Wang
+# image: images/photo.jpg
+image: https://eic.hust.edu.cn/professor/wangwei/Wei_files/head3.jpg
+role: PI
+affiliation: Huazhong University of Science and Technology
 aliases:
-  - J. Smith
-  - J Smith
+  - W. Wang
+  - W Wang
 links:
   home-page: https://janesmith.com
   orcid: 0000-0001-8713-9213
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Wei Wang is a professor in School of Electronic Information and Communications, Huazhong University of Science and Technology. During Jun. 2019 to Aug. 2019, he was a Visiting Scholar in Department of Electrical and Computer Engineering
+University of California San Diego. He received his Ph.D. degree in Department of Computer Science and Engineering from Hong Kong University of Science and Technology (HKUST), where his Ph.D. advisor is Prof. Qian Zhang. Before he joined HKUST, he received his bachelor degree in Electronics and Information Engineering from Huazhong University of Science& Technology in June 2010.
