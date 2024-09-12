@@ -12,24 +12,25 @@ Looking For Students/PostDocs
 We are currently looking for highly motivated graduate (Ph.D. and master) and undergraduate students to work on research projects in wireless networking and mobile computing.
 Candidates are expected to have solid background in network/mobile systems, and strong motivation towards academic excellence.
 Hands-on system implementation and/or strong mathematical background is a big plus.
+
 If interested and have the right background, please email me at weiwangw (AT) hust (DOT) edu (DOT) cn.
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="weiwang@hust(dot)edu(dot)cn"
+  link="weiwangw@hust.edu.cn"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="(852) 2719-0402 "
+  link="(852) 2719-0402 "
 %}
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
+  tooltip="华中科技大学东17楼F区"
   link="https://www.google.com/maps"
 %}
 
