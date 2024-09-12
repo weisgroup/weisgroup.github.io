@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: Lab Website Template
+title: MetaIoT @ HUST
 subtitle: by the Greene Lab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+description: Here at Wireless, Sensing, & Embedded Networked Systems (iSENS) Lab, we create the next generation of intelligent wireless systems for communication and sensing with applications in autonomous systems, mixed reality, and IoT.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
