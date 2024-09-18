@@ -15,13 +15,13 @@ Xuedou Xiao (肖雪豆) joined the School of Navigation, Wuhan University of Tec
 
 Research Interest
 ===
-\dot Video Compression
+Video Compression
 
-\dot Adaptive Streaming
+Adaptive Streaming
 
-\dot Edge Computing
+Edge Computing
 
-\dot Maritime Computer Vision
+Maritime Computer Vision
 
 Publications
 ===
