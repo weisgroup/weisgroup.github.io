@@ -19,15 +19,11 @@
   file: sources.yaml
   type: paper
   description: Expanding the GNSS signals coverage with backscatter tags
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: source
-    text: Manuscript Source
-    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  image: https://www.catalyzex.com/_next/image?url=https%3A%2F%2Fd3i71xaburhd42.cloudfront.net%2F531429cc78035c2fc43560d8a7dd09d93fd8b201%2F2-Figure1-1.png&w=384&q=75
+  buttons: null
   tags:
   - Backscatter Network
   - GPS Sensing
-  repo: greenelab/meta-review
 - id: doi:10.1145/3570342
   title: C-Cube
   authors:

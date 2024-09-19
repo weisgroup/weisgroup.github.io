@@ -25,14 +25,12 @@ Team Description
 
 {% include list.html data="members" component="portrait" filters="role: Alumni" %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
 {% endcapture %}
 
 {% include section.html %}
 
+
+{% include grid.html style="square" content=content %}
 
 
 PG Alumni
@@ -96,4 +94,3 @@ Yifan Hou (Advanced Class, 2014; PhD, ETH Zurich, Mphil in CS Department, Chines
 Zhuoran Xiao (Advanced Class, 2014; now PhD in CS Department, Zhejiang University)
 
 
-{% include grid.html style="square" content=content %}
