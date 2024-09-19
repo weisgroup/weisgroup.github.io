@@ -1,7 +1,7 @@
 ---
 name: Xianan Zhang
 image: ../images/members/XiananZhang.jpg
-description: Now a wireless localization researcher in Huawei (Shanghai)
+description: Obtained the Doctor degree in 2023. Now a wireless localization researcher in Huawei (Shanghai)
 role: Alumni
 group: alusm # 校友，毕业后拉入
 links:
