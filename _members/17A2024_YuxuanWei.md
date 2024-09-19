@@ -1,6 +1,6 @@
 ---
 name: Yuxuan Wei
-image: 
+image: ../images/members/17A.jpg
 description: Ms 
 role: Ms
 links:

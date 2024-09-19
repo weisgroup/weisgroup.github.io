@@ -1,6 +1,6 @@
 ---
 name: Zhongcheng Jiang
-image: 
+image: ../images/members/11A.jpg
 description: Ms Candidate
 role: Ms
 links:

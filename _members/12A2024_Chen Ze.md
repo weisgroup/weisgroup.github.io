@@ -1,6 +1,6 @@
 ---
 name: Chen Ze
-image: 
+image: ../images/members/12A.jpg
 description: Ms
 role: Ms
 links:

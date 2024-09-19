@@ -1,6 +1,6 @@
 ---
 name: Fangyuan Yan
-image: 
+image: ../images/members/6A.jpg
 description: Ms Candidate
 role: Ms
 links:
