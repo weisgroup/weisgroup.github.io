@@ -9,7 +9,7 @@ links:
   twitter: sarahjohnson
 ---
 
-Xuedou Xiao (肖雪豆) joined the School of Navigation, Wuhan University of Technology (WUT) as a postdoctoral researcher in 2023, after earning her Ph.D. and M.Phil. degrees from the School of Electronic Information and Communication, Huazhong University of Science and Technology (HUST) in 2017 and 2023, respectively.
+Shiyue He (何诗悦) joined the Hisilicon in 2023, after earning her Ph.D. and M.Phil. degrees from the School of Electronic Information and Communication, Huazhong University of Science and Technology (HUST) in 2023, respectively.
 
 [Turn to his homepage](https://xxdhome.github.io/).
 
@@ -17,7 +17,7 @@ Research Interest
 ===
 Wireless communication
 
-Adaptive Streaming
+Backscatter Networking
 
 Publications
 ===
