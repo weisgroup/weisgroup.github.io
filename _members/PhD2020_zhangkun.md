@@ -1,10 +1,10 @@
 ---
-name: Huixin Dong
+name: Kun Zhang
 image: ../images/members/KunZhang.jpg
-description: Ph.D. Candidate
+description: Ph.D. Candidate (Joined in 2021)
 role: PhD
 links:
-  email: dxhuixin@gmail.com
+  email: zkun@hust.edu.cn
   # twitter: sarahjohnson
   # weibo:
   

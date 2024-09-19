@@ -45,6 +45,8 @@ Lieke Chen (Master student, 2020; Previously@HUST, 2016; now with Huawei, Shenzh
 
 Yirong Xie (Master student, 2020; Previously@HUST, 2016; now with Realtek, Suzhou)
 
+Juecheng Zhang (Master student, 2019; Previously@JLU, 2015; now with Alibaba Antgroup, Beijing)
+
 Mengnian Xu (Master student, 2018; Previously@WUT, 2014; now with ByteDance, Beijing)
 
 Chao Liu (Master student, 2019; Previously@HUST, 2015; now a math teacher in a middle school in Shenzhen)
