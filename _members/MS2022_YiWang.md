@@ -2,7 +2,7 @@
 name: Yi Wang
 image: ../images/members/10A.jpg
 description: M.S. Candidate （Joined in 2022）
-role: Ms
+role: Master
 links:
   email: yiwang_js@163.com
   # twitter: sarahjohnson

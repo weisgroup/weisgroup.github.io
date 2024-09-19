@@ -17,7 +17,7 @@ Team Description
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: PhD" %}
-{% include list.html data="members" component="portrait" filters="role: Ms" %}
+{% include list.html data="members" component="portrait" filters="role: Master" %}
 
 {% include section.html %}
 

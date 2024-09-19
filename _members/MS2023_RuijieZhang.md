@@ -2,7 +2,7 @@
 name: Ruijie Zhang
 image: ../images/members/18A.jpg
 description: M.S. Candidate （Joined in 2023）
-role: Ms
+role: Master
 links:
   email: ruijiezhang@hust.edu.cn
 

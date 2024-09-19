@@ -2,7 +2,7 @@
 name: Yuxuan Wei
 image: ../images/members/17A.jpg
 description: M.S. Candidate （Joined in 2024）
-role: Ms
+role: Master
 links:
   email: 19939895296@163.com
   

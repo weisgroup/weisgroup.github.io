@@ -2,7 +2,7 @@
 name: Chen Ze
 image: ../images/members/12A.jpg
 description: M.S. Candidate （Joined in 2024）
-role: Ms
+role: Master
 links:
   email: 3343624120@qq.com
   # twitter: sarahjohnson

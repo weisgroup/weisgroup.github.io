@@ -2,7 +2,7 @@
 name: Xin Chen
 image: ../images/members/16A.jpg
 description: M.S. Candidate （Joined in 2024）
-role: Ms
+role: Master
 links:
   email: cx12417@163.com
   # twitter: 

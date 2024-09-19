@@ -2,7 +2,7 @@
 name: Fangyuan Yan
 image: ../images/members/6A.jpg
 description: M.S. Candidate （Joined in 2024）
-role: Ms
+role: Master
 links:
   email: 787328024@qq.com
   

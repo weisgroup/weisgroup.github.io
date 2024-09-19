@@ -2,7 +2,7 @@
 name: Liu Yang
 image: ../images/members/7A.jpg
 description: M.S. Candidate （Joined in 2022）
-role: Ms
+role: Master
 links:
   email: youngerliu@hust.edu.cn
 
