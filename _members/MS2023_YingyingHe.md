@@ -1,8 +1,8 @@
 ---
 name: Yingying He
 image: ../images/members/20A.jpg
-description: M.S. Candidate  （Joined in 2023）
-role: Ms
+description: M.S. Candidate （Joined in 2023）
+role: Master
 links:
   email: heyingying@hust.edu.cn
 

@@ -1,8 +1,8 @@
 ---
 name: Xinyi Wu
 image: ../images/members/9A.jpg
-description: M.S. Candidate  （Joined in 2022）
-role: Ms
+description: M.S. Candidate （Joined in 2022）
+role: Master
 links:
   email: xinyee@hust.edu.cn
   
