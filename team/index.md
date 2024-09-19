@@ -36,6 +36,8 @@ PG Alumni
 
 {% include grid.html style="square" content=content %}
 
+Wei Kuang (Master student, 2021; Previously@HUST, 2017; now with Hubei Academy of Aerospace Technology, Wuhan)
+
 Yingying Zuo (Master student, 2021; Previously@SDU, 2017; now with ByteDance, Shanghai)
 
 Haoyu Xiong (Master student, 2021; Previously@CQU, 2017; now with Huawei, Chengdu)
