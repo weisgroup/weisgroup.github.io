@@ -18,5 +18,5 @@ Research Interest
 
 Hobbies
 ======
-![Sports](https://github.com/donghuixin/donghuixin.github.io/blob/master/images/JiayiScholar.jpg?raw=true)
-![Travel](https://github.com/donghuixin/donghuixin.github.io/blob/master/images/JiayiRussia.jpg?raw=true)
+**Sports(Basketball; Football)**
+**Travel**
