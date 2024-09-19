@@ -1,6 +1,6 @@
 ---
 name: Jiayi Sun
-image: https://github.com/donghuixin/donghuixin.github.io/blob/master/images/JiayiMain.jpg?raw=true
+image: ../images/members/14A.jpg
 description: Master's Candidate
 role: M.S.
 links:

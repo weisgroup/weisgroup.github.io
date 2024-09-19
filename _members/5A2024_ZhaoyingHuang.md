@@ -1,6 +1,6 @@
 ---
 name: Zhaoying Huang
-image: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=5XROK7EAAAAJ&citpid=2
+image: ../images/members/5A.jpg
 description: Master degree candidate
 role: Ms
 links:

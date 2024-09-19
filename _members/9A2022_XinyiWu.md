@@ -1,6 +1,6 @@
 ---
 name: Xinyi Wu
-image: 
+image: ../images/members/9A.jpg
 description: 
 role: Ms
 links:

@@ -1,6 +1,6 @@
 ---
 name: Xin Chen
-image: 
+image: ../images/members/16A.jpg
 description: M.D. Candidate
 role: Ms
 links:

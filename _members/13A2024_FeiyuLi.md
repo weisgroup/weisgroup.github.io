@@ -1,6 +1,6 @@
 ---
 name: Feiyu Li
-image: 
+image: ../images/members/13A.jpg
 description: Ms Candidate
 role: Ms
 links:

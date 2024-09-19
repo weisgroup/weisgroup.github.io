@@ -1,6 +1,6 @@
 ---
 name: Shengpeng Wang
-image: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=5XROK7EAAAAJ&citpid=2
+image: ../images/members/8A.jpg
 description: Ph.D. Candidate
 role: PhD
 links:
