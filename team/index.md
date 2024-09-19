@@ -37,6 +37,14 @@ PG Alumni
 
 {% include grid.html style="square" content=content %}
 
+Yingying Zuo (Master student, 2021; Previously@SDU, 2017; now with ByteDance, Shanghai)
+
+Haoyu Xiong (Master student, 2021; Previously@CQU, 2017; now with Huawei, Chengdu)
+
+Lieke Chen (Master student, 2020; Previously@HUST, 2016; now with Huawei, Shenzhen)
+
+Yirong Xie (Master student, 2020; Previously@HUST, 2016; now with Realtek, Suzhou)
+
 Mengnian Xu (Master student, 2018; Previously@WUT, 2014; now with ByteDance, Beijing)
 
 Chao Liu (Master student, 2019; Previously@HUST, 2015; now a math teacher in a middle school in Shenzhen)
