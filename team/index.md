@@ -34,7 +34,6 @@ Team Description
 PG Alumni
 ====
 
-
 {% include grid.html style="square" content=content %}
 
 Yingying Zuo (Master student, 2021; Previously@SDU, 2017; now with ByteDance, Shanghai)
