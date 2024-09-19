@@ -99,7 +99,7 @@ Gallery.
 
 {%
   include button.html
-  link="blog"
+  link="gallery"
   text="Gallery of our team"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -111,7 +111,7 @@ Gallery.
 {%
   include feature.html
   image="images/photo.jpg"
-  link="blog"
+  link="gallery"
   title="Gallery of Our Team"
   text=text
 %}
