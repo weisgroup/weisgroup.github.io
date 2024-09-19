@@ -1,7 +1,7 @@
 ---
 name: Jiayi Sun
 image: https://github.com/donghuixin/donghuixin.github.io/blob/master/images/JiayiMain.jpg?raw=true
-description: M.S. Candidate （Joined in 2024）
+description: M.S. Candidate  （Joined in 2024）
 role: Ms
 links:
   email: sunjoy@hust.edu.cn
