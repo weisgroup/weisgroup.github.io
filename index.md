@@ -91,3 +91,27 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
+
+
+{% capture text %}
+
+Gallery.
+
+{%
+  include button.html
+  link="blog"
+  text="Gallery of our team"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="blog"
+  title="Gallery of Our Team"
+  text=text
+%}
