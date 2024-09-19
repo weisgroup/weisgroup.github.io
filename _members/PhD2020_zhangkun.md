@@ -1,7 +1,7 @@
 ---
 name: Kun Zhang
 image: ../images/members/KunZhang.jpg
-description: Ph.D. Candidate (Joined in 2021)
+description: Ph.D. Candidate  (Joined in 2021)
 role: PhD
 links:
   email: zkun@hust.edu.cn
