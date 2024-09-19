@@ -27,7 +27,7 @@ Our research focus on mobile computing and wireless network
 
 {%
   include button.html
-  link="research"
+  link="publication"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -39,7 +39,7 @@ Our research focus on mobile computing and wireless network
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
+  link="publication"
   title="Publications"
   text=text
 %}
@@ -50,7 +50,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="projects"
+  link="research"
   text="Browse our research projects"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -62,7 +62,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
+  link="research"
   title="Our Research"
   flip=true
   style="bare"
