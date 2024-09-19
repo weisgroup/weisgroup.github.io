@@ -1,7 +1,7 @@
 ---
 name: Zhiqing Luo
 image: ../images/members/ZhiqingLuo.jpg
-description: Postdocal Researcher
+description: Postdoctoral Researcher
 role: Postdoc
 # affiliation: Huazhong University of Science and Technology
 # group: alusm # 校友，毕业后拉入
