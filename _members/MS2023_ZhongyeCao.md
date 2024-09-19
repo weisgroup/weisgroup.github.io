@@ -1,7 +1,7 @@
 ---
 name: Zhongye Cao
 image: ../images/members/ZhongyeCao.jpg
-description: Master Candidate
+description: M.S. Candidate  （Joined in 2023）
 role: Master
 links:
   email: zhongye@hust.edu.cn
