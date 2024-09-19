@@ -51,7 +51,7 @@ Chao Liu (Master student, 2019; Previously@HUST, 2015; now a math teacher in a m
 
 Hang Yang (Master student, 2018; Previously@Advanced Class, 2014; now a information science teach in a middle school in Shenzhen)
 
-Yiyuan Wang (Master student, 2018; Previously@EIC, 2014; now with TP-link)
+Yiyuan Wang (Master student, 2018; Previously@HUST, 2014; now with TP-link)
 
 Yuheng Dan (Master student, 2019; Previously@WUT, 2015; now with Alibaba, Hangzhou)
 
@@ -61,7 +61,7 @@ Sen Huang (Master student, 2017-2020; now with Huawei, Wuhan)
 
 Ning Zhang (Master student, 2018-2020; Previously@Advanced Class, 2014; now with Xiaomi, Beijing)
 
-Pan Wang ((Master student, 2018-2020; Previously@EIC, 2014; now an Officer)
+Pan Wang ((Master student, 2018-2020; Previously@HUST, 2014; now an Officer)
 
 Taobin Chen (Master student, 2017-2019; Excellent Engineer Program; now with Tencent, Shenzhen)
 
