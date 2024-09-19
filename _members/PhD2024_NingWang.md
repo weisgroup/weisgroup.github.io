@@ -1,7 +1,7 @@
 ---
 name: Ning Wang
 image: ../images/members/19A.jpg
-description: Ph.D. Student
+description: Ph.D. Candidate （Joined in 2024）
 role: PhD
 links:
   email: ningw@hust.edu.cn
