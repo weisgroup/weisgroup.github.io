@@ -33,7 +33,7 @@ Team Description
 
 {% include section.html %}
 
-{% capture content %}
+
 
 PG Alumni
 ====
@@ -69,6 +69,5 @@ Minjie Tang (EIC, 2014; Now PhD in ECE Department, Hong Kong University of Scien
 Yifan Hou (Advanced Class, 2014; PhD, ETH Zurich, Mphil in CS Department, Chinese University of Hong Kong)
 Zhuoran Xiao (Advanced Class, 2014; now PhD in CS Department, Zhejiang University)
 
-{% endcapture %}
 
 {% include grid.html style="square" content=content %}
