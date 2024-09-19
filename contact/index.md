@@ -40,7 +40,7 @@ If interested and have the right background, please email me at weiwangw (AT) hu
 
 {%
   include figure.html
-  image= https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/alibaba-512.png
+  image= "https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/alibaba-512.png"
   caption="Alibaba"
 %}
 
@@ -50,7 +50,7 @@ If interested and have the right background, please email me at weiwangw (AT) hu
 
 {%
   include figure.html
-  image=https://static.wikia.nocookie.net/logopedia/images/c/c5/ByteDance_2018_%28Mandarin%29.svg/revision/latest?cb=20240212152705
+  image= "https://static.wikia.nocookie.net/logopedia/images/c/c5/ByteDance_2018_%28Mandarin%29.svg/revision/latest?cb=20240212152705"
   caption="Bytedance"
 %}
 
@@ -60,7 +60,7 @@ If interested and have the right background, please email me at weiwangw (AT) hu
 
 {%
   include figure.html
-  image= https://cdn.icon-icons.com/icons2/2699/PNG/512/tencent_logo_icon_169619.png
+  image= "https://cdn.icon-icons.com/icons2/2699/PNG/512/tencent_logo_icon_169619.png"
   caption="Tencent"
 %}
 

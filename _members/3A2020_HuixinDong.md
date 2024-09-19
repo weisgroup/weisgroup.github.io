@@ -1,6 +1,6 @@
 ---
 name: Huixin Dong
-image: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=5XROK7EAAAAJ&citpid=2
+image: https://academic.huixin.space/images/Avatar.png
 description: Ph.D. Candidate
 role: PhD
 links:
@@ -15,13 +15,21 @@ He collaborates closely with [Prof. Xinyu Zhang](http://xyzhang.ucsd.edu/) at UC
 
 Research Interest
 ======
-![Backscatter Network](https://www.researchgate.net/profile/Joshua-Smith-94/publication/262411741/figure/fig5/AS:668631771926531@1536425645208/Ambient-Backscatter-Communication-between-two-battery-free-devices-One-such-device.png)  
+**Backscatter Network;** **GPS Sensing**
 
-
-Selected Publications in MateIoT lab
+Selected Publications 
 ======
 1. GPSense: Passive Sensing with Pervasive GPS Signals, **ACM MobiCom**, 2024. [Paper](https://dl.acm.org/doi/abs/10.1145/3570361.3592511), [Slides](https://sigmobile.org/mobicom/2023/media/presentations/DongGPSMirror.pptx)  
    **Huixin Dong**, Minhao Cui*, Ning Wang, Lili Qiu, Jie Xiong and Wei Wang
+
+2. GPSMirror: Expanding accurate gps positioning to shadowed and indoor regions with backscatter, **ACM MobiCom**, 2023. [Paper](https://dl.acm.org/doi/abs/10.1145/3570361.3592511), [Slides](https://sigmobile.org/mobicom/2023/media/presentations/DongGPSMirror.pptx)  
+   **Huixin Dong**, Yirong Xie, Xianan Zhang, Wei Wang, Xinyu Zhang and Jianhua He
+   
+3. C-Cube: Rethinking distributed beamforming for concurrent charging in backscatter networks, **ACM UbiComp/IMWUT**, 2023. [Paper](https://dl.acm.org/doi/abs/10.1145/3570342)        
+   Shiyue He, Wenyuan Ma, **Huixin Dong**, Lixia Xiao and Tao Jiang
+   
+4. FreeScatter: Enabling concurrent backscatter communication using antenna arrays, **IEEE IoTJ**, 2020. [Paper](https://ieeexplore.ieee.org/document/9052666)       
+   Qianyi Huang, Guochao Song, Wei Wang, **Huixin Dong**, Jin Zhang and Qian Zhang
       
 Services
 ======
