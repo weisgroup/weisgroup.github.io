@@ -21,6 +21,16 @@ Team Description
 
 {% include section.html %}
 
+{% capture content %}
+
+{% include list.html data="members" component="portrait" filters="role: Alumni" %}
+
+{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/photo.jpg" %}
+
+{% endcapture %}
+
 PG Alumni
 ====
 Mengnian Xu (Master student, 2018; Previously@WUT, 2014; now with ByteDance, Beijing)
@@ -80,14 +90,6 @@ Minjie Tang (EIC, 2014; Now PhD in ECE Department, Hong Kong University of Scien
 Yifan Hou (Advanced Class, 2014; PhD, ETH Zurich, Mphil in CS Department, Chinese University of Hong Kong)
 Zhuoran Xiao (Advanced Class, 2014; now PhD in CS Department, Zhejiang University)
 
-{% capture content %}
 
-{% include list.html data="members" component="portrait" filters="role: Alumni" %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
 
 {% include grid.html style="square" content=content %}
