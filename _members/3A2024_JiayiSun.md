@@ -1,8 +1,8 @@
 ---
 name: Jiayi Sun
-image: ../images/members/14A.jpg
+image: https://github.com/donghuixin/donghuixin.github.io/blob/master/images/JiayiMain.jpg?raw=true
 description: Master's Candidate
-role: M.S.
+role: M.S. Candidate
 links:
   email: sunjoy@hust.edu.cn
   # weibo:
@@ -12,9 +12,9 @@ links:
 
 Research Interest
 ======
-![Gesture recognition]
-![GPS Sensing]
-![Internet of Things]
+**Gesture recognition**
+**GPS Sensing**
+**Internet of Things**
 
 Hobbies
 ======
