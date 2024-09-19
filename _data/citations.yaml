@@ -1,74 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1145/3570361.3592511
-  title: 'GPSMirror: Expanding Accurate GPS Positioning to Shadowed and Indoor Regions
-    with Backscatter'
-  authors:
-  - Huixin Dong
-  - Yirong Xie
-  - Xianan Zhang
-  - Wei Wang
-  - Xinyu Zhang
-  - Jianhua He
-  publisher: Proceedings of the 29th Annual International Conference on Mobile Computing
-    and Networking
-  date: '2023-06-10'
-  link: https://doi.org/g2qdtt
-  orcid: 0000-0002-5984-9194
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Expanding the GNSS signals coverage with backscatter tags
-  image: https://www.catalyzex.com/_next/image?url=https%3A%2F%2Fd3i71xaburhd42.cloudfront.net%2F531429cc78035c2fc43560d8a7dd09d93fd8b201%2F2-Figure1-1.png&w=384&q=75
-  buttons: null
-  tags:
-  - Backscatter Network
-  - GPS Sensing
-- id: doi:10.1145/3570342
-  title: C-Cube
-  authors:
-  - Shiyue He
-  - Wenyuan Ma
-  - Huixin Dong
-  - Lixia Xiao
-  - Tao Jiang
-  publisher: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
-    Technologies
-  date: '2022-12-21'
-  link: https://doi.org/g2qgvz
-  orcid: 0000-0002-5984-9194
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.3390/s22124471
-  title: Backscatter-Assisted Collision-Resilient LoRa Transmission
-  authors:
-  - Fei Xiao
-  - Wei Kuang
-  - Huixin Dong
-  - Yiyuan Wang
-  publisher: Sensors
-  date: '2022-06-13'
-  link: https://doi.org/g2qgv9
-  orcid: 0000-0002-5984-9194
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1631/FITEE.2100321
-  title: Ultra-low-power backscatter-based software-defined radio for intelligent
-    and simplified IoT network
-  authors:
-  - Huixin Dong
-  - Wei Kuang
-  - Fei Xiao
-  - Lihai Liu
-  - Feng Xiang
-  - Wei Wang
-  - Jianhua He
-  publisher: Frontiers of Information Technology &amp; Electronic Engineering
-  date: '2022-01-01'
-  link: https://doi.org/g2qgwg
-  orcid: 0000-0002-5984-9194
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
@@ -113,5 +44,27 @@
   date: '2022-06-01'
   link: https://doi.org/gnt8g4
   image: https://s2.loli.net/2024/09/19/tHzci4XwUbrq7uP.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3570361.3592511
+  title: 'GPSMirror: Expanding Accurate GPS Positioning to Shadowed and Indoor Regions
+    with Backscatter'
+  authors:
+  - Huixin Dong
+  - Yirong Xie
+  - Xianan Zhang
+  - Wei Wang
+  - Xinyu Zhang
+  - Jianhua He
+  publisher: Proceedings of the 29th Annual International Conference on Mobile Computing
+    and Networking
+  date: '2023-06-10'
+  link: https://doi.org/g2qdtt
+  type: paper
+  description: Expanding the GNSS signals coverage with backscatter tags
+  image: https://www.catalyzex.com/_next/image?url=https%3A%2F%2Fd3i71xaburhd42.cloudfront.net%2F531429cc78035c2fc43560d8a7dd09d93fd8b201%2F2-Figure1-1.png&w=384&q=75
+  tags:
+  - Backscatter Network
+  - GPS Sensing
   plugin: sources.py
   file: sources.yaml
