@@ -1,6 +1,6 @@
 ---
 name: Huixin Dong
-image: ../images/members/3A.jpg
+image: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=5XROK7EAAAAJ&citpid=2
 description: Ph.D. Candidate
 role: PhD
 links:
