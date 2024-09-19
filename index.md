@@ -1,7 +1,7 @@
 ---
 ---
 
-# Lab Website Template
+# MetaIoT Lab
 
 [MetaIoT Lab](https://github.com/greenelab/lab-website-template) is a XXXX lab lead by Prof. Wei Wang [labs](https://www.greenelab.com/).
 
