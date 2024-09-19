@@ -1,6 +1,6 @@
 ---
 name: Shuang Yi
-image: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=5XROK7EAAAAJ&citpid=2
+image: ../images/members/4A.jpg
 description: Ph.D. Student
 role: PhD
 links:
