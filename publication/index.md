@@ -13,7 +13,7 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="GPSMirror: Expanding Accurate GPS Positioning to Shadowed and Indoor Regions with Backscatter" style="rich" %}
 
 {% include section.html %}
 
