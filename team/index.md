@@ -25,10 +25,6 @@ Team Description
 
 {% include list.html data="members" component="portrait" filters="role: Alumni" %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
 {% endcapture %}
 
 {% include section.html %}
