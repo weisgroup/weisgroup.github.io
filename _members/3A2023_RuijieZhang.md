@@ -2,7 +2,7 @@
 name: Ruijie Zhang
 image: ../images/members/18A.jpg
 description: Master Candidate
-role: Master
+role: Ms
 links:
   email: ruijiezhang@hust.edu.cn
 
