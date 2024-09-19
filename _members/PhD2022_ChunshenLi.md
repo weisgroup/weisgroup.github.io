@@ -1,7 +1,7 @@
 ---
 name: Chunshen Li
 image: https://raw.githubusercontent.com/leeechsh/leeechsh.github.io/master/img/whu20180101.jpg
-description: Ph.D. Candidate（Joined in 2022）
+description: Ph.D. Candidate （Joined in 2022）
 role: PhD
 links:
   email: leeechsh@hust.edu.cn

@@ -1,7 +1,7 @@
 ---
 name: Zhongcheng Jiang
 image: ../images/members/11A.jpg
-description: M.S. Candidate（Joined in 2023）
+description: M.S. Candidate （Joined in 2023）
 role: Ms
 links:
   email: zhongchengj@hust.edu.cn

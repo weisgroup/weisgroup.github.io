@@ -1,7 +1,7 @@
 ---
 name: Zhaoying Huang
 image: ../images/members/5A.jpg
-description: M.S. Candidate（Joined in 2024）
+description: M.S. Candidate （Joined in 2024）
 role: Ms
 links:
   email: 1132145346@qq.com
