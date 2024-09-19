@@ -1,6 +1,6 @@
 ---
 name: Chunshen Li
-image: https://raw.githubusercontent.com/leeechsh/leeechsh.github.io/master/img/whu20180101.jpg
+image: https://s2.loli.net/2024/09/19/b4wKtX81RjqPCID.jpg
 description: Ph.D. Candidate （Joined in 2022）
 role: PhD
 links:
