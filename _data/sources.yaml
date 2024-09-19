@@ -15,11 +15,10 @@
     - open science
     - collaboration
   repo: greenelab/meta-review
-
 # Yonghuang 
 - id: doi:10.1109/TWC.2021.3129188
   image: https://s2.loli.net/2024/09/19/tHzci4XwUbrq7uP.png
-
+# Huixindong
 - id: doi:10.1145/3570361.3592511
   type: paper
   description: Expanding the GNSS signals coverage with backscatter tags
@@ -31,8 +30,8 @@
     - type: source
       text: Manuscript Source
       link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
-    # - type: website
-    #  link: http://manubot.org/
+  # - type: website
+  #  link: http://manubot.org/
   tags:
     - Backscatter Network
     - GPS Sensing
