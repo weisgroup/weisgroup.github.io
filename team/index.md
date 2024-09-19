@@ -42,6 +42,8 @@ Yingying Zuo (Master student, 2021; Previously@SDU, 2017; now with ByteDance, Sh
 
 Haoyu Xiong (Master student, 2021; Previously@CQU, 2017; now with Huawei, Chengdu)
 
+Pengen Gao (Master student, 2020; Previously@HUST, 2016; now with DJI, ShenZhen)
+
 Lieke Chen (Master student, 2020; Previously@HUST, 2016; now with Huawei, Shenzhen)
 
 Yirong Xie (Master student, 2020; Previously@HUST, 2016; now with Realtek, Suzhou)
