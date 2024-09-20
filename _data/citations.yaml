@@ -47,6 +47,86 @@
   - Meta Learning
   plugin: sources.py
   file: sources.yaml
+- id: 10.1145/3581783.3613808
+  title: 'Think before You Leap: Content-Aware Low-Cost Edge-Assisted Video Semantic
+    Segmentation'
+  authors:
+  - Mingxuan Yan
+  - Yi Wang
+  - Xuedou Xiao
+  - Zhiqing Luo
+  - Jianhua He
+  - Wei Wang
+  publisher: Proceedings of the 31st ACM International Conference on Multimedia
+  date: ''
+  link: https://doi.org/g24b9x
+  type: paper
+  shortPublisher: ACM MM'23
+  description: we present Penance, a new edge inference cost reduction framework.
+    By exploiting softmax outputs of VSS models and the prediction mechanism of H.264/AVC
+    codecs, Penance optimizes model selection and compression settings to minimize
+    the inference cost while meeting the required accuracy within the available bandwidth
+    constraints.
+  image: ../images/icon.jpg
+  tags:
+  - Video Streaming
+  - Meta Learning
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1145/3569477
+  title: Non-intrusive Anomaly Detection of Industrial Robot Operations by Exploiting
+    Nonlinear Effect
+  authors:
+  - Zhiqing Luo
+  - Mingxuan Yan
+  - Wei Wang
+  - Qian Zhang
+  publisher: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
+    Technologies
+  date: '2023-01-11'
+  link: https://doi.org/g24b95
+  type: paper
+  shortPublisher: ACM IMWUT'23
+  description: We present RobotScatter, a non-intrusive system that exploits the nonlinear
+    effect of RF circuits to fuse the propagation of backscatter tags attached to
+    the robot to defend against active attacks.
+  image: ../images/icon.jpg
+  tags:
+  - Video Streaming
+  - Meta Learning
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TMC.2024.3408751
+  title: Fairness-aware Two-stage Hybrid Sensing Method in Vehicular Crowdsensing
+  authors:
+  - Zhenning Wang
+  - Yue Cao
+  - Huan Zhou
+  - Libing Wu
+  - Wei Wang
+  - Geyong Min
+  publisher: IEEE Transactions on Mobile Computing
+  date: '2024-01-01'
+  link: https://doi.org/g24cbc
+  shortPublisher: IEEE TWC'24
+  image: ../images/icon.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1109/TITS.2023.3305487
+  title: Robust Metric Localization in Autonomous Driving via Doppler Compensation
+    With Single-Chip Radar
+  authors:
+  - Pengen Gao
+  - Shengkai Zhang
+  - Wei Wang
+  - Chris Xiaoxuan Lu
+  publisher: IEEE Transactions on Intelligent Transportation Systems
+  date: '2024-01-01'
+  link: https://doi.org/g24cbh
+  shortPublisher: IEEE TITS'24
+  image: ../images/icon.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/TWC.2021.3129188
   title: Forgery Attack Detection in Surveillance Video Streams Using Wi-Fi Channel
     State Information
