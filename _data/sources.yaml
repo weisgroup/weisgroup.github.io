@@ -15,13 +15,14 @@
     - open science
     - collaboration
   repo: greenelab/meta-review
-# Yonghuang 
-- id: doi:10.1109/TWC.2021.3129188
-  image: https://s2.loli.net/2024/09/19/tHzci4XwUbrq7uP.png
-# Huixindong
+
+# ###############################################Conference Papers ###########################################################
+
+# 2023
+# Huixindong GPSMirror
 - id: doi:10.1145/3570361.3592511
   type: paper
-  description: Expanding the GNSS signals coverage with backscatter tags
+  description: Expanding the GNSS signals coverage with backscatter tags.
   date: 2023-6-10
   image: https://www.catalyzex.com/_next/image?url=https%3A%2F%2Fd3i71xaburhd42.cloudfront.net%2F531429cc78035c2fc43560d8a7dd09d93fd8b201%2F2-Figure1-1.png&w=384&q=75
   # buttons:
@@ -36,3 +37,28 @@
     - Backscatter Network
     - GPS Sensing
   # repo: greenelab/meta-review
+
+# xuedou Xiao From Ember to Blaze: Swift Interactive Video Adaptation via Meta-Reinforcement Learning
+
+- id: 10.1109/INFOCOM53939.2023.10228909
+  type: paper
+  description: We propose Fiammetta, the first meta-RL-based bitrate adaptation algorithm for interactive video streaming.
+  date: 2023-5-17
+  image: ../images/PaperCover/Fiammetta_INFOCOM2023.png
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - Video Streaming
+    - Meta Learning
+  # repo: greenelab/meta-review
+
+# ############################################### Journal Papers ###########################################################
+# Yonghuang 
+- id: doi:10.1109/TWC.2021.3129188
+  image: https://s2.loli.net/2024/09/19/tHzci4XwUbrq7uP.png
