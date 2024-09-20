@@ -36,7 +36,7 @@
           href="{{ citation.link | relative_url }}"
         {% endif %}
         class="citation-title"
-      >
+      > "["{{ citation.shortPublisher | default: "" }} "]"
         {{ citation.title | default: "[no title info]" }}
       </a>
 

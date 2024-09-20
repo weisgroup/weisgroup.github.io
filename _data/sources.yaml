@@ -22,6 +22,7 @@
 # Huixindong GPSMirror
 - id: doi:10.1145/3570361.3592511
   type: paper
+  shortPublisher: ACM MobiCom'23
   description: Expanding the GNSS signals coverage with backscatter tags.
   date: 2023-6-10
   image: https://www.catalyzex.com/_next/image?url=https%3A%2F%2Fd3i71xaburhd42.cloudfront.net%2F531429cc78035c2fc43560d8a7dd09d93fd8b201%2F2-Figure1-1.png&w=384&q=75
