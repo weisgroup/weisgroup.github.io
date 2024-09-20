@@ -39,6 +39,11 @@
   z-index: 0;
 }
 
+.shortPublisher {
+  font-weight: bold;
+  color: red;
+}
+
 .citation-title,
 .citation-authors,
 .citation-details,
