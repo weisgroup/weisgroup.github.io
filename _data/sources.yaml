@@ -18,8 +18,7 @@
 
 # ###############################################Conference Papers ###########################################################
 
-# 2023
-# Huixindong GPSMirror
+# 2023 Huixin Dong: GPSMirror: Expanding Accurate GPS Positioning to Shadowed and Indoor Regions with Backscatter
 - id: doi:10.1145/3570361.3592511
   type: paper
   shortPublisher: ACM MobiCom'23
@@ -60,8 +59,60 @@
     - Meta Learning
   # repo: greenelab/meta-review
 
+# mingxuan yan Think before You Leap: Content-Aware Low-Cost Edge-Assisted Video Semantic Segmentation
+
+- id: 10.1145/3581783.3613808
+  type: paper
+  shortPublisher: ACM MM'23
+  description: we present Penance, a new edge inference cost reduction framework. By exploiting softmax outputs of VSS models and the prediction mechanism of H.264/AVC codecs, Penance optimizes model selection and compression settings to minimize the inference cost while meeting the required accuracy within the available bandwidth constraints. 
+  date: 2023-27-1
+  image: "../images/icon.jpg"
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - Video Streaming
+    - Meta Learning
+  # repo: greenelab/meta-review
+
+# 2023 zhiqing Luo Non-intrusive Anomaly Detection of Industrial Robot Operations by Exploiting Nonlinear Effect
+- id: 10.1145/3569477
+  type: paper
+  shortPublisher: ACM IMWUT'23
+  description: We present RobotScatter, a non-intrusive system that exploits the nonlinear effect of RF circuits to fuse the propagation of backscatter tags attached to the robot to defend against active attacks.
+  date: 2023-1-11
+  image: "../images/icon.jpg"
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - Video Streaming
+    - Meta Learning
+  # repo: greenelab/meta-review
+
 # ############################################### Journal Papers ###########################################################
-# Yonghuang 
+# 2024 Fairness-aware Two-stage Hybrid Sensing Method in Vehicular Crowdsensing
+- id: doi:10.1109/TMC.2024.3408751
+  shortPublisher: IEEE TWC'24
+  image: "../images/icon.jpg"
+
+# 2024 Robust Metric Localization in Autonomous Driving via Doppler Compensation With Single-Chip Radar
+- id: 10.1109/TITS.2023.3305487
+  shortPublisher: IEEE TITS'24
+  image: "../images/icon.jpg"
+
+
+# Yonghuang 2022
 - id: doi:10.1109/TWC.2021.3129188
   shortPublisher: IEEE TWC'22
   image: https://s2.loli.net/2024/09/19/tHzci4XwUbrq7uP.png
