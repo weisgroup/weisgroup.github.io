@@ -48,6 +48,8 @@ Lieke Chen (Master student, 2020; Previously@HUST, 2016; now with Huawei, Shenzh
 
 Yirong Xie (Master student, 2020; Previously@HUST, 2016; now with Realtek, Suzhou)
 
+Yao Cai (Master student, 2020; Previously@HUST; now with Huawei, Wuhan)
+
 Juecheng Zhang (Master student, 2019; Previously@JLU, 2015; now with Alibaba Antgroup, Beijing)
 
 Wenqin Wang (Master student, 2019; Previously@CSU, 2015; now with TP-LINK, Hangzhou)
