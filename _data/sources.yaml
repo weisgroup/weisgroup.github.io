@@ -44,7 +44,7 @@
   type: paper
   description: We propose Fiammetta, the first meta-RL-based bitrate adaptation algorithm for interactive video streaming.
   date: 2023-5-17
-  image: ../images/PaperCover/Fiammetta_INFOCOM2023.png
+  image: "../images/PaperCover/Fiammetta_INFOCOM2023.png"
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
