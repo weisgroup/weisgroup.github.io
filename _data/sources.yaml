@@ -43,6 +43,7 @@
 
 - id: 10.1109/INFOCOM53939.2023.10228909
   type: paper
+  shortPublisher: IEEE INFOCOM'23
   description: We propose Fiammetta, the first meta-RL-based bitrate adaptation algorithm for interactive video streaming.
   date: 2023-5-17
   image: "../images/PaperCover/Fiammetta_INFOCOM2023.png"
@@ -62,4 +63,5 @@
 # ############################################### Journal Papers ###########################################################
 # Yonghuang 
 - id: doi:10.1109/TWC.2021.3129188
+  shortPublisher: IEEE TWC'21
   image: https://s2.loli.net/2024/09/19/tHzci4XwUbrq7uP.png

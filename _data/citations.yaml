@@ -69,6 +69,7 @@
   date: '2023-05-17'
   link: https://doi.org/g2xzvf
   type: paper
+  shortPublisher: IEEE INFOCOM'23
   description: We propose Fiammetta, the first meta-RL-based bitrate adaptation algorithm
     for interactive video streaming.
   image: ../images/PaperCover/Fiammetta_INFOCOM2023.png
@@ -89,6 +90,7 @@
   publisher: IEEE Transactions on Wireless Communications
   date: '2022-06-01'
   link: https://doi.org/gnt8g4
+  shortPublisher: IEEE TWC'21
   image: https://s2.loli.net/2024/09/19/tHzci4XwUbrq7uP.png
   plugin: sources.py
   file: sources.yaml
