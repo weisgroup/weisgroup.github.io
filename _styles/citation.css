@@ -41,7 +41,7 @@
 
 .shortPublisher {
   font-weight: bold;
-  color: red;
+  color: rgba(155, 64, 193, 0.9490196078);
 }
 
 .citation-title,
