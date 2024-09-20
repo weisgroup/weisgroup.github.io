@@ -1,36 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1145/3570361.3592511
   title: 'GPSMirror: Expanding Accurate GPS Positioning to Shadowed and Indoor Regions
     with Backscatter'
@@ -45,7 +14,7 @@
     and Networking
   date: '2023-06-10'
   link: https://doi.org/g2qdtt
-  type: paper
+  type: conference
   shortPublisher: ACM MobiCom'23
   description: Expanding the GNSS signals coverage with backscatter tags.
   image: https://www.catalyzex.com/_next/image?url=https%3A%2F%2Fd3i71xaburhd42.cloudfront.net%2F531429cc78035c2fc43560d8a7dd09d93fd8b201%2F2-Figure1-1.png&w=384&q=75
@@ -68,7 +37,7 @@
   publisher: IEEE INFOCOM 2023 - IEEE Conference on Computer Communications
   date: '2023-05-17'
   link: https://doi.org/g2xzvf
-  type: paper
+  type: conference
   shortPublisher: IEEE INFOCOM'23
   description: We propose Fiammetta, the first meta-RL-based bitrate adaptation algorithm
     for interactive video streaming.
@@ -90,6 +59,7 @@
   publisher: IEEE Transactions on Wireless Communications
   date: '2022-06-01'
   link: https://doi.org/gnt8g4
+  type: journal
   shortPublisher: IEEE TWC'22
   image: https://s2.loli.net/2024/09/19/tHzci4XwUbrq7uP.png
   plugin: sources.py

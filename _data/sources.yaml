@@ -1,26 +1,8 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
-
 # ###############################################Conference Papers ###########################################################
 
 # 2023 Huixin Dong: GPSMirror: Expanding Accurate GPS Positioning to Shadowed and Indoor Regions with Backscatter
 - id: doi:10.1145/3570361.3592511
-  type: paper
+  type: conference
   shortPublisher: ACM MobiCom'23
   description: Expanding the GNSS signals coverage with backscatter tags.
   date: 2023-6-10
@@ -41,7 +23,7 @@
 # xuedou Xiao From Ember to Blaze: Swift Interactive Video Adaptation via Meta-Reinforcement Learning
 
 - id: 10.1109/INFOCOM53939.2023.10228909
-  type: paper
+  type: conference
   shortPublisher: IEEE INFOCOM'23
   description: We propose Fiammetta, the first meta-RL-based bitrate adaptation algorithm for interactive video streaming.
   date: 2023-5-17
@@ -114,5 +96,6 @@
 
 # Yonghuang 2022
 - id: doi:10.1109/TWC.2021.3129188
+  type: journal
   shortPublisher: IEEE TWC'22
   image: https://s2.loli.net/2024/09/19/tHzci4XwUbrq7uP.png
