@@ -339,6 +339,426 @@
     - 
   # repo: greenelab/meta-review
 
+  # On secure transmission design: An information leakage perspective
+
+- id: doi:10.1109/GLOCOM.2018.8648032
+  type: paper
+  shortPublisher: IEEE GLOBECOM'18
+  description: 
+  date: 2018-12-9
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
+  # Wins: Wifi-inertial indoor state estimation for mavs
+
+- id: doi:10.1145/3274783.3275157
+  type: paper
+  shortPublisher: ACM Conference on Embedded Networked Sensor Systems
+  description: 
+  date: 2018-11-4
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
+  # ShieldScatter: Improving IoT security with backscatter assistance
+
+- id: doi:10.1145/3274783.3274841
+  type: paper
+  shortPublisher: ACM Conference on Embedded Networked Sensor Systems
+  description: 
+  date: 2018-11-4
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
+  # Rainbow: Preventing Mobile-Camera-based Piracy in the Physical World
+
+- id: doi:10.1109/INFOCOM.2018.8485881
+  type: paper
+  shortPublisher: IEEE INFOCOM'18
+  description: 
+  date: 2018-4-16
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
+  # Detecting on-body devices through creeping wave propagation
+
+- id: doi:10.1109/INFOCOM.2017.8057207
+  type: paper
+  shortPublisher: IEEE INFOCOM'17
+  description: 
+  date: 2017-5-1
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
+  # Secret from muscle: Enabling secure pairing with electromyography
+
+- id: doi:10.1145/2994551.2994556
+  type: paper
+  shortPublisher: ACM Conference on Embedded Network Sensor Systems CD-ROM
+  description: 
+  date: 2016-11-14
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
+  # Touch-and-guard: secure pairing through hand resonance
+
+- id: doi:10.1145/2971648.2971688
+  type: paper
+  shortPublisher: ACM International Joint Conference on Pervasive and Ubiquitous Computing
+  description: 
+  date: 2016-9-12
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
+  # Managing channel bonding with clear channel assessment in 802.11 networks
+
+- id: doi:10.1109/ICC.2016.7511455
+  type: paper
+  shortPublisher: IEEE ICC'16
+  description: 
+  date: 2016-5-22
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
+  # VibID: User identification through bio-vibrometry
+
+- id: doi:10.1109/IPSN.2016.7460725
+  type: paper
+  shortPublisher: IEEE IPSN'16
+  description: 
+  date: 2016-4-11
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
+  # Apps on the move: A fine-grained analysis of usage behavior of mobile apps
+
+- id: doi:10.1109/INFOCOM.2016.7524464
+  type: paper
+  shortPublisher: IEEE INFOCOM'16
+  description: 
+  date: 2016-4-10
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
+  # Battery-free sensing platform for wearable devices: The synergy between two feet
+
+- id: doi:10.1109/INFOCOM.2016.7524543
+  type: paper
+  shortPublisher: IEEE INFOCOM'16
+  description: 
+  date: 2016-4-10
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
+  # From rateless to sampleless: Wi-Fi connectivity made energy efficient
+
+- id: doi:10.1109/INFOCOM.2016.7524424
+  type: paper
+  shortPublisher: IEEE INFOCOM'16
+  description: 
+  date: 2016-4-10
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
+  # TiSA: time-dependent social network advertising
+
+- id: doi:10.1109/ICC.2015.7248484
+  type: paper
+  shortPublisher: IEEE ICC'15
+  description: 
+  date: 2015-6-8
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
+  # Changing channel without strings: Coordination-free wideband spectrum adaptation
+
+- id: doi:10.1109/INFOCOM.2015.7218412
+  type: paper
+  shortPublisher: IEEE INFOCOM'15
+  description: 
+  date: 2015-4-26
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
+  # Privacy-preserving location authentication in WiFi with fine-grained physical layer information
+
+- id: doi:10.1109/GLOCOM.2014.7037570
+  type: paper
+  shortPublisher: IEEE GLOCOM'14
+  description: 
+  date: 2014-12-8
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
+  # A stochastic game for privacy preserving context sensing on mobile phone
+
+- id: doi:10.1109/INFOCOM.2014.6848177
+  type: paper
+  shortPublisher: IEEE INFOCOM'14
+  description: 
+  date: 2014-4-27
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
+  # A Privacy-aware Framework for Online Advertisement Targeting
+
+- id: doi:10.1109/GLOCOM.2013.6831555
+  type: paper
+  shortPublisher: IEEE GLOCOM'13
+  description: 
+  date: 2013-12-9
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
+  # Analyzing the Influential People in Sina Weibo Dataset
+
+- id: doi:10.1109/GLOCOM.2013.6831542
+  type: paper
+  shortPublisher: IEEE GLOCOM'13
+  description: 
+  date: 2013-12-9
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
+  # Cooperative Cell Outage Detection in Self-Organizing Femtocell Networks
+
+- id: doi:10.1109/INFCOM.2013.6566865
+  type: paper
+  shortPublisher: IEEE INFCOM'13
+  description: 
+  date: 2013-4-14
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
+  # Cooperative Cell Outage Detection in Self-Organizing Femtocell Networks
+
+- id: doi:10.1109/GLOCOM.2012.6503935
+  type: paper
+  shortPublisher: IEEE GLOCOM'12
+  description: 
+  date: 2012-12-3
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
+  # Transfer Learning Based Diagnosis for Configuration Troubleshooting in Self-Organizing Femtocell Networks
+
+- id: doi:10.1109/GLOCOM.2011.6133802
+  type: paper
+  shortPublisher: IEEE GLOCOM'11
+  description: 
+  date: 2011-12-5
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
 
 
 # ############################################### Journal Papers ###########################################################
@@ -545,4 +965,174 @@
   # 2019 Cross-Technology Communications for Heterogeneous IoT Devices Through Artificial Doppler Shifts
 - id: doi:10.1109/TWC.2018.2883443
   shortPublisher: IEEE TWC'19
+  image:
+
+  # 2018 NALoc: Nonlinear ambient-light-sensor-based localization system
+- id: doi:10.1145/3287077
+  shortPublisher: ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+  image:
+
+  # 2018 Deep reinforcement learning for mobile edge caching: Review, new features, and open issues
+- id: doi:10.1109/MNET.2018.1800109
+  shortPublisher: IEEE MNET'18
+  image:
+
+  # 2018 Caching transient data for Internet of Things: A deep reinforcement learning approach
+- id: doi:10.1109/JIOT.2018.2882583
+  shortPublisher: IEEE JIOT'18
+  image:
+
+  # 2018 Multi-bitrate video caching for D2D-enabled cellular networks
+- id: doi:10.1109/MMUL.2018.2879589
+  shortPublisher: IEEE MMUL'18
+  image:
+
+  # 2018 KPI/KQI-driven coordinated multipoint in 5G: Measurements, field trials, and technical solutions
+- id: doi:10.1109/MWC.2018.1800041
+  shortPublisher: IEEE MWC'18
+  image:
+
+  # 2018 Authenticating on-body backscatter by exploiting propagation signatures
+- id: doi:10.1145/3266002
+  shortPublisher: ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+  image:
+
+  # 2018 Nonlinear-precoded multiuser secure transmission with cooperative jamming and adaptive limited feedback
+- id: doi:10.1109/TVT.2018.2864178
+  shortPublisher: IEEE TVT'18
+  image:
+
+  # 2018 Toward battery-free wearable devices: The synergy between two feet
+- id: doi:10.1145/3185503
+  shortPublisher: ACM Transactions on Cyber-Physical Systems
+  image:
+
+  # 2018 Configurations and diagnosis for ultra-dense heterogeneous networks: From empirical measurements to technical solutions
+- id: doi:10.1109/MNET.2017.1700015
+  shortPublisher: IEEE MNET'18
+  image:
+
+  # 2018 Securing on-body IoT devices by exploiting creeping wave propagation
+- id: doi:10.1109/JSAC.2018.2824939
+  shortPublisher: IEEE JSAC'18
+  image:
+
+  # 2018 Toward cross-layer design for non-orthogonal multiple access: A quality-of-experience perspective
+- id: doi:10.1109/MWC.2018.1700081
+  shortPublisher: IEEE MWC'18
+  image:
+
+  # 2018 Resonance-based secure pairing for wearables
+- id: doi:10.1109/TMC.2018.2809736
+  shortPublisher: IEEE TMC'18
+  image:
+
+  # 2018 Cardiotoxicidade subclínica induzida por antraciclina no seguimento a longo prazo de sobreviventes de linfoma: uma análise speckle tracking multi-layer
+- id: doi:10.5935/abc.20180042
+  shortPublisher: Arquivos Brasileiros de Cardiologia
+  image:
+
+  # 2018 Advances in infrastructure mobility for future networks
+- id: doi:10.1155/2018/3962128
+  shortPublisher: Wireless Communications & Mobile Computing (Online)
+  image:
+
+  # 2017 Personalized user engagement modeling for mobile videos
+- id: doi:10.1016/j.comnet.2017.07.012
+  shortPublisher: Computer Networks
+  image:
+
+  # 2017 Sampleless wi-fi: Bringing low power to wi-fi communications
+- id: doi:10.1109/TNET.2016.2643160
+  shortPublisher: IEEE TNET'17
+  image:
+
+  # 2017 Your glasses know your diet: Dietary monitoring using electromyography sensors
+- id: doi:10.1109/JIOT.2017.2656151
+  shortPublisher: IEEE JIOT'17
+  image:
+
+  # 2016 Wideband spectrum adaptation without coordination
+- id: doi:10.1109/TMC.2016.2538225
+  shortPublisher: IEEE TMC'16
+  image:
+
+  # 2016 Privacy preservation for context sensing on smartphone
+- id: doi:10.1109/TNET.2015.2512301
+  shortPublisher: IEEE TNET'16
+  image:
+
+  # 2016 A software-defined wireless networking enabled spectrum management architecture
+- id: doi:10.1109/MCOM.2016.7378423
+  shortPublisher: IEEE MCOM'16
+  image:
+
+  # 2015 Privacy preservation in location-based advertising: A contract-based approach
+- id: doi:10.1016/j.comnet.2015.10.020
+  shortPublisher: Computer Networks
+  image:
+
+  # 2015 QoE-aware resource allocation for adaptive device-to-device video streaming
+- id: doi:10.1109/MNET.2015.7340418
+  shortPublisher: IEEE MNET'15
+  image:
+
+  # 2015 Privacy-Preserving Location Authentication in Wi-Fi Networks Using Fine-Grained Physical Layer Signatures
+- id: doi:10.1109/TWC.2015.2487453
+  shortPublisher: IEEE TWC'15
+  image:
+
+  # 2015 Outsourcing high-dimensional healthcare data to cloud with personalized privacy preservation
+- id: doi:10.1016/j.comnet.2015.06.014
+  shortPublisher: Computer Networks
+  image:
+
+  # 2015 Toward long-term quality of protection in mobile networks: a context-aware perspective
+- id: doi:10.1109/MWC.2015.7224725
+  shortPublisher: IEEE MWC'15
+  image:
+
+  # 2015 Less transmissions, more throughput: Bringing carpool to public WLANs
+- id: doi:10.1109/ICDCS.2015.100
+  shortPublisher: IEEE ICDCS'15
+  image:
+
+  # 2015 A privacy-aware framework for targeted advertising
+- id: doi:10.1016/j.comnet.2014.12.017
+  shortPublisher: Computer Networks
+  image:
+
+  # 2014 COD: A Cooperative Cell Outage Detection Architecture for Self-Organizing Femtocell Networks
+- id: doi:10.1109/TWC.2014.2360865
+  shortPublisher: IEEE TWC'14
+  image:
+
+  # 2014 Privacy-preserving collaborative spectrum sensing with multiple service providers
+- id: doi:10.1109/TWC.2014.2363357
+  shortPublisher: IEEE TWC'14
+  image:
+
+  # 2014 Local cooperation architecture for self-healing femtocell networks
+- id: doi:10.1109/MWC.2014.6812290
+  shortPublisher: IEEE MWC'14
+  image:
+
+  # 2014 Location Privacy Preservation in Database-Driven Cognitive Radio Networks
+- id: doi:10.1007/978-3-319-01943-7_4
+  shortPublisher: Location Privacy Preservation in Cognitive Radio Networks
+  image:
+
+  # 2014 Privacy Preservation Techniques
+- id: doi:10.1007/978-3-319-01943-7_2
+  shortPublisher: Location Privacy Preservation in Cognitive Radio Networks
+  image:
+
+  # 2014 Future research directions
+- id: doi:10.1007/978-981-19-1797-4_6
+  shortPublisher: Location Privacy Preservation in Cognitive Radio Networks
+  image:
+
+  # 2014 Location Privacy Preservation in Cognitive Radio Networks
+- id: doi:10.1007/978-3-319-01943-7
+  shortPublisher: SpringerBriefs in Computer Science, Springer
   image:

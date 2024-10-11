@@ -12,9 +12,10 @@ Team Description
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: Postdoc" %}
+
 
 {% include section.html %}
+{% include list.html data="members" component="portrait" filters="role: Postdoc" %}
 
 {% include list.html data="members" component="portrait" filters="role: PhD" %}
 {% include list.html data="members" component="portrait" filters="role: Master" %}
