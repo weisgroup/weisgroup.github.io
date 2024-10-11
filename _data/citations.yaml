@@ -348,6 +348,389 @@
   - null
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1109/GLOCOM.2018.8648032
+  title: 'On Secure Transmission Design: An Information Leakage Perspective'
+  authors:
+  - Yong Huang
+  - Wei Wang
+  - Biao He
+  - Liang Sun
+  - Tao Jiang
+  publisher: 2018 IEEE Global Communications Conference (GLOBECOM)
+  date: '2018-12-09'
+  link: https://doi.org/g737w2
+  type: paper
+  shortPublisher: IEEE GLOBECOM'18
+  description: null
+  image: null
+  tags:
+  - null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3274783.3275157
+  title: WINS
+  authors:
+  - Shengkai Zhang
+  - Sheyang Tang
+  - Wei Wang
+  - Tao Jiang
+  publisher: Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems
+  date: '2018-11-04'
+  link: https://doi.org/g737w4
+  type: paper
+  shortPublisher: ACM Conference on Embedded Networked Sensor Systems
+  description: null
+  image: null
+  tags:
+  - null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3274783.3274841
+  title: ShieldScatter
+  authors:
+  - Zhiqing Luo
+  - Wei Wang
+  - Jun Qu
+  - Tao Jiang
+  - Qian Zhang
+  publisher: Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems
+  date: '2018-11-04'
+  link: https://doi.org/g737w7
+  type: paper
+  shortPublisher: ACM Conference on Embedded Networked Sensor Systems
+  description: null
+  image: null
+  tags:
+  - null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/INFOCOM.2018.8485881
+  title: 'Rainbow: Preventing Mobile-Camera-based Piracy in the Physical World'
+  authors:
+  - Lin Yang
+  - Wei Wang
+  - Zeyu Wang
+  - Qian Zhang
+  publisher: IEEE INFOCOM 2018 - IEEE Conference on Computer Communications
+  date: '2018-04-16'
+  link: https://doi.org/ghkmtp
+  type: paper
+  shortPublisher: IEEE INFOCOM'18
+  description: null
+  image: null
+  tags:
+  - null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/INFOCOM.2017.8057207
+  title: Detecting on-body devices through creeping wave propagation
+  authors:
+  - Wei Wang
+  - Yingjie Chen
+  - Lin Yang
+  - Qian Zhang
+  publisher: IEEE INFOCOM 2017 - IEEE Conference on Computer Communications
+  date: '2017-05-01'
+  link: https://doi.org/g737w9
+  type: paper
+  shortPublisher: IEEE INFOCOM'17
+  description: null
+  image: null
+  tags:
+  - null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/2994551.2994556
+  title: Secret from Muscle
+  authors:
+  - Lin Yang
+  - Wei Wang
+  - Qian Zhang
+  publisher: Proceedings of the 14th ACM Conference on Embedded Network Sensor Systems
+    CD-ROM
+  date: '2016-11-14'
+  link: https://doi.org/g737xb
+  type: paper
+  shortPublisher: ACM Conference on Embedded Network Sensor Systems CD-ROM
+  description: null
+  image: null
+  tags:
+  - null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/2971648.2971688
+  title: Touch-and-guard
+  authors:
+  - Wei Wang
+  - Lin Yang
+  - Qian Zhang
+  publisher: Proceedings of the 2016 ACM International Joint Conference on Pervasive
+    and Ubiquitous Computing
+  date: '2016-09-12'
+  link: https://doi.org/gf3cpk
+  type: paper
+  shortPublisher: ACM International Joint Conference on Pervasive and Ubiquitous Computing
+  description: null
+  image: null
+  tags:
+  - null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICC.2016.7511455
+  title: Managing channel bonding with clear channel assessment in 802.11 networks
+  authors:
+  - Wei Wang
+  - Fan Zhang
+  - Qian Zhang
+  publisher: 2016 IEEE International Conference on Communications (ICC)
+  date: '2016-05-22'
+  link: https://doi.org/g737xf
+  type: paper
+  shortPublisher: IEEE ICC'16
+  description: null
+  image: null
+  tags:
+  - null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/IPSN.2016.7460725
+  title: 'VibID: User Identification through Bio-Vibrometry'
+  authors:
+  - Lin Yang
+  - Wei Wang
+  - Qian Zhang
+  publisher: 2016 15th ACM/IEEE International Conference on Information Processing
+    in Sensor Networks (IPSN)
+  date: '2016-04-11'
+  link: https://doi.org/g737xg
+  type: paper
+  shortPublisher: IEEE IPSN'16
+  description: null
+  image: null
+  tags:
+  - null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/INFOCOM.2016.7524464
+  title: 'Apps on the move: A fine-grained analysis of usage behavior of mobile apps'
+  authors:
+  - Lin Yang
+  - Mingxuan Yuan
+  - Wei Wang
+  - Qian Zhang
+  - Jia Zeng
+  publisher: IEEE INFOCOM 2016 - The 35th Annual IEEE International Conference on
+    Computer Communications
+  date: '2016-04-10'
+  link: https://doi.org/g737xh
+  type: paper
+  shortPublisher: IEEE INFOCOM'16
+  description: null
+  image: null
+  tags:
+  - null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/INFOCOM.2016.7524543
+  title: 'Battery-free sensing platform for wearable devices: The synergy between
+    two feet'
+  authors:
+  - Qianyi Huang
+  - Yan Mei
+  - Wei Wang
+  - Qian Zhang
+  publisher: IEEE INFOCOM 2016 - The 35th Annual IEEE International Conference on
+    Computer Communications
+  date: '2016-04-10'
+  link: https://doi.org/ggsgx2
+  type: paper
+  shortPublisher: IEEE INFOCOM'16
+  description: null
+  image: null
+  tags:
+  - null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/INFOCOM.2016.7524424
+  title: 'From rateless to sampleless: Wi-Fi connectivity made energy efficient'
+  authors:
+  - Wei Wang
+  - Yingjie Chen
+  - Lu Wang
+  - Qian Zhang
+  publisher: IEEE INFOCOM 2016 - The 35th Annual IEEE International Conference on
+    Computer Communications
+  date: '2016-04-10'
+  link: https://doi.org/g737xm
+  type: paper
+  shortPublisher: IEEE INFOCOM'16
+  description: null
+  image: null
+  tags:
+  - null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICC.2015.7248484
+  title: 'TiSA: Time-dependent social network advertising'
+  authors:
+  - Wei Wang
+  - Linlin Yang
+  - Qing Liao
+  - Xiang Zhu
+  - Qian Zhang
+  publisher: 2015 IEEE International Conference on Communications (ICC)
+  date: '2015-06-08'
+  link: https://doi.org/g737xn
+  type: paper
+  shortPublisher: IEEE ICC'15
+  description: null
+  image: null
+  tags:
+  - null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/INFOCOM.2015.7218412
+  title: 'Changing channel without strings: Coordination-free wideband spectrum adaptation'
+  authors:
+  - Wei Wang
+  - Yingjie Chen
+  - Zeyu Wang
+  - Jin Zhang
+  - Kaishun Wu
+  - Qian Zhang
+  publisher: 2015 IEEE Conference on Computer Communications (INFOCOM)
+  date: '2015-04-26'
+  link: https://doi.org/g737xx
+  type: paper
+  shortPublisher: IEEE INFOCOM'15
+  description: null
+  image: null
+  tags:
+  - null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/GLOCOM.2014.7037570
+  title: Privacy-preserving location authentication in WiFi with fine-grained physical
+    layer information
+  authors:
+  - Yingjie Chen
+  - Wei Wang
+  - Qian Zhang
+  publisher: 2014 IEEE Global Communications Conference
+  date: '2014-12-08'
+  link: https://doi.org/g737x2
+  type: paper
+  shortPublisher: IEEE GLOCOM'14
+  description: null
+  image: null
+  tags:
+  - null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/INFOCOM.2014.6848177
+  title: A stochastic game for privacy preserving context sensing on mobile phone
+  authors:
+  - Wei Wang
+  - Qian Zhang
+  publisher: IEEE INFOCOM 2014 - IEEE Conference on Computer Communications
+  date: '2014-04-27'
+  link: https://doi.org/g737x5
+  type: paper
+  shortPublisher: IEEE INFOCOM'14
+  description: null
+  image: null
+  tags:
+  - null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/GLOCOM.2013.6831555
+  title: A privacy-aware framework for online advertisement targeting
+  authors:
+  - ' Linlin Yang'
+  - ' Wei Wang'
+  - ' Yanjiao Chen'
+  - ' Qian Zhang'
+  publisher: 2013 IEEE Global Communications Conference (GLOBECOM)
+  date: '2013-12-09'
+  link: https://doi.org/g737x7
+  type: paper
+  shortPublisher: IEEE GLOCOM'13
+  description: null
+  image: null
+  tags:
+  - null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/GLOCOM.2013.6831542
+  title: Analyzing the influential people in Sina Weibo dataset
+  authors:
+  - ' Qing Liao'
+  - ' Wei Wang'
+  - ' Yi Han'
+  - ' Qian Zhang'
+  publisher: 2013 IEEE Global Communications Conference (GLOBECOM)
+  date: '2013-12-09'
+  link: https://doi.org/g737x9
+  type: paper
+  shortPublisher: IEEE GLOCOM'13
+  description: null
+  image: null
+  tags:
+  - null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/INFCOM.2013.6566865
+  title: Cooperative cell outage detection in Self-Organizing femtocell networks
+  authors:
+  - Wei Wang
+  - Jin Zhang
+  - Qian Zhang
+  publisher: 2013 Proceedings IEEE INFOCOM
+  date: '2013-04-14'
+  link: https://doi.org/g737zb
+  type: paper
+  shortPublisher: IEEE INFCOM'13
+  description: null
+  image: null
+  tags:
+  - null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/GLOCOM.2012.6503935
+  title: 'LOGA: Local grouping architecture for self-healing femtocell networks'
+  authors:
+  - Wei Wang
+  - Jin Zhang
+  - Qian Zhang
+  publisher: 2012 IEEE Global Communications Conference (GLOBECOM)
+  date: '2012-12-03'
+  link: https://doi.org/g737zf
+  type: paper
+  shortPublisher: IEEE GLOCOM'12
+  description: null
+  image: null
+  tags:
+  - null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/GLOCOM.2011.6133802
+  title: Transfer Learning Based Diagnosis for Configuration Troubleshooting in Self-Organizing
+    Femtocell Networks
+  authors:
+  - ' Wei Wang'
+  - ' Jin Zhang'
+  - ' Qian Zhang'
+  publisher: 2011 IEEE Global Telecommunications Conference - GLOBECOM 2011
+  date: '2011-12-05'
+  link: https://doi.org/fx8nrv
+  type: paper
+  shortPublisher: IEEE GLOCOM'11
+  description: null
+  image: null
+  tags:
+  - null
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/TWC.2021.3129188
   title: Forgery Attack Detection in Surveillance Video Streams Using Wi-Fi Channel
     State Information
@@ -956,6 +1339,494 @@
   date: '2019-02-01'
   link: https://doi.org/g73sdt
   shortPublisher: IEEE TWC'19
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3287077
+  title: NALoc
+  authors:
+  - Lin Yang
+  - Zeyu Wang
+  - Wei Wang
+  - Qian Zhang
+  publisher: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
+    Technologies
+  date: '2018-12-27'
+  link: https://doi.org/ghkqxr
+  shortPublisher: ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/MNET.2018.1800109
+  title: 'Deep Reinforcement Learning for Mobile Edge Caching: Review, New Features,
+    and Open Issues'
+  authors:
+  - Hao Zhu
+  - Yang Cao
+  - Wei Wang
+  - Tao Jiang
+  - Shi Jin
+  publisher: IEEE Network
+  date: '2018-11-01'
+  link: https://doi.org/grbvm4
+  shortPublisher: IEEE MNET'18
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/JIOT.2018.2882583
+  title: 'Caching Transient Data for Internet of Things: A Deep Reinforcement Learning
+    Approach'
+  authors:
+  - Hao Zhu
+  - Yang Cao
+  - Xiao Wei
+  - Wei Wang
+  - Tao Jiang
+  - Shi Jin
+  publisher: IEEE Internet of Things Journal
+  date: '2019-04-01'
+  link: https://doi.org/gfkrch
+  shortPublisher: IEEE JIOT'18
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/MMUL.2018.2879589
+  title: Multi-Bitrate Video Caching for D2D-Enabled Cellular Networks
+  authors:
+  - Hao Zhu
+  - Yang Cao
+  - Qiwei Hu
+  - Wei Wang
+  - Tao Jiang
+  - Qian Zhang
+  publisher: IEEE MultiMedia
+  date: '2019-01-01'
+  link: https://doi.org/g5mb8p
+  shortPublisher: IEEE MMUL'18
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/MWC.2018.1800041
+  title: 'KPI/KQI-Driven Coordinated Multipoint in 5G: Measurements, Field Trials,
+    and Technical Solutions'
+  authors:
+  - Guochao Song
+  - Wei Wang
+  - Da Chen
+  - Tao Jiang
+  publisher: IEEE Wireless Communications
+  date: '2018-10-01'
+  link: https://doi.org/g737zk
+  shortPublisher: IEEE MWC'18
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3266002
+  title: Authenticating On-Body Backscatter by Exploiting Propagation Signatures
+  authors:
+  - Zhiqing Luo
+  - Wei Wang
+  - Jiang Xiao
+  - Qianyi Huang
+  - Tao jiang
+  - Qian Zhang
+  publisher: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
+    Technologies
+  date: '2018-09-18'
+  link: https://doi.org/g737zx
+  shortPublisher: ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TVT.2018.2864178
+  title: Nonlinear-Precoded Multiuser Secure Transmission With Cooperative Jamming
+    and Adaptive Limited Feedback
+  authors:
+  - Liang Sun
+  - Rui Wang
+  - Wei Wang
+  - Victor C. M. Leung
+  publisher: IEEE Transactions on Vehicular Technology
+  date: '2018-10-01'
+  link: https://doi.org/gfjk7g
+  shortPublisher: IEEE TVT'18
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3185503
+  title: Toward Battery-Free Wearable Devices
+  authors:
+  - Qianyi Huang
+  - Yan Mei
+  - Wei Wang
+  - Qian Zhang
+  publisher: ACM Transactions on Cyber-Physical Systems
+  date: '2018-06-13'
+  link: https://doi.org/g737zz
+  shortPublisher: ACM Transactions on Cyber-Physical Systems
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/MNET.2017.1700015
+  title: 'Configurations and Diagnosis for Ultra-Dense Heterogeneous Networks: From
+    Empirical Measurements to Technical Solutions'
+  authors:
+  - Wei Wang
+  - Lin Yang
+  - Qian Zhang
+  - Tao Jiang
+  publisher: IEEE Network
+  date: '2018-05-01'
+  link: https://doi.org/g737z2
+  shortPublisher: IEEE MNET'18
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/JSAC.2018.2824939
+  title: Securing On-Body IoT Devices By Exploiting Creeping Wave Propagation
+  authors:
+  - Wei Wang
+  - Lin Yang
+  - Qian Zhang
+  - Tao Jiang
+  publisher: IEEE Journal on Selected Areas in Communications
+  date: '2018-04-01'
+  link: https://doi.org/g737z4
+  shortPublisher: IEEE JSAC'18
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/MWC.2018.1700081
+  title: 'Toward Cross-Layer Design for Non-Orthogonal Multiple Access: A Quality-of-Experience
+    Perspective'
+  authors:
+  - Wei Wang
+  - Yuanwei Liu
+  - Zhiqing Luo
+  - Tao Jiang
+  - Qian Zhang
+  - Arumugam Nallanathan
+  publisher: IEEE Wireless Communications
+  date: '2018-04-01'
+  link: https://doi.org/gfxgb6
+  shortPublisher: IEEE MWC'18
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TMC.2018.2809736
+  title: Resonance-Based Secure Pairing for Wearables
+  authors:
+  - Wei Wang
+  - Lin Yang
+  - Qian Zhang
+  publisher: IEEE Transactions on Mobile Computing
+  date: '2018-11-01'
+  link: https://doi.org/g737z6
+  shortPublisher: IEEE TMC'18
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.5935/abc.20180042
+  title: 'Subclinical Anthracycline-Induced Cardiotoxicity in the Long-Term Follow-Up
+    of Lymphoma Survivors: A Multi-Layer Speckle Tracking Analysis'
+  authors:
+  - Yu Kang
+  - Fei Xiao
+  - Haiyan Chen
+  - Wei Wang
+  - Lijing Shen
+  - Hang Zhao
+  - Xuedong Shen
+  - Fangyuan Chen
+  - Ben He
+  publisher: Arquivos Brasileiros de Cardiologia
+  date: '2018-01-01'
+  link: https://doi.org/g737z8
+  shortPublisher: Arquivos Brasileiros de Cardiologia
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1155/2018/3962128
+  title: Advances in Infrastructure Mobility for Future Networks
+  authors:
+  - Lu Wang
+  - Ziming Zhao
+  - Wei Wang
+  publisher: Wireless Communications and Mobile Computing
+  date: '2018-01-01'
+  link: https://doi.org/g7372b
+  shortPublisher: Wireless Communications & Mobile Computing (Online)
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.comnet.2017.07.012
+  title: Personalized user engagement modeling for mobile videos
+  authors:
+  - Lin Yang
+  - Mingxuan Yuan
+  - Yanjiao Chen
+  - Wei Wang
+  - Qian Zhang
+  - Jia Zeng
+  publisher: Computer Networks
+  date: '2017-10-01'
+  link: https://doi.org/gb4nd7
+  shortPublisher: Computer Networks
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TNET.2016.2643160
+  title: 'Sampleless Wi-Fi: Bringing Low Power to Wi-Fi Communications'
+  authors:
+  - Wei Wang
+  - Yingjie Chen
+  - Lu Wang
+  - Qian Zhang
+  publisher: IEEE/ACM Transactions on Networking
+  date: '2017-06-01'
+  link: https://doi.org/gbk5z7
+  shortPublisher: IEEE TNET'17
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/JIOT.2017.2656151
+  title: 'Your Glasses Know Your Diet: Dietary Monitoring Using Electromyography Sensors'
+  authors:
+  - Qianyi Huang
+  - Wei Wang
+  - Qian Zhang
+  publisher: IEEE Internet of Things Journal
+  date: '2017-06-01'
+  link: https://doi.org/g7372h
+  shortPublisher: IEEE JIOT'17
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TMC.2016.2538225
+  title: Wideband Spectrum Adaptation Without Coordination
+  authors:
+  - Wei Wang
+  - Yinejie Chen
+  - Zeyu Wang
+  - Jin Zhang
+  - Kaishun Wu
+  - Qian Zhang
+  publisher: IEEE Transactions on Mobile Computing
+  date: '2017-01-01'
+  link: https://doi.org/g7372m
+  shortPublisher: IEEE TMC'16
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TNET.2015.2512301
+  title: Privacy Preservation for Context Sensing on Smartphone
+  authors:
+  - Wei Wang
+  - Qian Zhang
+  publisher: IEEE/ACM Transactions on Networking
+  date: '2016-12-01'
+  link: https://doi.org/f9mgd5
+  shortPublisher: IEEE TNET'16
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/MCOM.2016.7378423
+  title: A software-defined wireless networking enabled spectrum management architecture
+  authors:
+  - Wei Wang
+  - Yingjie Chen
+  - Qian Zhang
+  - Tao Jiang
+  publisher: IEEE Communications Magazine
+  date: '2016-01-01'
+  link: https://doi.org/g7372n
+  shortPublisher: IEEE MCOM'16
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.comnet.2015.10.020
+  title: 'Privacy preservation in location-based advertising: A contract-based approach'
+  authors:
+  - Wei Wang
+  - Linlin Yang
+  - Qian Zhang
+  publisher: Computer Networks
+  date: '2015-12-01'
+  link: https://doi.org/f747rs
+  shortPublisher: Computer Networks
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/MNET.2015.7340418
+  title: QoE-aware resource allocation for adaptive device-to-device video streaming
+  authors:
+  - Hao Zhu
+  - Yang Cao
+  - Wei Wang
+  - Boxi Liu
+  - Tao Jiang
+  publisher: IEEE Network
+  date: '2015-11-01'
+  link: https://doi.org/g7372s
+  shortPublisher: IEEE MNET'15
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TWC.2015.2487453
+  title: Privacy-Preserving Location Authentication in Wi-Fi Networks Using Fine-Grained
+    Physical Layer Signatures
+  authors:
+  - Wei Wang
+  - Yingjie Chen
+  - Qian Zhang
+  publisher: IEEE Transactions on Wireless Communications
+  date: '2016-02-01'
+  link: https://doi.org/f8b5d7
+  shortPublisher: IEEE TWC'15
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.comnet.2015.06.014
+  title: Outsourcing high-dimensional healthcare data to cloud with personalized privacy
+    preservation
+  authors:
+  - Wei Wang
+  - Lei Chen
+  - Qian Zhang
+  publisher: Computer Networks
+  date: '2015-09-01'
+  link: https://doi.org/f7n8g4
+  shortPublisher: Computer Networks
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/MWC.2015.7224725
+  title: 'Toward long-term quality of protection in mobile networks: a context-aware
+    perspective'
+  authors:
+  - Wei Wang
+  - Qian Zhang
+  publisher: IEEE Wireless Communications
+  date: '2015-08-01'
+  link: https://doi.org/f7qd7r
+  shortPublisher: IEEE MWC'15
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICDCS.2015.100
+  title: 'Less Transmissions, More Throughput: Bringing Carpool to Public WLANs'
+  authors:
+  - Wei Wang
+  - Yingjie Chen
+  - Qian Zhang
+  - Kaishun Wu
+  - Jin Zhang
+  publisher: 2015 IEEE 35th International Conference on Distributed Computing Systems
+  date: '2015-06-01'
+  link: https://doi.org/g7372x
+  shortPublisher: IEEE ICDCS'15
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.comnet.2014.12.017
+  title: A privacy-aware framework for targeted advertising
+  authors:
+  - Wei Wang
+  - Linlin Yang
+  - Yanjiao Chen
+  - Qian Zhang
+  publisher: Computer Networks
+  date: '2015-03-01'
+  link: https://doi.org/f69hp3
+  shortPublisher: Computer Networks
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TWC.2014.2360865
+  title: 'COD: A Cooperative Cell Outage Detection Architecture for Self-Organizing
+    Femtocell Networks'
+  authors:
+  - Wei Wang
+  - Qing Liao
+  - Qian Zhang
+  publisher: IEEE Transactions on Wireless Communications
+  date: '2014-11-01'
+  link: https://doi.org/f6qd3x
+  shortPublisher: IEEE TWC'14
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TWC.2014.2363357
+  title: Privacy-Preserving Collaborative Spectrum Sensing With Multiple Service Providers
+  authors:
+  - Wei Wang
+  - Qian Zhang
+  publisher: IEEE Transactions on Wireless Communications
+  date: '2015-02-01'
+  link: https://doi.org/f62v2k
+  shortPublisher: IEEE TWC'14
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/MWC.2014.6812290
+  title: Local cooperation architecture for self-healing femtocell networks
+  authors:
+  - Wei Wang
+  - Qian Zhang
+  publisher: IEEE Wireless Communications
+  date: '2014-04-01'
+  link: https://doi.org/f54486
+  shortPublisher: IEEE MWC'14
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-319-01943-7_4
+  title: Location Privacy Preservation in Database-Driven Cognitive Radio Networks
+  authors:
+  - Wei Wang
+  - Qian Zhang
+  publisher: SpringerBriefs in Computer Science
+  date: '2013-12-26'
+  link: https://doi.org/g73724
+  shortPublisher: Location Privacy Preservation in Cognitive Radio Networks
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-319-01943-7_2
+  title: Privacy Preservation Techniques
+  authors:
+  - Wei Wang
+  - Qian Zhang
+  publisher: SpringerBriefs in Computer Science
+  date: '2013-12-26'
+  link: https://doi.org/g73726
+  shortPublisher: Location Privacy Preservation in Cognitive Radio Networks
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-981-19-1797-4_6
+  title: Future Research Directions
+  authors:
+  - Youyang Qu
+  - Longxiang Gao
+  - Shui Yu
+  - Yong Xiang
+  publisher: SpringerBriefs in Computer Science
+  date: '2022-01-01'
+  link: https://doi.org/g73727
+  shortPublisher: Location Privacy Preservation in Cognitive Radio Networks
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-319-01943-7
+  title: Location Privacy Preservation in Cognitive Radio Networks
+  authors:
+  - Wei Wang
+  - Qian Zhang
+  publisher: SpringerBriefs in Computer Science
+  date: '2014-01-01'
+  link: https://doi.org/g7373b
+  shortPublisher: SpringerBriefs in Computer Science, Springer
   image: null
   plugin: sources.py
   file: sources.yaml
