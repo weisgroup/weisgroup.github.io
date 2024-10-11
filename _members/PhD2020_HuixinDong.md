@@ -11,7 +11,8 @@ links:
 ---
 
 Huixin Dong is a PhD candidate at Huazhong University of Science and Technology (HUST) under the supervision of [Prof. Wei Wang](https://eic.hust.edu.cn/professor/wangwei/index.html). 
-He collaborates closely with [Prof. Xinyu Zhang](http://xyzhang.ucsd.edu/) at UCSD on the backscatter network. He also collaborate with [Prof. Jie Xiong](https://people.cs.umass.edu/~jxiong/) and [Prof. Lili Qiu](https://www.cs.utexas.edu/~lili/) at Microsoft Research Asia (MSRA) on GPS sensing.
+<!-- He collaborates closely with [Prof. Xinyu Zhang](http://xyzhang.ucsd.edu/) at UCSD on the backscatter network. -->
+He also collaborate with [Prof. Jie Xiong](https://people.cs.umass.edu/~jxiong/) and [Prof. Lili Qiu](https://www.cs.utexas.edu/~lili/) at Microsoft Research Asia (MSRA) on GPS sensing.
 
 Research Interest
 ======
@@ -35,6 +36,6 @@ Services
 ======
 1. Reviewer of IEEE/ACM Transactions on Networking, IEEE Transactions on Mobile Computing, IEEE Internet of Things Journal.
 
-Hobbies
+<!-- Hobbies
 ======
-![Hiking](https://cdn.britannica.com/94/125794-050-FB09B3F4/Hikers-Gore-Range-Mountains-Denver.jpg?w=400&h=300&c=crop) 
+![Hiking](https://cdn.britannica.com/94/125794-050-FB09B3F4/Hikers-Gore-Range-Mountains-Denver.jpg?w=400&h=300&c=crop)  -->
