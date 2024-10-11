@@ -155,3 +155,59 @@ ACTIVITIES AND PROFESSIONAL SERVICES
 	IEEE Senior Member
 
 	ACM Member
+
+ACADEMIC TALKS    
+===
+
+	Multi-Sensor Fusion in Industrial Internet, Invited talk, Suchow University, China 12/2021
+
+	Multi-Sensor Fusion in Industrial Internet, Invited talk, Wuhan University of Technology, China 6/2021
+
+	Peer-Peer Backscatter-Assisted Localization, Invited talk, UCSD, US 7/2019
+
+	Low-cost High-precision Underground Localization and Intruder Detection, Invited talk, Chengdu, China 12/2018
+
+	Wireless-Facilitated Intelligent Multi-UAV Systems: From Ant Swarms to Human-like Society, Invited talk, EUROCOM, Nice, France 9/2018
+
+	Wireless-Facilitated Intelligent Multi-UAV Systems: From Ant Swarms to Human-like Society, EAI MobiMedia Keynote Speech, Qingdao, China 6/2018
+
+	Securing On-body Smart Devices By Exploiting Body Channels, Southern University of Science and Technology, Shenzhen, China 4/2017
+
+	From Rateless to Sampleless: Wi-Fi Connectivity Made Energy Efficient, University of Science and Technology of China, Hefei, China 3/2017
+
+	From Rateless to Sampleless: Wi-Fi Connectivity Made Energy Efficient, HKUST MIT Research Alliance Consortium, Hong Kong, China 1/2016
+
+	Efficient Channel Access and Spectrum Adaptation in Extremely Dense Wireless Networks, East Lake International Forum for Outstanding Overseas Young Scholars, Wuhan, China 12/2015
+
+	Sparse Recovery in Dynamic Spectrum Access, Department of Information Engineering, Chinese University of Hong Kong (CUHK), Hong Kong 1/2015  Invited by Prof. Minghua Chen from CUHK
+
+	Wi-Fi Teeter-Totter: Overclocking OFDM for Internet of Things, IEEE INFOCOM, Honolulu, HI, USA 4/2018
+
+	Rainbow: Preventing Mobile-Camera-based Piracy in the Physical World, IEEE INFOCOM, Honolulu, HI, USA 4/2018
+
+	Detecting On-Body Devices Through Creeping Wave Propagation, IEEE INFOCOM, Atlanta, GA, USA 4/2017
+
+	Touch-And-Guard: Secure Pairing Through Hand Resonance, Southern University of Science and Technology, ACM UbiComp, Heidelberg, Germany 9/2016
+
+	Managing Channel Bonding with Clear Channel Assessment in 802.11 Networks. IEEE ICC, Kuala Lumpur, Malaysia 5/2016
+
+	From Rateless to Sampleless: Wi-Fi Connectivity Made Energy Efficient, IEEE INFOCOM, San Francisco, CA, USA 4/2016
+
+	Apps on the Move: A Fine-Grained Analysis of Usage Behavior of Mobile Apps, IEEE INFOCOM, San Francisco, CA, USA 4/2016
+
+	Changing Channel without Strings: Coordination-Free Wideband Spectrum Adaptation, IEEE INFOCOM, Hong Kong, China 4/2015
+
+	Privacy-Preserving Location Authentication in WiFi with Fine-Grained Physical Layer Information, IEEE GLOBECOM, Austin, TX, USA 12/2014
+
+	A Stochastic Game for Privacy Preserving Context Sensing on Mobile Phone, IEEE INFOCOM, Toronto, ON, Canada 4/2014
+
+	Cooperative Cell Outage Detection in Self-Organizing Femtocell Networks, IEEE INFOCOM, Turin, Italy 4/2013
+
+	Remote Monitoring: The Application of Internet of Healthcare Things, the Department of Industrial Engineering and Logistics Management (IELM), HKUST, Hong Kong 2/2013
+
+	Audience includes the company chief of Hangzhou Heze Pharmaceutical Tech. CO., LTD, Zhejiang Advanced Manufacturing Institute (ZAMI) of HKUST
+
+	LOGA: Local Grouping Architecture for Self-Healing Femtocell Networks, IEEE GLOBECOM, Anaheim, CA, USA 12/2012
+
+	Transfer Learning Based Diagnosis for Configuration Troubleshooting in Self-Organizing Femtocell Networks, IEEE GLOBECOM, Houston, TX, USA
+
