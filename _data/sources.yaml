@@ -1,8 +1,26 @@
+- id: doi:10.1371/journal.pcbi.1007128
+  type: paper
+  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  date: 2020-12-4
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  buttons:
+    - type: manubot
+      link: https://greenelab.github.io/meta-review/
+    - type: source
+      text: Manuscript Source
+      link: https://github.com/greenelab/meta-review
+    - type: website
+      link: http://manubot.org/
+  tags:
+    - open science
+    - collaboration
+  repo: greenelab/meta-review
+
 # ###############################################Conference Papers ###########################################################
 
-# 2023 Huixin Dong: GPSMirror: Expanding Accurate GPS Positioning to Shadowed and Indoor Regions with Backscatter
+# 2023
 - id: doi:10.1145/3570361.3592511
-  type: conference
+  type: paper
   shortPublisher: ACM MobiCom'23
   description: Expanding the GNSS signals coverage with backscatter tags.
   date: 2023-6-10
@@ -23,7 +41,7 @@
 # xuedou Xiao From Ember to Blaze: Swift Interactive Video Adaptation via Meta-Reinforcement Learning
 
 - id: 10.1109/INFOCOM53939.2023.10228909
-  type: conference
+  type: paper
   shortPublisher: IEEE INFOCOM'23
   description: We propose Fiammetta, the first meta-RL-based bitrate adaptation algorithm for interactive video streaming.
   date: 2023-5-17
@@ -41,14 +59,14 @@
     - Meta Learning
   # repo: greenelab/meta-review
 
-# mingxuan yan Think before You Leap: Content-Aware Low-Cost Edge-Assisted Video Semantic Segmentation
+# Think before You Leap: Content-Aware Low-Cost Edge-Assisted Video Semantic Segmentation
 
-- id: 10.1145/3581783.3613808
+- id: doi:10.1145/3581783.3613808
   type: paper
   shortPublisher: ACM MM'23
-  description: we present Penance, a new edge inference cost reduction framework. By exploiting softmax outputs of VSS models and the prediction mechanism of H.264/AVC codecs, Penance optimizes model selection and compression settings to minimize the inference cost while meeting the required accuracy within the available bandwidth constraints. 
-  date: 2023-27-1
-  image: "../images/icon.jpg"
+  description: 
+  date: 2023-10-27
+  image: 
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
@@ -58,17 +76,17 @@
   # - type: website
   #  link: http://manubot.org/
   tags:
-    - Video Streaming
-    - Meta Learning
+    - 
   # repo: greenelab/meta-review
 
-# 2023 zhiqing Luo Non-intrusive Anomaly Detection of Industrial Robot Operations by Exploiting Nonlinear Effect
-- id: 10.1145/3569477
+# Step and Save: A Wearable Technology Based Incentive Mechanism for Health Insurance
+
+- id: doi:10.1007/978-981-99-7872-4_19
   type: paper
-  shortPublisher: ACM IMWUT'23
-  description: We present RobotScatter, a non-intrusive system that exploits the nonlinear effect of RF circuits to fuse the propagation of backscatter tags attached to the robot to defend against active attacks.
-  date: 2023-1-11
-  image: "../images/icon.jpg"
+  shortPublisher: APPT'23
+  description: 
+  date: 2023-11-8
+  image: 
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
@@ -78,24 +96,453 @@
   # - type: website
   #  link: http://manubot.org/
   tags:
-    - Backscatter Network
-    - Security
+    - 
   # repo: greenelab/meta-review
+
+# FedGR: Federated Learning with Gravitation Regulation for Double Imbalance Distribution
+
+- id: doi:10.1007/978-3-031-30637-2_47
+  type: paper
+  shortPublisher: DASFAA'23
+  description: 
+  date: 2023-4-14
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
+# DNN-Driven Compressive Offloading for Edge-Assisted Semantic Video Segmentation
+
+- id: doi:10.1109/INFOCOM48880.2022.9796657
+  type: paper
+  shortPublisher: IEEE INFOCOM'22
+  description: 
+  date: 2022-5-2
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
+# Conquering Textureless with RF-referenced Monocular Vision for MAV State Estimation
+
+- id: doi:10.1109/ICRA48506.2021.9560744
+  type: paper
+  shortPublisher: IEEE ICRA'21
+  description: 
+  date: 2021-5-30
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
+# Towards Cross-Modal Forgery Detection and Localization on Live Surveillance Videos
+
+- id: doi:10.1109/INFOCOM42981.2021.9488798
+  type: paper
+  shortPublisher: IEEE INFOCOM'21
+  description: 
+  date: 2021-5-10
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
+# RF Backscatter-based State Estimation for Micro Aerial Vehicles
+
+- id: doi:10.1109/INFOCOM41043.2020.9155463
+  type: paper
+  shortPublisher: IEEE INFOCOM'20
+  description: 
+  date: 2020-7-6
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
+# Reliable Wide-Area Backscatter via Channel Polarization
+
+- id: doi:10.1109/INFOCOM41043.2020.9155391
+  type: paper
+  shortPublisher: IEEE INFOCOM'20
+  description: 
+  date: 2020-7-6
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
+# Lightweight Sybil-Resilient Multi-Robot Networks by Multipath Manipulation
+
+- id: doi:10.1109/INFOCOM41043.2020.9155244
+  type: paper
+  shortPublisher: IEEE INFOCOM'20
+  description: 
+  date: 2020-7-6
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
+# ECGadv: Generating Adversarial Electrocardiogram to Misguide Arrhythmia Classification System
+
+- id: doi:10.1609/aaai.v34i04.5748
+  type: paper
+  shortPublisher: AAAI'20
+  description: 
+  date: 2020-4-3
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
+# Energy Beamforming for Wireless Information and Power Transfer in Backscatter Multiuser Networks
+
+- id: doi:10.1109/GLOBECOM38437.2019.9013912
+  type: paper
+  shortPublisher: IEEE GLOBECOM'19
+  description: 
+  date: 2019-12-9
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
+# Localizing Backscatters by a Single Robot with Zero Start-Up Cost
+
+- id: doi:10.1109/GLOBECOM38437.2019.9013768
+  type: paper
+  shortPublisher: IEEE GLOBECOM'19
+  description: 
+  date: 2019-12-9
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
+# Spatial Modulation for Ambient Backscatter Communications: Modeling and Analysis
+
+- id: doi:10.1109/GLOBECOM38437.2019.9013382
+  type: paper
+  shortPublisher: IEEE GLOBECOM'19
+  description: 
+  date: 2019-12-9
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
+# Towards Motion Invariant Authentication for On-Body IoT Devices
+
+- id: doi:10.1109/ICC.2019.8761982
+  type: paper
+  shortPublisher: IEEE ICC'19
+  description: 
+  date: 2019-5-20
+  image: 
+  # buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  #  - type: source
+  #    text: Manuscript Source
+  #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
+  # - type: website
+  #  link: http://manubot.org/
+  tags:
+    - 
+  # repo: greenelab/meta-review
+
+
 
 # ############################################### Journal Papers ###########################################################
-# 2024 Fairness-aware Two-stage Hybrid Sensing Method in Vehicular Crowdsensing
-- id: doi:10.1109/TMC.2024.3408751
-  shortPublisher: IEEE TWC'24
-  image: "../images/icon.jpg"
-
-# 2024 Robust Metric Localization in Autonomous Driving via Doppler Compensation With Single-Chip Radar
-- id: 10.1109/TITS.2023.3305487
-  shortPublisher: IEEE TITS'24
-  image: "../images/icon.jpg"
-
-
 # Yonghuang 2022
 - id: doi:10.1109/TWC.2021.3129188
-  type: journal
   shortPublisher: IEEE TWC'22
   image: https://s2.loli.net/2024/09/19/tHzci4XwUbrq7uP.png
+
+  # 2024 Accurate Indoor Localization for Bluetooth Low Energy Backscatter
+- id: doi:10.1109/JIOT.2024.3468428
+  shortPublisher: IEEE JIOT'24
+  image: 
+
+  # 2024 Task-Oriented Video Compressive Streaming for Real-time Semantic Segmentation
+- id: doi:10.1109/TMC.2024.3446185
+  shortPublisher: IEEE TMC'24
+  image: 
+
+  # 2024 Fairness-aware Two-stage Hybrid Sensing Method in Vehicular Crowdsensing
+- id: doi:10.1109/TMC.2024.3408751
+  shortPublisher: IEEE TMC'24
+  image: 
+
+  # 2023 Robust Metric Localization in Autonomous Driving via Doppler Compensation With Single-Chip Radar
+- id: doi:10.1109/TITS.2023.3305487
+  shortPublisher: IEEE TITS'23
+  image: 
+
+  # 2023 Low-Complexity Symbol Reconstruction Based on Direct Symbol Decision for FBMC-OQAM Systems
+- id: doi:10.1109/TSP.2023.3328061
+  shortPublisher: IEEE TSP'23
+  image: 
+
+  # 2023 Toward ubiquitous and intelligent 6G networks: from architecture to technology
+- id: doi:10.1007/s11432-023-3704-8
+  shortPublisher: Science China. Information Sciences
+  image: 
+
+  # 2023 Over-the-Air Adversarial Attacks on Deep Learning Wi-Fi Fingerprinting
+- id: doi:10.1109/JIOT.2023.3236314
+  shortPublisher: IEEE JIOT'23
+  image: 
+
+  # 2023 Non-intrusive Anomaly Detection of Industrial Robot Operations by Exploiting Nonlinear Effect
+- id: doi:10.1145/3569477
+  shortPublisher: ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+  image: 
+
+  # 2022 Delay-Aware Cooperative Task Offloading for Multi-UAV Enabled Edge-Cloud Computing
+- id: doi:10.1109/TMC.2022.3232375
+  shortPublisher: IEEE TMC'22
+  image: 
+
+  # 2022 InFit: Combination Movement Recognition for Intensive Fitness Assistant via Wi-Fi
+- id: doi:10.1109/TMC.2022.3209656
+  shortPublisher: IEEE TMC'22
+  image: 
+
+  # 2021 Single-Antenna Device-to-Device Localization in Smart Environments With Backscatter
+- id: doi:10.1109/JIOT.2021.3121794
+  shortPublisher: IEEE JIOT'21
+  image: 
+
+  # 2022 DC-Loc: Accurate Automotive Radar Based Metric Localization with Explicit Doppler Compensation
+- id: doi:10.1109/ICRA46639.2022.9811561
+  shortPublisher: IEEE ICRA'22
+  image: 
+
+  # 2022 Covert Communication With Uninformed Backscatters in Hybrid Active/Passive Wireless Networks: Modeling and Performance Analysis
+- id: doi:10.1109/TCOMM.2022.3147791
+  shortPublisher: IEEE TCOMM'22
+  image: 
+
+  # 2022 Ultra-low-power backscatter-based software-defined radio for intelligent and simplified IoT network
+- id: doi:10.1631/FITEE.2100321
+  shortPublisher: FITEE'22
+  image:   
+
+  # 2021 Sensor-Assisted Rate Adaptation for UAV MU-MIMO Networks
+- id: doi:10.1109/TNET.2021.3136911
+  shortPublisher: IEEE TNET'21
+  image:  
+
+  # 2021 Forgery Attack Detection in Surveillance Video Streams Using Wi-Fi Channel State Information
+- id: doi:10.1109/TWC.2021.3129188
+  shortPublisher: IEEE TWC'21
+  image:  
+
+  # 2021 Securing IoT Devices by Exploiting Backscatter Propagation Signatures
+- id: doi:10.1109/TMC.2021.3084754
+  shortPublisher: IEEE TMC'21
+  image:  
+
+  # 2021 Exploiting Channel Polarization for Reliable Wide-Area Backscatter Networks
+- id: doi:10.1109/TMC.2021.3075549
+  shortPublisher: IEEE TMC'21
+  image:  
+
+  # 2021 RepChain: A Reputation-Based Secure, Fast, and High Incentive Blockchain System via Sharding
+- id: doi:10.1109/JIOT.2020.3028449
+  shortPublisher: IEEE JIOT'21
+  image:  
+
+  # 2021 LoRa Backscatter Assisted State Estimator for Micro Aerial Vehicles With Online Initialization
+- id: doi:10.1109/TMC.2021.3063850
+  shortPublisher: IEEE TMC'21
+  image:  
+
+  # 2020 Joint Energy Harvest and Information Transfer for Energy Beamforming in Backscatter Multiuser Networks
+- id: doi:10.1109/TCOMM.2020.3036049
+  shortPublisher: IEEE TCOMM'20
+  image:  
+
+  # 2021 Detecting Colluding Sybil Attackers in Robotic Networks Using Backscatters
+- id: doi:10.1109/TNET.2020.3048126
+  shortPublisher: IEEE TNET'21
+  image:
+
+  # 2021 Accurate Automotive Radar Based Metric Localization with Explicit Doppler Compensation
+- id: doi:10.48550/arXiv.2112.14887
+  shortPublisher: arXiv'21
+  image:
+
+  # 2020 Spatial modulation-based ambient backscatter: Bringing energy self-sustainability to massive internet of everything in 6G
+- id: doi:10.23919/JCC.2020.12.004
+  shortPublisher: IEEE JCC'20
+  image:
+
+  # 2020 LoRadar: Enabling Concurrent Radar Sensing and LoRa Communication
+- id: doi:10.1109/TMC.2020.3035797
+  shortPublisher: IEEE TMC'20
+  image:
+
+  # 2020 A Two-Stage Game Framework to Secure Transmission in Two-Tier UAV Networks
+- id: doi:10.1109/TVT.2020.3026184
+  shortPublisher: IEEE TVT'20
+  image:
+
+  # 2020 Peer-to-Peer Localization for Single-Antenna Devices
+- id: doi:10.1145/3411833
+  shortPublisher: ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+  image:
+
+  # 2020 Robot-Assisted Backscatter Localization for IoT Applications
+- id: doi:10.1109/TWC.2020.2997393
+  shortPublisher: IEEE TWC'20
+  image:
+
+  # 2020 Authenticating On-Body IoT Devices: An Adversarial Learning Approach
+- id: doi:10.1109/TWC.2020.2991111
+  shortPublisher: IEEE TWC'20
+  image:
+
+  # 2020 Wi-Fi-Inertial Indoor Pose Estimation for Microaerial Vehicles
+- id: doi:10.1109/TIE.2020.2984457
+  shortPublisher: IEEE TIE'20
+  image:
+
+  # 2020 FreeScatter: Enabling Concurrent Backscatter Communication Using Antenna Arrays
+- id: doi:10.1109/JIOT.2020.2984877
+  shortPublisher: IEEE JIOT'20
+  image:
+
+  # 2020 Enabling Low-Power OFDM for IoT by Exploiting Asymmetric Clock Rates
+- id: doi:10.1109/TNET.2020.2966112
+  shortPublisher: IEEE TNET'20
+  image:
+
+  # 2020 Securing Channel State Information in Multiuser MIMO With Limited Feedback
+- id: doi:10.1109/TWC.2020.2970412
+  shortPublisher: IEEE TWC'20
+  image:
+
+  # 2019 EchoFace: Acoustic Sensor-Based Media Attack Detection for Face Authentication
+- id: doi:10.1109/JIOT.2019.2959203
+  shortPublisher: IEEE JIOT'19
+  image:
+
+  # 2019 Joint C-OMA and C-NOMA Wireless Backhaul Scheduling in Heterogeneous Ultra Dense Networks
+- id: doi:10.1109/TWC.2019.2949791
+  shortPublisher: IEEE TWC'19
+  image:
+
+  # 2019 State-Aware Rate Adaptation for UAVs by Incorporating On-Board Sensors
+- id: doi:10.1109/TVT.2019.2950285
+  shortPublisher: IEEE TVT'19
+  image:
+
+  # 2019 Sensor-Augmented Neural Adaptive Bitrate Video Streaming on UAVs
+- id: doi:10.1109/TMM.2019.2945167
+  shortPublisher: IEEE TMM'19
+  image:
+
+  # 2019 Incentive Mechanism for Cooperative Scalable Video Coding (SVC) Multicast Based on Contract Theory
+- id: doi:10.1109/TMM.2019.2929965
+  shortPublisher: IEEE TMM'19
+  image:
+
+  # 2019 Downlink Channel Prediction for Time-Varying FDD Massive MIMO Systems
+- id: doi:10.1109/JSTSP.2019.2931671
+  shortPublisher: IEEE JSTSP'19
+  image:
+
+  # 2019 Cross-Technology Communications for Heterogeneous IoT Devices Through Artificial Doppler Shifts
+- id: doi:10.1109/TWC.2018.2883443
+  shortPublisher: IEEE TWC'19
+  image:
