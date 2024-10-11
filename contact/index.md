@@ -34,7 +34,7 @@ If interested and have the right background, please email me at weiwangw (AT) hu
   link="https://www.google.com/maps"
 %}
 
-{% include section.html %}
+<!-- {% include section.html %}
 
 {% capture col1 %}
 
@@ -62,7 +62,7 @@ If interested and have the right background, please email me at weiwangw (AT) hu
   include figure.html
   image= "https://cdn.icon-icons.com/icons2/2699/PNG/512/tencent_logo_icon_169619.png"
   caption="Tencent"
-%}
+%} -->
 
 {% endcapture %}
 
