@@ -1,6 +1,6 @@
 ---
 name: Feiyu Li
-image: ../images/members/13A.jpg
+image: ../images/members/FeiyuLi.jpg
 description: M.S. Candidate （Joined in 2024）
 role: Master
 links:

@@ -1,6 +1,6 @@
 ---
 name: Shuang Yi
-image: ../images/members/4A.jpg
+image: ../images/members/ShuangYi.jpg
 description: Ph.D. Candidate （Joined in 2024）
 role: PhD
 links:

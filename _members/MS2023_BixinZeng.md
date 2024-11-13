@@ -1,6 +1,6 @@
 ---
 name: Bixin Zeng
-image: ../images/members/21A.jpg
+image: ../images/members/BixingZeng.jpg
 description: M.S. Candidate （Joined in 2023）
 role: Master
 links:

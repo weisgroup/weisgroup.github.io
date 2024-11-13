@@ -1,6 +1,6 @@
 ---
 name: Zhongcheng Jiang
-image: ../images/members/11A.jpg
+image: ../images/members/ZhongchengJiang.jpg
 description: M.S. Candidate （Joined in 2023）
 role: Master
 links:

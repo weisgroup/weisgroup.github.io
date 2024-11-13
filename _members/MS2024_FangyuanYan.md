@@ -1,6 +1,6 @@
 ---
 name: Fangyuan Yan
-image: ../images/members/6A.jpg
+image: ../images/members/FangyuanYan.jpg
 description: M.S. Candidate （Joined in 2024）
 role: Master
 links:

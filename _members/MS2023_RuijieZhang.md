@@ -1,6 +1,6 @@
 ---
 name: Ruijie Zhang
-image: ../images/members/18A.jpg
+image: ../images/members/RuijieZhang.jpg
 description: M.S. Candidate （Joined in 2023）
 role: Master
 links:

@@ -1,6 +1,6 @@
 ---
 name: Weiming Li
-image: ../images/members/15A.jpg
+image: ../images/members/WeimingLi.jpg
 description: M.S. Candidate （Joined in 2024）
 role: Master
 links:

@@ -1,6 +1,6 @@
 ---
 name: Zhaoying Huang
-image: ../images/members/5A.jpg
+image: ../images/members/ZhaoyingHuang.jpg
 description: M.S. Candidate （Joined in 2024）
 role: Master
 links:

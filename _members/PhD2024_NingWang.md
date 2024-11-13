@@ -1,6 +1,6 @@
 ---
 name: Ning Wang
-image: ../images/members/19A.jpg
+image: ../images/members/NingWang.jpg
 description: Ph.D. Candidate （Joined in 2024）
 role: PhD
 links:

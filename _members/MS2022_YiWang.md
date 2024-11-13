@@ -1,6 +1,6 @@
 ---
 name: Yi Wang
-image: ../images/members/10A.jpg
+image: ../images/members/YiWang.jpg
 description: M.S. Candidate （Joined in 2022）
 role: Master
 links:
@@ -22,7 +22,7 @@ Selected Publications in MateIoT lab
 ======
 1. Think before You Leap: Content-Aware Low-Cost Edge-Assisted Video Semantic Segmentation, **ACM MM**, 2023.
     Mingxuan Yan, **Yi Wang**, Xuedou Xiao, Zhiqing Luo, Jianhua He, and Wei Wang.
-      
+    
 Hobbies
 ======
 - ping pong

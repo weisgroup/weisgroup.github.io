@@ -1,6 +1,6 @@
 ---
 name: Xin Chen
-image: ../images/members/16A.jpg
+image: ../images/members/XinChen.jpg
 description: M.S. Candidate （Joined in 2024）
 role: Master
 links:
@@ -21,7 +21,7 @@ Backscatter Network
 Selected Publications in MateIoT lab
 ======
 
-      
+
 Services
 ======
 

@@ -1,6 +1,6 @@
 ---
 name: Chen Ze
-image: ../images/members/12A.jpg
+image: ../images/members/ZeChen.jpg
 description: M.S. Candidate （Joined in 2024）
 role: Master
 links:

@@ -1,6 +1,6 @@
 ---
 name: Yuxuan Wei
-image: ../images/members/17A.jpg
+image: ../images/members/YuxuanWei.jpg
 description: M.S. Candidate （Joined in 2024）
 role: Master
 links:

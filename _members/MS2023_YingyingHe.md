@@ -1,6 +1,6 @@
 ---
 name: Yingying He
-image: ../images/members/20A.jpg
+image: ../images/members/YingyingHe.jpg
 description: M.S. Candidate （Joined in 2023）
 role: Master
 links:
