@@ -1,6 +1,6 @@
 ---
 name: Xinyi Wu
-image: ../images/members/9A.jpg
+image: ../images/members/XinyiWu.jpg
 description: M.S. Candidate （Joined in 2022）
 role: Master
 links:
