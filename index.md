@@ -13,9 +13,9 @@ Our research group is at the forefront of developing innovative sensing, communi
 
 {% capture text %}
 
-##### LowPower,LongRange Backscatter 
-##### BLE，WiFi,RFID 
-##### Universalwireless,batteryless, flexiblesticker-likesensing platorm
+- LowPower,LongRange Backscatter 
+- BLE，WiFi,RFID 
+- Universalwireless,batteryless, flexiblesticker-likesensing platorm
 
 {%
   include button.html
@@ -38,9 +38,9 @@ Our research group is at the forefront of developing innovative sensing, communi
 
 {% capture text %}
 
-##### MultipleTechnologies:WiFi UWB,BLE,LTE,
-##### 5GNR PrivacypreservingSensing
-##### CM-accurateLocalization 
+- MultipleTechnologies:WiFi UWB,BLE,LTE,
+- 5GNR PrivacypreservingSensing
+- CM-accurateLocalization 
 
 {%
   include button.html
@@ -65,9 +65,9 @@ Our research group is at the forefront of developing innovative sensing, communi
 
 {% capture text %}
 
-##### Multi-sensorfusion:Radar, Camera,Lidar,GPS,IMU 
-##### Autonomous navigation,path  planning,
-##### Indoormapping Low-power reflective tags for smart infrastructure
+- Multi-sensorfusion:Radar, Camera,Lidar,GPS,IMU 
+- Autonomous navigation,path  planning,
+- Indoormapping Low-power reflective tags for smart infrastructure
 
 {%
   include button.html
