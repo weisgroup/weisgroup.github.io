@@ -5,6 +5,7 @@ a {
   color: var(--primary);
   transition: color var(--transition);
   overflow-wrap: break-word;
+  text-decoration: none;
 }
 
 a:hover {

@@ -71,13 +71,6 @@ search:
   tooltip: Search
 
 # social media
-
-orcid:
-  icon: fa-brands fa-orcid
-  text: ORCID
-  tooltip: ORCID
-  link: https://orcid.org/$VALUE
-
 google-scholar:
   icon: fa-brands fa-google
   text: Google Scholar
@@ -90,36 +83,11 @@ github:
   tooltip: GitHub
   link: https://github.com/$VALUE
 
-twitter:
-  icon: fa-brands fa-twitter
-  text: Twitter
-  tooltip: Twitter
-  link: https://twitter.com/$VALUE
-
-facebook:
-  icon: fa-brands fa-facebook
-  text: Facebook
-  tooltip: Facebook
-  link: https://facebook.com/$VALUE
-
 instagram:
   icon: fa-brands fa-instagram
   text: Instagram
   tooltip: Instagram
   link: https://instagram.com/$VALUE
-
-youtube:
-  icon: fa-brands fa-youtube
-  text: YouTube
-  tooltip: YouTube
-  link: https://youtube.com/$VALUE
-
-linkedin:
-  icon: fa-brands fa-linkedin
-  text: LinkedIn
-  tooltip: LinkedIn
-  link: https://www.linkedin.com/in/$VALUE
-
 # alerts
 
 tip:

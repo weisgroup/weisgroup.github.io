@@ -2,6 +2,11 @@
 <script src="https://unpkg.com/@popperjs/core@2" defer></script>
 <script src="https://unpkg.com/tippy.js@6" defer></script>
 <script src="https://unpkg.com/mark.js@8" defer></script>
+<script src="../_scripts/jquery-3.5.1.min.js"></script>
+<script type="text/javascript"
+        src="https://webapi.amap.com/maps?v=2.0&key=06fbd742c38d2ab0c770f647c7f45367"></script>
+<!-- Slick Carousel JS -->
+<script type="text/javascript" src="../_scripts/slick.min.js" ></script>
 
 <!-- include all js in scripts folder -->
 {% assign scripts = site.static_files | where_exp: "file", "file.path contains '/_scripts'" %}

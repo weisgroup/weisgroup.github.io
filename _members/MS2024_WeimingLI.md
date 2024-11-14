@@ -1,7 +1,7 @@
 ---
 name: Weiming Li
 image: ../images/members/WeimingLi.jpg
-description: M.S. Candidate （Joined in 2024）
+description: Ms,2024
 role: Master
 links:
   email: 3210815872@qq.com

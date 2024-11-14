@@ -1,7 +1,7 @@
 ---
 name: Shengpeng Wang
 image: ../images/members/ShengpengWang.jpg
-description: Ph.D. Candidate （Joined in 2022）
+description: PhD,2022
 role: PhD
 links:
   email: wsp666@hust.edu.cn

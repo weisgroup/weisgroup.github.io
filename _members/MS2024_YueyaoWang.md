@@ -1,7 +1,7 @@
 ---
 name: Yueyao Wang
 image: ../images/members/YueyaoWang.jpg
-description: M.S. Candidate （Joined in 2024）
+description: Ms,2024
 role: Master
 links:
   email: 437747778@qq.com

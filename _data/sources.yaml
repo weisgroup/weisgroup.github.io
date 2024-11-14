@@ -20,7 +20,7 @@
 
 # 2023
 - id: doi:10.1145/3570361.3592511
-  type: paper
+  type: conference
   shortPublisher: ACM MobiCom'23
   description: Expanding the GNSS signals coverage with backscatter tags.
   date: 2023-6-10
@@ -41,7 +41,7 @@
 # xuedou Xiao From Ember to Blaze: Swift Interactive Video Adaptation via Meta-Reinforcement Learning
 
 - id: 10.1109/INFOCOM53939.2023.10228909
-  type: paper
+  type: conference
   shortPublisher: IEEE INFOCOM'23
   description: We propose Fiammetta, the first meta-RL-based bitrate adaptation algorithm for interactive video streaming.
   date: 2023-5-17
@@ -62,7 +62,7 @@
 # Think before You Leap: Content-Aware Low-Cost Edge-Assisted Video Semantic Segmentation
 
 - id: doi:10.1145/3581783.3613808
-  type: paper
+  type: conference
   shortPublisher: ACM MM'23
   description: 
   date: 2023-10-27
@@ -82,7 +82,7 @@
 # Step and Save: A Wearable Technology Based Incentive Mechanism for Health Insurance
 
 - id: doi:10.1007/978-981-99-7872-4_19
-  type: paper
+  type: journal
   shortPublisher: APPT'23
   description: 
   date: 2023-11-8
@@ -102,7 +102,7 @@
 # FedGR: Federated Learning with Gravitation Regulation for Double Imbalance Distribution
 
 - id: doi:10.1007/978-3-031-30637-2_47
-  type: paper
+  type: journal
   shortPublisher: DASFAA'23
   description: 
   date: 2023-4-14
@@ -122,7 +122,7 @@
 # DNN-Driven Compressive Offloading for Edge-Assisted Semantic Video Segmentation
 
 - id: doi:10.1109/INFOCOM48880.2022.9796657
-  type: paper
+  type: journal
   shortPublisher: IEEE INFOCOM'22
   description: 
   date: 2022-5-2
@@ -142,7 +142,7 @@
 # Conquering Textureless with RF-referenced Monocular Vision for MAV State Estimation
 
 - id: doi:10.1109/ICRA48506.2021.9560744
-  type: paper
+  type: conference
   shortPublisher: IEEE ICRA'21
   description: 
   date: 2021-5-30
@@ -162,7 +162,7 @@
 # Towards Cross-Modal Forgery Detection and Localization on Live Surveillance Videos
 
 - id: doi:10.1109/INFOCOM42981.2021.9488798
-  type: paper
+  type: conference
   shortPublisher: IEEE INFOCOM'21
   description: 
   date: 2021-5-10
@@ -182,7 +182,7 @@
 # RF Backscatter-based State Estimation for Micro Aerial Vehicles
 
 - id: doi:10.1109/INFOCOM41043.2020.9155463
-  type: paper
+  type: conference
   shortPublisher: IEEE INFOCOM'20
   description: 
   date: 2020-7-6
@@ -202,7 +202,7 @@
 # Reliable Wide-Area Backscatter via Channel Polarization
 
 - id: doi:10.1109/INFOCOM41043.2020.9155391
-  type: paper
+  type: conference
   shortPublisher: IEEE INFOCOM'20
   description: 
   date: 2020-7-6

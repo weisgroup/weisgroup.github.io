@@ -1,7 +1,7 @@
 ---
 name: Feiyu Li
 image: ../images/members/FeiyuLi.jpg
-description: M.S. Candidate （Joined in 2024）
+description: Ms, 2024
 role: Master
 links:
   email: 15171168793@163.com

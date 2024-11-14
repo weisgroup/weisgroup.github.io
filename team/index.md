@@ -15,9 +15,15 @@ Team Description
 
 
 {% include section.html %}
+
+## Collaborations and Postdoctoral Researchers
 {% include list.html data="members" component="portrait" filters="role: Postdoc" %}
 
+{% include section.html %}
+## PhD Students
 {% include list.html data="members" component="portrait" filters="role: PhD" %}
+{% include section.html %}
+## Master Students
 {% include list.html data="members" component="portrait" filters="role: Master" %}
 
 {% include section.html %}
@@ -32,8 +38,7 @@ Team Description
 
 
 
-PG Alumni
-====
+## PG Alumni
 
 {% include grid.html style="square" content=content %}
 
@@ -81,8 +86,7 @@ Xiaojie Yue (Master student, 2016-2019; Outstanding Graduate; now with Huawei, S
 
 Bingjiang Cai (Master student, 2016-2018; Outstanding Graduate; now with China Railway Siyuan Survey and Design Group)
 
-UG Alumni
-====
+## UG Alumni
 Borui Wan (Outstanding Undergraduates; EIC, 2018; now PhD, Hong Kong University of Science and Technology)
 
 Yifang Zhang (Outstanding Undergraduates; EIC, 2017; Now at NJU)

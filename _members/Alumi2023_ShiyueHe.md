@@ -1,7 +1,7 @@
 ---
 name: Shiyue He
 image: ../images/members/ShiyueHe.jpg
-description: Obtained the Doctor degree in 2023. Now a wireless protocal researcher in Hisilicon (HangZhou)
+description: Class of 2023. Hisilicon (HangZhou)
 role: Alumni
 group: alusm # 校友，毕业后拉入
 links:

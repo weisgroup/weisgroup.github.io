@@ -1,7 +1,7 @@
 ---
 name: Yi Wang
 image: ../images/members/YiWang.jpg
-description: M.S. Candidate （Joined in 2022）
+description: Ms,2022
 role: Master
 links:
   email: yiwang_js@163.com

@@ -1,8 +1,7 @@
 ---
 name: Jiayi Sun
 image: ../images/members/ZhongchengJiang.jpg
-raw=true
-description: M.S. Candidate （Joined in 2024）
+description: Ms, 2024
 role: Master
 links:
   email: sunjoy@hust.edu.cn

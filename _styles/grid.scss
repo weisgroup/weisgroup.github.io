@@ -38,11 +38,11 @@ $one: 500px;
   align-items: center;
 
   & > * {
-    aspect-ratio: 1 / 1;
+    aspect-ratio: 1 / 1.25;
   }
 
   & img {
-    aspect-ratio: 1 / 1;
+    aspect-ratio: 1 / 1.25;
     object-fit: cover;
     max-width: unset;
     max-height: unset;

@@ -1,7 +1,7 @@
 ---
 name: Xuedou Xiao
 image: https://xxdhome.github.io/images/profile.png
-description: Obtained the Doctor degree in 2024. Now a postdoctoral researcher in Wuhan University of Technology
+description: Class of 2024.Wuhan University of Technology(Wuhan)
 role: Alumni
 group: alusm # 校友，毕业后拉入
 links:
