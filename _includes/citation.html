@@ -10,35 +10,15 @@
 
 <div class="citation-container">
   <div class="citation">
-    {% if include.style == "rich" %}
-      <a
-        {% if citation.link %}
-          href="{{ citation.link | relative_url }}"
-        {% endif %}
-        class="citation-image"
-        aria-label="{{ citation.title | default: "citation link" }}"
-      >
-        <img
-          src="{{ citation.image | relative_url }}"
-          alt="{{ citation.title | default: "citation image" }}"
-          loading="lazy"
-          {% include fallback.html %}
-        >
-      </a>
-    {% endif %}
-
     <div class="citation-text">
       {% assign type = site.data.types[citation.type] %}
       {% include icon.html icon=type.icon %}
-
-      <a
-        {% if citation.link %}
-          href="{{ citation.link | relative_url }}"
-        {% endif %}
-        class="citation-title"
-      > <span class="shortPublisher"> [{{ citation.shortPublisher | default: "" }}] </span>
-        {{ citation.title | default: "[no title info]" }}
-      </a>
+      <div class="citation_title">
+        [<span class="shortPublisher">{{ citation.shortPublisher | default: "" }}</span>]
+        <a {% if citation.link %} href="{{ citation.link | relative_url }}" {% endif %} class="citation-title">
+          {{ citation.title | default: "[no title info]" }}
+        </a>
+      </div>      
 
       <div
         class="citation-authors"
@@ -74,7 +54,7 @@
       </div>
 
       {% if include.style == "rich" %}
-        {% if citation.description %}
+        <!-- {% if citation.description %}
           <div class="citation-description">
             {{
               citation.description
@@ -83,7 +63,7 @@
               | remove: "</p>"
             }}
           </div>
-        {% endif %}
+        {% endif %} -->
 
         {% if citation.buttons.size > 0 %}
           <div class="citation-buttons">

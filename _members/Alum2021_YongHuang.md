@@ -1,7 +1,7 @@
 ---
 name: Yong Huang
 image: https://phygroup.github.io/images/hy.jpg
-description: Obtained the Doctor degree in 2021. Now Associate Professor in Zheng Zhou University
+description: Class of 2021. Zheng Zhou University(Zheng Zhou)
 role: Alumni
 # group: alusm # 校友，毕业后拉入
 links:

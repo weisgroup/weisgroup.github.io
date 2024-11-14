@@ -1,7 +1,7 @@
 ---
 name: Huixin Dong
 image: https://academic.huixin.space/images/Avatar.png
-description: Ph.D. Candidate （Joined in 2020）
+description: PhD,2020
 role: PhD
 links:
   email: dxhuixin@gmail.com

@@ -1,8 +1,8 @@
 ---
-name: Yulong Long
+name: Yulong Xie
 image: ../images/members/YulongXie.jpg
-description: Ms. Student
-role: Ms
+description: Ms,2022
+role: Master
 links:
   email: ylrk@outlook.com
   github: https://github.com/YLRK

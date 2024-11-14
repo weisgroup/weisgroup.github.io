@@ -21,6 +21,8 @@ nav:
 
 {% include search-box.html %}
 
-{% include search-info.html %}
+{% include type.html type="journal" %}
+{% include type.html type="conference" %}
 
+{% include search-info.html %}
 {% include list.html data="citations" component="citation" style="rich" %}

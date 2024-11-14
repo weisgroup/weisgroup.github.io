@@ -1,7 +1,7 @@
 ---
 name: Lehuan Yang
 image: ../images/members/LehuanYang.jpg
-description: Ph.D. Candidate  (Joined in 2024)
+description: PhD,2024
 role: PhD
 links:
   email: ylhuan@hust.edu.cn

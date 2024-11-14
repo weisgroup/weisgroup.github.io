@@ -1,7 +1,7 @@
 ---
-name: Chen Ze
+name: Ze Chen
 image: ../images/members/12A.jpg
-description: M.S. Candidate （Joined in 2024）
+description: Ms,2024
 role: Master
 links:
   email: 3343624120@qq.com
@@ -10,7 +10,7 @@ links:
   
 ---
 
-Chen Ze is a Ms at Huazhong University of Science and Technology (HUST) under the supervision of [Prof. Wei Wang](https://eic.hust.edu.cn/professor/wangwei/index.html). 
+Ze Chen  is a Ms at Huazhong University of Science and Technology (HUST) under the supervision of [Prof. Wei Wang](https://eic.hust.edu.cn/professor/wangwei/index.html). 
 He collaborates closely with [Prof. Xinyu Zhang](http://xyzhang.ucsd.edu/) at UCSD on the backscatter network. 
 
 Research Interest
