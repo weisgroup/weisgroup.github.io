@@ -769,7 +769,7 @@
 
   # 2024 Accurate Indoor Localization for Bluetooth Low Energy Backscatter
 - id: doi:10.1109/JIOT.2024.3468428
-  shortPublisher: IEEE JIOT'24
+  shortPublisher: IEEE IOTJ'24
   image: 
 
   # 2024 Task-Oriented Video Compressive Streaming for Real-time Semantic Segmentation
@@ -799,7 +799,7 @@
 
   # 2023 Over-the-Air Adversarial Attacks on Deep Learning Wi-Fi Fingerprinting
 - id: doi:10.1109/JIOT.2023.3236314
-  shortPublisher: IEEE JIOT'23
+  shortPublisher: IEEE IOTJ'23
   image: 
 
   # 2023 Non-intrusive Anomaly Detection of Industrial Robot Operations by Exploiting Nonlinear Effect
@@ -819,7 +819,7 @@
 
   # 2021 Single-Antenna Device-to-Device Localization in Smart Environments With Backscatter
 - id: doi:10.1109/JIOT.2021.3121794
-  shortPublisher: IEEE JIOT'21
+  shortPublisher: IEEE IOTJ'21
   image: 
 
   # 2022 DC-Loc: Accurate Automotive Radar Based Metric Localization with Explicit Doppler Compensation
@@ -859,7 +859,7 @@
 
   # 2021 RepChain: A Reputation-Based Secure, Fast, and High Incentive Blockchain System via Sharding
 - id: doi:10.1109/JIOT.2020.3028449
-  shortPublisher: IEEE JIOT'21
+  shortPublisher: IEEE IOTJ'21
   image:  
 
   # 2021 LoRa Backscatter Assisted State Estimator for Micro Aerial Vehicles With Online Initialization
@@ -899,7 +899,7 @@
 
   # 2020 Peer-to-Peer Localization for Single-Antenna Devices
 - id: doi:10.1145/3411833
-  shortPublisher: ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+  shortPublisher: ACM IMWUT'20
   image:
 
   # 2020 Robot-Assisted Backscatter Localization for IoT Applications
@@ -919,7 +919,7 @@
 
   # 2020 FreeScatter: Enabling Concurrent Backscatter Communication Using Antenna Arrays
 - id: doi:10.1109/JIOT.2020.2984877
-  shortPublisher: IEEE JIOT'20
+  shortPublisher: IEEE IOTJ'20
   image:
 
   # 2020 Enabling Low-Power OFDM for IoT by Exploiting Asymmetric Clock Rates
@@ -934,7 +934,7 @@
 
   # 2019 EchoFace: Acoustic Sensor-Based Media Attack Detection for Face Authentication
 - id: doi:10.1109/JIOT.2019.2959203
-  shortPublisher: IEEE JIOT'19
+  shortPublisher: IEEE IOTJ'19
   image:
 
   # 2019 Joint C-OMA and C-NOMA Wireless Backhaul Scheduling in Heterogeneous Ultra Dense Networks
@@ -969,7 +969,7 @@
 
   # 2018 NALoc: Nonlinear ambient-light-sensor-based localization system
 - id: doi:10.1145/3287077
-  shortPublisher: ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+  shortPublisher: ACM IMWUT'18
   image:
 
   # 2018 Deep reinforcement learning for mobile edge caching: Review, new features, and open issues
@@ -979,22 +979,22 @@
 
   # 2018 Caching transient data for Internet of Things: A deep reinforcement learning approach
 - id: doi:10.1109/JIOT.2018.2882583
-  shortPublisher: IEEE JIOT'18
+  shortPublisher: IEEE IOTJ'18
   image:
 
   # 2018 Multi-bitrate video caching for D2D-enabled cellular networks
 - id: doi:10.1109/MMUL.2018.2879589
-  shortPublisher: IEEE MMUL'18
+  shortPublisher: IEEE TMM'18
   image:
 
   # 2018 KPI/KQI-driven coordinated multipoint in 5G: Measurements, field trials, and technical solutions
 - id: doi:10.1109/MWC.2018.1800041
-  shortPublisher: IEEE MWC'18
+  shortPublisher: IEEE TWC'18
   image:
 
   # 2018 Authenticating on-body backscatter by exploiting propagation signatures
 - id: doi:10.1145/3266002
-  shortPublisher: ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+  shortPublisher: ACM IMWUT'18
   image:
 
   # 2018 Nonlinear-precoded multiuser secure transmission with cooperative jamming and adaptive limited feedback
@@ -1004,7 +1004,7 @@
 
   # 2018 Toward battery-free wearable devices: The synergy between two feet
 - id: doi:10.1145/3185503
-  shortPublisher: ACM Transactions on Cyber-Physical Systems
+  shortPublisher: ACM TCPS'18
   image:
 
   # 2018 Configurations and diagnosis for ultra-dense heterogeneous networks: From empirical measurements to technical solutions
@@ -1019,7 +1019,7 @@
 
   # 2018 Toward cross-layer design for non-orthogonal multiple access: A quality-of-experience perspective
 - id: doi:10.1109/MWC.2018.1700081
-  shortPublisher: IEEE MWC'18
+  shortPublisher: IEEE TWC'18
   image:
 
   # 2018 Resonance-based secure pairing for wearables
@@ -1049,7 +1049,7 @@
 
   # 2017 Your glasses know your diet: Dietary monitoring using electromyography sensors
 - id: doi:10.1109/JIOT.2017.2656151
-  shortPublisher: IEEE JIOT'17
+  shortPublisher: IEEE IOTJ'17
   image:
 
   # 2016 Wideband spectrum adaptation without coordination
@@ -1089,7 +1089,7 @@
 
   # 2015 Toward long-term quality of protection in mobile networks: a context-aware perspective
 - id: doi:10.1109/MWC.2015.7224725
-  shortPublisher: IEEE MWC'15
+  shortPublisher: IEEE TWC'15
   image:
 
   # 2015 Less transmissions, more throughput: Bringing carpool to public WLANs
