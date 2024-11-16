@@ -759,7 +759,7 @@
   publisher: IEEE Internet of Things Journal
   date: '2024-01-01'
   link: https://doi.org/g73sbc
-  shortPublisher: IEEE JIOT'24
+  shortPublisher: IEEE IOTJ'24
   image: null
   plugin: sources.py
   file: sources.yaml
@@ -851,7 +851,7 @@
   publisher: IEEE Internet of Things Journal
   date: '2023-06-01'
   link: https://doi.org/g73sbp
-  shortPublisher: IEEE JIOT'23
+  shortPublisher: IEEE IOTJ'23
   image: null
   plugin: sources.py
   file: sources.yaml
@@ -913,7 +913,7 @@
   publisher: IEEE Internet of Things Journal
   date: '2022-06-15'
   link: https://doi.org/g73sbx
-  shortPublisher: IEEE JIOT'21
+  shortPublisher: IEEE IOTJ'21
   image: null
   plugin: sources.py
   file: sources.yaml
@@ -1024,7 +1024,7 @@
   publisher: IEEE Internet of Things Journal
   date: '2021-03-15'
   link: https://doi.org/gjh9wx
-  shortPublisher: IEEE JIOT'21
+  shortPublisher: IEEE IOTJ'21
   image: null
   plugin: sources.py
   file: sources.yaml
@@ -1142,7 +1142,7 @@
     Technologies
   date: '2020-09-04'
   link: https://doi.org/gk6c68
-  shortPublisher: ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+  shortPublisher: ACM IMWUT'20
   image: null
   plugin: sources.py
   file: sources.yaml
@@ -1202,7 +1202,7 @@
   publisher: IEEE Internet of Things Journal
   date: '2020-08-01'
   link: https://doi.org/g73sc9
-  shortPublisher: IEEE JIOT'20
+  shortPublisher: IEEE IOTJ'20
   image: null
   plugin: sources.py
   file: sources.yaml
@@ -1244,7 +1244,7 @@
   publisher: IEEE Internet of Things Journal
   date: '2020-03-01'
   link: https://doi.org/gg4q2n
-  shortPublisher: IEEE JIOT'19
+  shortPublisher: IEEE IOTJ'19
   image: null
   plugin: sources.py
   file: sources.yaml
@@ -1353,7 +1353,7 @@
     Technologies
   date: '2018-12-27'
   link: https://doi.org/ghkqxr
-  shortPublisher: ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+  shortPublisher: ACM IMWUT'18
   image: null
   plugin: sources.py
   file: sources.yaml
@@ -1386,7 +1386,7 @@
   publisher: IEEE Internet of Things Journal
   date: '2019-04-01'
   link: https://doi.org/gfkrch
-  shortPublisher: IEEE JIOT'18
+  shortPublisher: IEEE IOTJ'18
   image: null
   plugin: sources.py
   file: sources.yaml
@@ -1402,7 +1402,7 @@
   publisher: IEEE MultiMedia
   date: '2019-01-01'
   link: https://doi.org/g5mb8p
-  shortPublisher: IEEE MMUL'18
+  shortPublisher: IEEE TMM'18
   image: null
   plugin: sources.py
   file: sources.yaml
@@ -1417,7 +1417,7 @@
   publisher: IEEE Wireless Communications
   date: '2018-10-01'
   link: https://doi.org/g737zk
-  shortPublisher: IEEE MWC'18
+  shortPublisher: IEEE TWC'18
   image: null
   plugin: sources.py
   file: sources.yaml
@@ -1434,7 +1434,7 @@
     Technologies
   date: '2018-09-18'
   link: https://doi.org/g737zx
-  shortPublisher: ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+  shortPublisher: ACM IMWUT'18
   image: null
   plugin: sources.py
   file: sources.yaml
@@ -1463,7 +1463,7 @@
   publisher: ACM Transactions on Cyber-Physical Systems
   date: '2018-06-13'
   link: https://doi.org/g737zz
-  shortPublisher: ACM Transactions on Cyber-Physical Systems
+  shortPublisher: ACM TCPS'18
   image: null
   plugin: sources.py
   file: sources.yaml
@@ -1509,7 +1509,7 @@
   publisher: IEEE Wireless Communications
   date: '2018-04-01'
   link: https://doi.org/gfxgb6
-  shortPublisher: IEEE MWC'18
+  shortPublisher: IEEE TWC'18
   image: null
   plugin: sources.py
   file: sources.yaml
@@ -1598,7 +1598,7 @@
   publisher: IEEE Internet of Things Journal
   date: '2017-06-01'
   link: https://doi.org/g7372h
-  shortPublisher: IEEE JIOT'17
+  shortPublisher: IEEE IOTJ'17
   image: null
   plugin: sources.py
   file: sources.yaml
@@ -1709,7 +1709,7 @@
   publisher: IEEE Wireless Communications
   date: '2015-08-01'
   link: https://doi.org/f7qd7r
-  shortPublisher: IEEE MWC'15
+  shortPublisher: IEEE TWC'15
   image: null
   plugin: sources.py
   file: sources.yaml
