@@ -11,12 +11,7 @@ nav:
   text="weiwang@hust.edu.cn"
   link="weiwangw@hust.edu.cn"
 %}
-# {%
-#  include button.html
-#  type="phone"
-#  text="(852) 2719-0402 "
-#  link="(852) 2719-0402 "
-# %}
+
 {%
   include button.html
   type="address"
