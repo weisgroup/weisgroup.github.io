@@ -2,7 +2,7 @@
 <div class="slider">
   <!-- 遍历 _images/my-carousel/ 文件夹下的所有图片 -->
   {% for image in site.static_files %}
-    {% if image.path contains '/images/slides/' %}
+    {% if image.path contains '/images/carousel/' %}
       <div class="slide">
         <img src="{{ image.path | relative_url }}" alt="{{ image.name }}" />
       </div>

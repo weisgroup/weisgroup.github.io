@@ -9,7 +9,7 @@
 
 .slide img {
   width: 100%; /* 图片宽度填满容器 */
-  height: 550px; /* 图片高度自动 */
+  max-height: 800px; /* 图片高度自动 */
   display: block; /* 去除图片下方的空隙 */
 }
 
