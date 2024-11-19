@@ -1,6 +1,6 @@
 ---
 name: Jiayi Sun
-image: ../images/members/ZhongchengJiang.jpg
+image: ../images/members/JiayiSun.jpg
 description: Ms, 2024
 role: Master
 links:
