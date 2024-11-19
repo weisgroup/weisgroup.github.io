@@ -8,6 +8,9 @@
 <!-- Slick Carousel JS -->
 <script type="text/javascript" src="../_scripts/slick.min.js" ></script>
 
+<!-- Plyr JS -->
+<script src="https://cdn.plyr.io/3.7.8/plyr.js"></script>
+
 <!-- include all js in scripts folder -->
 {% assign scripts = site.static_files | where_exp: "file", "file.path contains '/_scripts'" %}
 {% for script in scripts %}
