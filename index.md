@@ -2,7 +2,7 @@
 ---
 
 # MetaIoT Lab
-[MetaIoT Lab](https://github.com/greenelab/lab-website-template) is a XXXX lab lead by Prof. Wei Wang [labs](https://www.greenelab.com/).
+[MetaIoT Lab](https://metaiot.group/) is a XXXX lab lead by Prof. Wei Wang.
 Our mission is to tackle significant real-world problems by identifying key challenges and developing groundbreaking solutions. We adopt a holistic research approach, blending rigorous theoretical exploration with practical implementations. Through this integrated process, we create, test, and refine prototypes, ensuring that our innovations are not only pioneering but also practical and ready for real-world application. Our cycle of continuous improvement drives us to adapt and evolve our solutions to meet changing needs effectively.
 
 {% include carousel.html %}
