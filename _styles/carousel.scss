@@ -34,6 +34,15 @@
   border-radius: 50%; /* 圆形按钮 */
   text-indent: -9999px; /* 隐藏文本 */
   cursor: pointer; /* 鼠标悬浮效果 */
+  padding: 0;
+  font-size: 0;
+  line-height: 0;
+  border: none;
+  background-color: #fff;
+  border-radius: 50%;
+  outline: none;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, .25);
+  transition: all .3s ease;
 }
 
 .slick-dots li.slick-active button {
