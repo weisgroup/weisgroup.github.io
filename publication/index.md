@@ -13,7 +13,7 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="GPSMirror" style="rich" %}
+{% include citation.html lookup="GPSMirror GPSense" style="rich" %}
 
 {% include section.html %}
 
