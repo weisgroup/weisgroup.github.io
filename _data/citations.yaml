@@ -52,7 +52,7 @@
   buttons:
   - type: source
     text: Manuscript Source
-    link: "\u201D../publication/paper/mobicom24-GPSense.pdf\u201C"
+    link: https://metaiot.group/publication/paper/mobicom24-GPSense.pdf
   tags:
   - Backscatter Network
   - GPS Sensing
