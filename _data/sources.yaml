@@ -1,13 +1,13 @@
 - id: doi:10.1371/journal.pcbi.1007128
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
+  date: 2020-12-04
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
   buttons:
     - type: manubot
       link: https://greenelab.github.io/meta-review/
     - type: source
-      text: Manuscript Source
+      text: Manuscript
       link: https://github.com/greenelab/meta-review
     - type: website
       link: http://manubot.org/
@@ -18,6 +18,27 @@
 
 # ###############################################Conference Papers ###########################################################
 
+# 2024
+- id: doi:10.1145/3636534.3690674
+  type: conference
+  title: 'GPSense: Passive Sensing with Pervasive GPS Signals'
+  authors:
+    - Huixin Dong
+    - Minhao Cui
+    - Ning Wang
+    - Lili Qiu
+    - Jie Xiong
+    - Wei Wang
+  publisher: Proceedings of the 30th Annual International Conference on Mobile Computing
+    and Networking
+  shortPublisher: ACM MobiCom'24
+  date: 2024-11-21
+  buttons:
+    - type: source
+      text: Manuscript
+      link: https://metaiot.group/publication/paper/mobicom24-GPSense.pdf
+  tags:
+    - GPS Sensing
 # 2023
 - id: doi:10.1145/3570361.3592511
   type: conference
@@ -28,9 +49,9 @@
   buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-   - type: source
-     text: Manuscript Source
-     link: https://metaiot.group/publication/paper/mobicom24-GPSense.pdf
+  #  - type: source
+  #    text: Manuscript
+  #    link: https://metaiot.group/publication/paper/mobicom24-GPSense.pdf
   # - type: website
   #  link: http://manubot.org/
   tags:
