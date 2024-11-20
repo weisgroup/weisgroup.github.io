@@ -21,7 +21,7 @@
   - type: manubot
     link: https://greenelab.github.io/meta-review/
   - type: source
-    text: Manuscript Source
+    text: Manuscript
     link: https://github.com/greenelab/meta-review
   - type: website
     link: http://manubot.org/
@@ -29,6 +29,29 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
+  plugin: sources.py
+  file: sources.yaml
+- id: url:https://metaiot.group/publication/paper/mobicom24-GPSense.pdf
+  title: 'GPSense: Passive Sensing with Pervasive GPS Signals'
+  authors:
+  - Huixin Dong
+  - Minhao Cui
+  - Ning Wang
+  - Lili Qiu
+  - Jie Xiong
+  - Wei Wang
+  publisher: Proceedings of the 30th Annual International Conference on Mobile Computing
+    and Networking
+  date: '2024-11-21'
+  link: https://metaiot.group/publication/paper/mobicom24-GPSense.pdf
+  type: conference
+  shortPublisher: ACM MobiCom'24
+  buttons:
+  - type: source
+    text: Manuscript
+    link: https://metaiot.group/publication/paper/mobicom24-GPSense.pdf
+  tags:
+  - GPS Sensing
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3570361.3592511
@@ -49,10 +72,7 @@
   shortPublisher: ACM MobiCom'23
   description: Expanding the GNSS signals coverage with backscatter tags.
   image: https://www.catalyzex.com/_next/image?url=https%3A%2F%2Fd3i71xaburhd42.cloudfront.net%2F531429cc78035c2fc43560d8a7dd09d93fd8b201%2F2-Figure1-1.png&w=384&q=75
-  buttons:
-  - type: source
-    text: Manuscript Source
-    link: https://metaiot.group/publication/paper/mobicom24-GPSense.pdf
+  buttons: null
   tags:
   - Backscatter Network
   - GPS Sensing
