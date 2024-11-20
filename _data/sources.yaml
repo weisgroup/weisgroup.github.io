@@ -30,7 +30,7 @@
   #   link: https://greenelab.github.io/meta-review/
    - type: source
      text: Manuscript Source
-     link: ”../publication/paper/mobicom24-GPSense.pdf“
+     link: https://metaiot.group/publication/paper/mobicom24-GPSense.pdf
   # - type: website
   #  link: http://manubot.org/
   tags:
