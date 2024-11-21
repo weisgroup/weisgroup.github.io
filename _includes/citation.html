@@ -37,6 +37,15 @@
           | remove: "<p>" | remove: "</p>"
           | default: "[no author info]"
         }}
+        {%- assign authors = citation.authors | join: "," | split: "," -%}
+        {%- for author in authors -%}
+        {%- if author == "Wei Wang" -%}
+        <a href="https://weiwang.cslee.cc"><b>Wei Wang</b></a>
+        {%- else -%}
+        {{ author }}
+        {%- endif -%}
+        {%- if forloop.last == false -%}, {% endif -%}
+        {%- endfor -%}
       </div>
 
       <div class="citation-details">
