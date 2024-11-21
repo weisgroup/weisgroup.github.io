@@ -7,8 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publication
 
-(Add description)
-
 {% include section.html %}
 
 ## Highlighted

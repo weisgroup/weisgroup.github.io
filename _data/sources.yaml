@@ -1,20 +1,20 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-04
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: paper
-      text: Paper
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+# - id: doi:10.1371/journal.pcbi.1007128
+#   type: paper
+#   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   date: 2020-12-04
+#   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+#   buttons:
+#     - type: manubot
+#       link: https://greenelab.github.io/meta-review/
+#     - type: docs
+#       text: PDF
+#       link: https://github.com/greenelab/meta-review
+#     - type: website
+#       link: http://manubot.org/
+#   tags:
+#     - open science
+#     - collaboration
+#   repo: greenelab/meta-review
 
 # ###############################################Conference Papers ###########################################################
 
@@ -35,8 +35,8 @@
   link: https://metaiot.group/publication/paper/mobicom24-GPSense.pdf
   date: 2024-11-21
   buttons:
-    - type: paper
-      text: Paper
+    - type: docs
+      text: PDF
       link: https://metaiot.group/publication/paper/mobicom24-GPSense.pdf
   tags:
     - GPS Sensing
@@ -50,8 +50,8 @@
   buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://metaiot.group/publication/paper/mobicom24-GPSense.pdf
   # - type: website
   #  link: http://manubot.org/
@@ -71,8 +71,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -92,8 +92,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -112,8 +112,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -132,8 +132,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -152,8 +152,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -172,8 +172,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -192,8 +192,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -212,8 +212,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -232,8 +232,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -252,8 +252,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -272,8 +272,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -292,8 +292,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -312,8 +312,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -332,8 +332,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -352,8 +352,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -372,8 +372,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -392,8 +392,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -412,8 +412,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -432,8 +432,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -452,8 +452,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -472,8 +472,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -492,8 +492,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -512,8 +512,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -532,8 +532,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -552,8 +552,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -572,8 +572,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -592,8 +592,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -612,8 +612,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -632,8 +632,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -652,8 +652,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -672,8 +672,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -692,8 +692,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -712,8 +712,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -732,8 +732,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -752,8 +752,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/
@@ -772,8 +772,8 @@
   # buttons:
   # - type: manubot
   #   link: https://greenelab.github.io/meta-review/
-  #  - type: paper
-  #    text: Paper
+  #  - type: docs
+  #    text: PDF
   #    link: https://dl.acm.org/doi/abs/10.1145/3570361.3592511
   # - type: website
   #  link: http://manubot.org/

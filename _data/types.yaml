@@ -159,7 +159,7 @@ manubot:
 # software
 
 docs:
-  icon: fa-solid fa-book
+  icon: fa-solid fa-file-pdf
   text: Documentation
   tooltip: Documentation
 
@@ -187,3 +187,8 @@ package:
   icon: fa-solid fa-box
   text: Package
   tooltip: Package
+
+video:
+  icon: fa-solid fa-file-video
+  text: Documentation
+  tooltip: Documentation

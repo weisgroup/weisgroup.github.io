@@ -27,16 +27,6 @@
         {% endif %}
         tabindex="0"
       >
-        {{
-          citation.authors
-          | join: ","
-          | split: ","
-          | array_carve: 5
-          | join: ", "
-          | markdownify
-          | remove: "<p>" | remove: "</p>"
-          | default: "[no author info]"
-        }}
         {%- assign authors = citation.authors | join: "," | split: "," -%}
         {%- for author in authors -%}
         {%- if author == "Wei Wang" -%}
@@ -63,17 +53,6 @@
       </div>
 
       {% if include.style == "rich" %}
-        <!-- {% if citation.description %}
-          <div class="citation-description">
-            {{
-              citation.description
-              | markdownify
-              | remove: "<p>"
-              | remove: "</p>"
-            }}
-          </div>
-        {% endif %} -->
-
         {% if citation.buttons.size > 0 %}
           <div class="citation-buttons">
             {% for button in citation.buttons %}
@@ -83,7 +62,7 @@
                 icon=button.icon
                 text=button.text
                 link=button.link
-                style="bare"
+                style="docs"
               %}
             {% endfor %}
           </div>

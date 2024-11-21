@@ -46,6 +46,19 @@ button {
   }
 }
 
+.button[data-style="docs"] {
+  line-height: 2em;
+  height: 1.8em;
+  background: #5cb85c;
+  border-color: #4cae4c;
+  border-radius: 5px;
+
+  &:hover {
+    background-color: #449d44;
+    border-color: #398439;
+  }
+}
+
 .button[data-flip] {
   flex-direction: row-reverse;
 }
