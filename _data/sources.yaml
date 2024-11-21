@@ -1186,25 +1186,13 @@
   image:
 
   # 2014 Location Privacy Preservation in Database-Driven Cognitive Radio Networks
-- id: doi:10.1007/978-3-319-01943-7_4
-  type: book
-  shortPublisher: Location Privacy Preservation in Cognitive Radio Networks
-  image:
-
-  # 2014 Privacy Preservation Techniques
-- id: doi:10.1007/978-3-319-01943-7_2
-  type: book
-  shortPublisher: Location Privacy Preservation in Cognitive Radio Networks
-  image:
-
-  # 2014 Future research directions
-- id: doi:10.1007/978-981-19-1797-4_6
-  type: book
-  shortPublisher: Location Privacy Preservation in Cognitive Radio Networks
-  image:
-
-  # 2014 Location Privacy Preservation in Cognitive Radio Networks
 - id: doi:10.1007/978-3-319-01943-7
   type: book
-  shortPublisher: SpringerBriefs in Computer Science, Springer
+  shortPublisher: Springer
+
+
+  # 2014 Long-Term Quality of Protection
+- id: doi:10.1007/978-3-319-32903-1_50-1
+  type: book
+  shortPublisher: Springer
   image:
