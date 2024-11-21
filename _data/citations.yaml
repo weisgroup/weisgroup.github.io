@@ -20,8 +20,8 @@
   buttons:
   - type: manubot
     link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript
+  - type: paper
+    text: Paper
     link: https://github.com/greenelab/meta-review
   - type: website
     link: http://manubot.org/
@@ -47,8 +47,8 @@
   type: conference
   shortPublisher: ACM MobiCom'24
   buttons:
-  - type: source
-    text: Manuscript
+  - type: paper
+    text: Paper
     link: https://metaiot.group/publication/paper/mobicom24-GPSense.pdf
   tags:
   - GPS Sensing
