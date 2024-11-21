@@ -22,6 +22,7 @@
     const terms = [];
     const phrases = [];
     const tags = [];
+    let type = null;
 
     // put parts into bins
     for (let part of parts) {
@@ -29,11 +30,13 @@
         part = part.replaceAll('"', "").trim();
         if (part.startsWith("tag:"))
           tags.push(normalizeTag(part.replace(/tag:\s*/, "")));
+        else if (part.startsWith("type:")) 
+          type = part.replace(/type:\s*/, "");
         else phrases.push(part.toLowerCase());
       } else terms.push(part.toLowerCase());
     }
 
-    return { terms, phrases, tags };
+    return { terms, phrases, tags, type };
   };
 
   // normalize tag string for comparison
@@ -47,9 +50,11 @@
       .join(" ");
 
   // determine if element should show up in results based on query
-  const elementMatches = (element, { terms, phrases, tags }) => {
+  const elementMatches = (element, { terms, phrases, tags, type }) => {
     // tag elements within element
     const tagElements = [...element.querySelectorAll(".tag")];
+
+    const typeElement = element.querySelector(".publicationType");
 
     // check if text content exists in element
     const hasText = (string) =>
@@ -64,11 +69,15 @@
     const hasTag = (string) =>
       tagElements.some((tag) => normalizeTag(tag.innerText) === string);
 
+    const hasType = (string) =>
+      typeElement.innerText.toLowerCase().includes(string);
+
     // match logic
     return (
       (terms.every(hasText) || !terms.length) &&
       (phrases.some(hasText) || !phrases.length) &&
-      (tags.some(hasTag) || !tags.length)
+      (tags.some(hasTag) || !tags.length) &&
+      (!type || hasType(type))
     );
   };
 
@@ -80,6 +89,7 @@
     let x = 0;
     let n = elements.length;
     let tags = parts.tags;
+    let type = parts.type;
 
     // filter elements
     for (const element of elements) {

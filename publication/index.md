@@ -19,8 +19,8 @@ nav:
 
 {% include search-box.html %}
 
-{% include type.html type="journal" %}
-{% include type.html type="conference" %}
+{% include publication-type.html type="journal" %}
+{% include publication-type.html type="conference" %}
 
 {% include search-info.html %}
 {% include list.html data="citations" component="citation" style="rich" %}

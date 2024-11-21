@@ -124,7 +124,7 @@
 # FedGR: Federated Learning with Gravitation Regulation for Double Imbalance Distribution
 
 - id: doi:10.1007/978-3-031-30637-2_47
-  type: journal
+  type: conference
   shortPublisher: DASFAA'23
   description: 
   date: 2023-4-14
@@ -144,7 +144,7 @@
 # DNN-Driven Compressive Offloading for Edge-Assisted Semantic Video Segmentation
 
 - id: doi:10.1109/INFOCOM48880.2022.9796657
-  type: journal
+  type: conference
   shortPublisher: IEEE INFOCOM'22
   description: 
   date: 2022-5-2
@@ -244,7 +244,7 @@
 # Lightweight Sybil-Resilient Multi-Robot Networks by Multipath Manipulation
 
 - id: doi:10.1109/INFOCOM41043.2020.9155244
-  type: paper
+  type: conference
   shortPublisher: IEEE INFOCOM'20
   description: 
   date: 2020-7-6
@@ -264,7 +264,7 @@
 # ECGadv: Generating Adversarial Electrocardiogram to Misguide Arrhythmia Classification System
 
 - id: doi:10.1609/aaai.v34i04.5748
-  type: paper
+  type: conference
   shortPublisher: AAAI'20
   description: 
   date: 2020-4-3
@@ -284,7 +284,7 @@
 # Energy Beamforming for Wireless Information and Power Transfer in Backscatter Multiuser Networks
 
 - id: doi:10.1109/GLOBECOM38437.2019.9013912
-  type: paper
+  type: conference
   shortPublisher: IEEE GLOBECOM'19
   description: 
   date: 2019-12-9
@@ -304,7 +304,7 @@
 # Localizing Backscatters by a Single Robot with Zero Start-Up Cost
 
 - id: doi:10.1109/GLOBECOM38437.2019.9013768
-  type: paper
+  type: conference
   shortPublisher: IEEE GLOBECOM'19
   description: 
   date: 2019-12-9
@@ -324,7 +324,7 @@
 # Spatial Modulation for Ambient Backscatter Communications: Modeling and Analysis
 
 - id: doi:10.1109/GLOBECOM38437.2019.9013382
-  type: paper
+  type: conference
   shortPublisher: IEEE GLOBECOM'19
   description: 
   date: 2019-12-9
@@ -344,7 +344,7 @@
 # Towards Motion Invariant Authentication for On-Body IoT Devices
 
 - id: doi:10.1109/ICC.2019.8761982
-  type: paper
+  type: conference
   shortPublisher: IEEE ICC'19
   description: 
   date: 2019-5-20
@@ -364,7 +364,7 @@
   # On secure transmission design: An information leakage perspective
 
 - id: doi:10.1109/GLOCOM.2018.8648032
-  type: paper
+  type: conference
   shortPublisher: IEEE GLOBECOM'18
   description: 
   date: 2018-12-9
@@ -384,7 +384,7 @@
   # Wins: Wifi-inertial indoor state estimation for mavs
 
 - id: doi:10.1145/3274783.3275157
-  type: paper
+  type: conference
   shortPublisher: ACM Conference on Embedded Networked Sensor Systems
   description: 
   date: 2018-11-4
@@ -404,7 +404,7 @@
   # ShieldScatter: Improving IoT security with backscatter assistance
 
 - id: doi:10.1145/3274783.3274841
-  type: paper
+  type: conference
   shortPublisher: ACM Conference on Embedded Networked Sensor Systems
   description: 
   date: 2018-11-4
@@ -424,7 +424,7 @@
   # Rainbow: Preventing Mobile-Camera-based Piracy in the Physical World
 
 - id: doi:10.1109/INFOCOM.2018.8485881
-  type: paper
+  type: conference
   shortPublisher: IEEE INFOCOM'18
   description: 
   date: 2018-4-16
@@ -444,7 +444,7 @@
   # Detecting on-body devices through creeping wave propagation
 
 - id: doi:10.1109/INFOCOM.2017.8057207
-  type: paper
+  type: conference
   shortPublisher: IEEE INFOCOM'17
   description: 
   date: 2017-5-1
@@ -464,7 +464,7 @@
   # Secret from muscle: Enabling secure pairing with electromyography
 
 - id: doi:10.1145/2994551.2994556
-  type: paper
+  type: conference
   shortPublisher: ACM Conference on Embedded Network Sensor Systems CD-ROM
   description: 
   date: 2016-11-14
@@ -484,8 +484,8 @@
   # Touch-and-guard: secure pairing through hand resonance
 
 - id: doi:10.1145/2971648.2971688
-  type: paper
-  shortPublisher: ACM International Joint Conference on Pervasive and Ubiquitous Computing
+  type: conference
+  shortPublisher: ACM UbiComp'16
   description: 
   date: 2016-9-12
   image: 
@@ -504,7 +504,7 @@
   # Managing channel bonding with clear channel assessment in 802.11 networks
 
 - id: doi:10.1109/ICC.2016.7511455
-  type: paper
+  type: conference
   shortPublisher: IEEE ICC'16
   description: 
   date: 2016-5-22
@@ -524,7 +524,7 @@
   # VibID: User identification through bio-vibrometry
 
 - id: doi:10.1109/IPSN.2016.7460725
-  type: paper
+  type: conference
   shortPublisher: IEEE IPSN'16
   description: 
   date: 2016-4-11
@@ -544,7 +544,7 @@
   # Apps on the move: A fine-grained analysis of usage behavior of mobile apps
 
 - id: doi:10.1109/INFOCOM.2016.7524464
-  type: paper
+  type: conference
   shortPublisher: IEEE INFOCOM'16
   description: 
   date: 2016-4-10
@@ -564,7 +564,7 @@
   # Battery-free sensing platform for wearable devices: The synergy between two feet
 
 - id: doi:10.1109/INFOCOM.2016.7524543
-  type: paper
+  type: conference
   shortPublisher: IEEE INFOCOM'16
   description: 
   date: 2016-4-10
@@ -584,7 +584,7 @@
   # From rateless to sampleless: Wi-Fi connectivity made energy efficient
 
 - id: doi:10.1109/INFOCOM.2016.7524424
-  type: paper
+  type: conference
   shortPublisher: IEEE INFOCOM'16
   description: 
   date: 2016-4-10
@@ -604,7 +604,7 @@
   # TiSA: time-dependent social network advertising
 
 - id: doi:10.1109/ICC.2015.7248484
-  type: paper
+  type: conference
   shortPublisher: IEEE ICC'15
   description: 
   date: 2015-6-8
@@ -624,7 +624,7 @@
   # Changing channel without strings: Coordination-free wideband spectrum adaptation
 
 - id: doi:10.1109/INFOCOM.2015.7218412
-  type: paper
+  type: conference
   shortPublisher: IEEE INFOCOM'15
   description: 
   date: 2015-4-26
@@ -644,7 +644,7 @@
   # Privacy-preserving location authentication in WiFi with fine-grained physical layer information
 
 - id: doi:10.1109/GLOCOM.2014.7037570
-  type: paper
+  type: conference
   shortPublisher: IEEE GLOCOM'14
   description: 
   date: 2014-12-8
@@ -664,7 +664,7 @@
   # A stochastic game for privacy preserving context sensing on mobile phone
 
 - id: doi:10.1109/INFOCOM.2014.6848177
-  type: paper
+  type: conference
   shortPublisher: IEEE INFOCOM'14
   description: 
   date: 2014-4-27
@@ -684,7 +684,7 @@
   # A Privacy-aware Framework for Online Advertisement Targeting
 
 - id: doi:10.1109/GLOCOM.2013.6831555
-  type: paper
+  type: conference
   shortPublisher: IEEE GLOCOM'13
   description: 
   date: 2013-12-9
@@ -704,7 +704,7 @@
   # Analyzing the Influential People in Sina Weibo Dataset
 
 - id: doi:10.1109/GLOCOM.2013.6831542
-  type: paper
+  type: conference
   shortPublisher: IEEE GLOCOM'13
   description: 
   date: 2013-12-9
@@ -724,7 +724,7 @@
   # Cooperative Cell Outage Detection in Self-Organizing Femtocell Networks
 
 - id: doi:10.1109/INFCOM.2013.6566865
-  type: paper
+  type: conference
   shortPublisher: IEEE INFCOM'13
   description: 
   date: 2013-4-14
@@ -744,7 +744,7 @@
   # Cooperative Cell Outage Detection in Self-Organizing Femtocell Networks
 
 - id: doi:10.1109/GLOCOM.2012.6503935
-  type: paper
+  type: conference
   shortPublisher: IEEE GLOCOM'12
   description: 
   date: 2012-12-3
@@ -764,7 +764,7 @@
   # Transfer Learning Based Diagnosis for Configuration Troubleshooting in Self-Organizing Femtocell Networks
 
 - id: doi:10.1109/GLOCOM.2011.6133802
-  type: paper
+  type: conference
   shortPublisher: IEEE GLOCOM'11
   description: 
   date: 2011-12-5
@@ -786,66 +786,79 @@
 # ############################################### Journal Papers ###########################################################
 # Yonghuang 2022
 - id: doi:10.1109/TWC.2021.3129188
+  type: journal
   shortPublisher: IEEE TWC'22
   image: https://s2.loli.net/2024/09/19/tHzci4XwUbrq7uP.png
 
   # 2024 Accurate Indoor Localization for Bluetooth Low Energy Backscatter
 - id: doi:10.1109/JIOT.2024.3468428
+  type: journal
   shortPublisher: IEEE IOTJ'24
   image: 
 
   # 2024 Task-Oriented Video Compressive Streaming for Real-time Semantic Segmentation
 - id: doi:10.1109/TMC.2024.3446185
+  type: journal
   shortPublisher: IEEE TMC'24
   image: 
 
   # 2024 Fairness-aware Two-stage Hybrid Sensing Method in Vehicular Crowdsensing
 - id: doi:10.1109/TMC.2024.3408751
+  type: journal
   shortPublisher: IEEE TMC'24
   image: 
 
   # 2023 Robust Metric Localization in Autonomous Driving via Doppler Compensation With Single-Chip Radar
 - id: doi:10.1109/TITS.2023.3305487
+  type: journal
   shortPublisher: IEEE TITS'23
   image: 
 
   # 2023 Low-Complexity Symbol Reconstruction Based on Direct Symbol Decision for FBMC-OQAM Systems
 - id: doi:10.1109/TSP.2023.3328061
+  type: journal
   shortPublisher: IEEE TSP'23
   image: 
 
   # 2023 Toward ubiquitous and intelligent 6G networks: from architecture to technology
 - id: doi:10.1007/s11432-023-3704-8
+  type: journal
   shortPublisher: Science China. Information Sciences
   image: 
 
   # 2023 Over-the-Air Adversarial Attacks on Deep Learning Wi-Fi Fingerprinting
 - id: doi:10.1109/JIOT.2023.3236314
+  type: journal
   shortPublisher: IEEE IOTJ'23
   image: 
 
   # 2023 Non-intrusive Anomaly Detection of Industrial Robot Operations by Exploiting Nonlinear Effect
 - id: doi:10.1145/3569477
-  shortPublisher: ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+  type: conference
+  shortPublisher: ACM UbiComp'22
   image: 
 
   # 2022 Delay-Aware Cooperative Task Offloading for Multi-UAV Enabled Edge-Cloud Computing
 - id: doi:10.1109/TMC.2022.3232375
+  type: journal
   shortPublisher: IEEE TMC'22
   image: 
 
   # 2022 InFit: Combination Movement Recognition for Intensive Fitness Assistant via Wi-Fi
 - id: doi:10.1109/TMC.2022.3209656
+  type: conference
   shortPublisher: IEEE TMC'22
   image: 
 
   # 2021 Single-Antenna Device-to-Device Localization in Smart Environments With Backscatter
 - id: doi:10.1109/JIOT.2021.3121794
+  type: conference
   shortPublisher: IEEE IOTJ'21
   image: 
 
   # 2022 DC-Loc: Accurate Automotive Radar Based Metric Localization with Explicit Doppler Compensation
 - id: doi:10.1109/ICRA46639.2022.9811561
+
   shortPublisher: IEEE ICRA'22
   image: 
 
@@ -866,36 +879,43 @@
 
   # 2021 Forgery Attack Detection in Surveillance Video Streams Using Wi-Fi Channel State Information
 - id: doi:10.1109/TWC.2021.3129188
+  type: conference
   shortPublisher: IEEE TWC'21
   image:  
 
   # 2021 Securing IoT Devices by Exploiting Backscatter Propagation Signatures
 - id: doi:10.1109/TMC.2021.3084754
+  type: conference
   shortPublisher: IEEE TMC'21
   image:  
 
   # 2021 Exploiting Channel Polarization for Reliable Wide-Area Backscatter Networks
 - id: doi:10.1109/TMC.2021.3075549
+  type: conference
   shortPublisher: IEEE TMC'21
   image:  
 
   # 2021 RepChain: A Reputation-Based Secure, Fast, and High Incentive Blockchain System via Sharding
 - id: doi:10.1109/JIOT.2020.3028449
+  type: conference
   shortPublisher: IEEE IOTJ'21
   image:  
 
   # 2021 LoRa Backscatter Assisted State Estimator for Micro Aerial Vehicles With Online Initialization
 - id: doi:10.1109/TMC.2021.3063850
+  type: conference
   shortPublisher: IEEE TMC'21
   image:  
 
   # 2020 Joint Energy Harvest and Information Transfer for Energy Beamforming in Backscatter Multiuser Networks
 - id: doi:10.1109/TCOMM.2020.3036049
+  type: conference
   shortPublisher: IEEE TCOMM'20
   image:  
 
   # 2021 Detecting Colluding Sybil Attackers in Robotic Networks Using Backscatters
 - id: doi:10.1109/TNET.2020.3048126
+  type: conference
   shortPublisher: IEEE TNET'21
   image:
 
@@ -906,16 +926,19 @@
 
   # 2020 Spatial modulation-based ambient backscatter: Bringing energy self-sustainability to massive internet of everything in 6G
 - id: doi:10.23919/JCC.2020.12.004
+  type: conference
   shortPublisher: IEEE JCC'20
   image:
 
   # 2020 LoRadar: Enabling Concurrent Radar Sensing and LoRa Communication
 - id: doi:10.1109/TMC.2020.3035797
+  type: conference
   shortPublisher: IEEE TMC'20
   image:
 
   # 2020 A Two-Stage Game Framework to Secure Transmission in Two-Tier UAV Networks
 - id: doi:10.1109/TVT.2020.3026184
+  type: conference
   shortPublisher: IEEE TVT'20
   image:
 
@@ -926,66 +949,79 @@
 
   # 2020 Robot-Assisted Backscatter Localization for IoT Applications
 - id: doi:10.1109/TWC.2020.2997393
+  type: conference
   shortPublisher: IEEE TWC'20
   image:
 
   # 2020 Authenticating On-Body IoT Devices: An Adversarial Learning Approach
 - id: doi:10.1109/TWC.2020.2991111
+  type: conference
   shortPublisher: IEEE TWC'20
   image:
 
   # 2020 Wi-Fi-Inertial Indoor Pose Estimation for Microaerial Vehicles
 - id: doi:10.1109/TIE.2020.2984457
+  type: conference
   shortPublisher: IEEE TIE'20
   image:
 
   # 2020 FreeScatter: Enabling Concurrent Backscatter Communication Using Antenna Arrays
 - id: doi:10.1109/JIOT.2020.2984877
+  type: conference
   shortPublisher: IEEE IOTJ'20
   image:
 
   # 2020 Enabling Low-Power OFDM for IoT by Exploiting Asymmetric Clock Rates
 - id: doi:10.1109/TNET.2020.2966112
+  type: conference
   shortPublisher: IEEE TNET'20
   image:
 
   # 2020 Securing Channel State Information in Multiuser MIMO With Limited Feedback
 - id: doi:10.1109/TWC.2020.2970412
+  type: conference
   shortPublisher: IEEE TWC'20
   image:
 
   # 2019 EchoFace: Acoustic Sensor-Based Media Attack Detection for Face Authentication
 - id: doi:10.1109/JIOT.2019.2959203
+  type: conference
   shortPublisher: IEEE IOTJ'19
   image:
 
   # 2019 Joint C-OMA and C-NOMA Wireless Backhaul Scheduling in Heterogeneous Ultra Dense Networks
 - id: doi:10.1109/TWC.2019.2949791
+  type: conference
   shortPublisher: IEEE TWC'19
   image:
 
   # 2019 State-Aware Rate Adaptation for UAVs by Incorporating On-Board Sensors
 - id: doi:10.1109/TVT.2019.2950285
+  type: conference
   shortPublisher: IEEE TVT'19
   image:
 
   # 2019 Sensor-Augmented Neural Adaptive Bitrate Video Streaming on UAVs
 - id: doi:10.1109/TMM.2019.2945167
+  type: conference
   shortPublisher: IEEE TMM'19
   image:
 
   # 2019 Incentive Mechanism for Cooperative Scalable Video Coding (SVC) Multicast Based on Contract Theory
 - id: doi:10.1109/TMM.2019.2929965
+  type: conference
   shortPublisher: IEEE TMM'19
   image:
 
   # 2019 Downlink Channel Prediction for Time-Varying FDD Massive MIMO Systems
 - id: doi:10.1109/JSTSP.2019.2931671
+  type: conference
   shortPublisher: IEEE JSTSP'19
   image:
 
   # 2019 Cross-Technology Communications for Heterogeneous IoT Devices Through Artificial Doppler Shifts
 - id: doi:10.1109/TWC.2018.2883443
+  type: conference
   shortPublisher: IEEE TWC'19
   image:
 
@@ -1026,6 +1062,7 @@
 
   # 2018 Toward battery-free wearable devices: The synergy between two feet
 - id: doi:10.1145/3185503
+  type: journal
   shortPublisher: ACM TCPS'18
   image:
 
@@ -1036,11 +1073,13 @@
 
   # 2018 Securing on-body IoT devices by exploiting creeping wave propagation
 - id: doi:10.1109/JSAC.2018.2824939
+  type: journal
   shortPublisher: IEEE JSAC'18
   image:
 
   # 2018 Toward cross-layer design for non-orthogonal multiple access: A quality-of-experience perspective
 - id: doi:10.1109/MWC.2018.1700081
+  type: journal
   shortPublisher: IEEE TWC'18
   image:
 
@@ -1071,16 +1110,19 @@
 
   # 2017 Your glasses know your diet: Dietary monitoring using electromyography sensors
 - id: doi:10.1109/JIOT.2017.2656151
+  type: journal
   shortPublisher: IEEE IOTJ'17
   image:
 
   # 2016 Wideband spectrum adaptation without coordination
 - id: doi:10.1109/TMC.2016.2538225
+  type: journal
   shortPublisher: IEEE TMC'16
   image:
 
   # 2016 Privacy preservation for context sensing on smartphone
 - id: doi:10.1109/TNET.2015.2512301
+  type: journal
   shortPublisher: IEEE TNET'16
   image:
 
@@ -1101,6 +1143,7 @@
 
   # 2015 Privacy-Preserving Location Authentication in Wi-Fi Networks Using Fine-Grained Physical Layer Signatures
 - id: doi:10.1109/TWC.2015.2487453
+  type: journal
   shortPublisher: IEEE TWC'15
   image:
 
@@ -1126,35 +1169,42 @@
 
   # 2014 COD: A Cooperative Cell Outage Detection Architecture for Self-Organizing Femtocell Networks
 - id: doi:10.1109/TWC.2014.2360865
+  type: journal
   shortPublisher: IEEE TWC'14
   image:
 
   # 2014 Privacy-preserving collaborative spectrum sensing with multiple service providers
 - id: doi:10.1109/TWC.2014.2363357
+  type: journal
   shortPublisher: IEEE TWC'14
   image:
 
   # 2014 Local cooperation architecture for self-healing femtocell networks
 - id: doi:10.1109/MWC.2014.6812290
+  type: conference
   shortPublisher: IEEE MWC'14
   image:
 
   # 2014 Location Privacy Preservation in Database-Driven Cognitive Radio Networks
 - id: doi:10.1007/978-3-319-01943-7_4
+  type: book
   shortPublisher: Location Privacy Preservation in Cognitive Radio Networks
   image:
 
   # 2014 Privacy Preservation Techniques
 - id: doi:10.1007/978-3-319-01943-7_2
+  type: book
   shortPublisher: Location Privacy Preservation in Cognitive Radio Networks
   image:
 
   # 2014 Future research directions
 - id: doi:10.1007/978-981-19-1797-4_6
+  type: book
   shortPublisher: Location Privacy Preservation in Cognitive Radio Networks
   image:
 
   # 2014 Location Privacy Preservation in Cognitive Radio Networks
 - id: doi:10.1007/978-3-319-01943-7
+  type: book
   shortPublisher: SpringerBriefs in Computer Science, Springer
   image:

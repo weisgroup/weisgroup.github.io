@@ -124,7 +124,7 @@
   publisher: Lecture Notes in Computer Science
   date: '2023-04-14'
   link: https://doi.org/g73r8w
-  type: journal
+  type: conference
   shortPublisher: DASFAA'23
   description: null
   image: null
@@ -143,7 +143,7 @@
   publisher: IEEE INFOCOM 2022 - IEEE Conference on Computer Communications
   date: '2022-05-02'
   link: https://doi.org/grbtcc
-  type: journal
+  type: conference
   shortPublisher: IEEE INFOCOM'22
   description: null
   image: null
@@ -238,7 +238,7 @@
   publisher: IEEE INFOCOM 2020 - IEEE Conference on Computer Communications
   date: '2020-07-06'
   link: https://doi.org/ghkk6h
-  type: paper
+  type: conference
   shortPublisher: IEEE INFOCOM'20
   description: null
   image: null
@@ -258,7 +258,7 @@
   publisher: Proceedings of the AAAI Conference on Artificial Intelligence
   date: '2020-04-03'
   link: https://doi.org/g73r92
-  type: paper
+  type: conference
   shortPublisher: AAAI'20
   description: null
   image: null
@@ -276,7 +276,7 @@
   publisher: 2019 IEEE Global Communications Conference (GLOBECOM)
   date: '2019-12-09'
   link: https://doi.org/g73r93
-  type: paper
+  type: conference
   shortPublisher: IEEE GLOBECOM'19
   description: null
   image: null
@@ -295,7 +295,7 @@
   publisher: 2019 IEEE Global Communications Conference (GLOBECOM)
   date: '2019-12-09'
   link: https://doi.org/g35rp7
-  type: paper
+  type: conference
   shortPublisher: IEEE GLOBECOM'19
   description: null
   image: null
@@ -313,7 +313,7 @@
   publisher: 2019 IEEE Global Communications Conference (GLOBECOM)
   date: '2019-12-09'
   link: https://doi.org/g73r98
-  type: paper
+  type: conference
   shortPublisher: IEEE GLOBECOM'19
   description: null
   image: null
@@ -333,7 +333,7 @@
   publisher: ICC 2019 - 2019 IEEE International Conference on Communications (ICC)
   date: '2019-05-20'
   link: https://doi.org/g73sbb
-  type: paper
+  type: conference
   shortPublisher: IEEE ICC'19
   description: null
   image: null
@@ -352,7 +352,7 @@
   publisher: 2018 IEEE Global Communications Conference (GLOBECOM)
   date: '2018-12-09'
   link: https://doi.org/g737w2
-  type: paper
+  type: conference
   shortPublisher: IEEE GLOBECOM'18
   description: null
   image: null
@@ -370,7 +370,7 @@
   publisher: Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems
   date: '2018-11-04'
   link: https://doi.org/g737w4
-  type: paper
+  type: conference
   shortPublisher: ACM Conference on Embedded Networked Sensor Systems
   description: null
   image: null
@@ -389,7 +389,7 @@
   publisher: Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems
   date: '2018-11-04'
   link: https://doi.org/g737w7
-  type: paper
+  type: conference
   shortPublisher: ACM Conference on Embedded Networked Sensor Systems
   description: null
   image: null
@@ -407,7 +407,7 @@
   publisher: IEEE INFOCOM 2018 - IEEE Conference on Computer Communications
   date: '2018-04-16'
   link: https://doi.org/ghkmtp
-  type: paper
+  type: conference
   shortPublisher: IEEE INFOCOM'18
   description: null
   image: null
@@ -425,7 +425,7 @@
   publisher: IEEE INFOCOM 2017 - IEEE Conference on Computer Communications
   date: '2017-05-01'
   link: https://doi.org/g737w9
-  type: paper
+  type: conference
   shortPublisher: IEEE INFOCOM'17
   description: null
   image: null
@@ -443,7 +443,7 @@
     CD-ROM
   date: '2016-11-14'
   link: https://doi.org/g737xb
-  type: paper
+  type: conference
   shortPublisher: ACM Conference on Embedded Network Sensor Systems CD-ROM
   description: null
   image: null
@@ -461,8 +461,8 @@
     and Ubiquitous Computing
   date: '2016-09-12'
   link: https://doi.org/gf3cpk
-  type: paper
-  shortPublisher: ACM International Joint Conference on Pervasive and Ubiquitous Computing
+  type: conference
+  shortPublisher: ACM UbiComp'16
   description: null
   image: null
   tags:
@@ -478,7 +478,7 @@
   publisher: 2016 IEEE International Conference on Communications (ICC)
   date: '2016-05-22'
   link: https://doi.org/g737xf
-  type: paper
+  type: conference
   shortPublisher: IEEE ICC'16
   description: null
   image: null
@@ -496,7 +496,7 @@
     in Sensor Networks (IPSN)
   date: '2016-04-11'
   link: https://doi.org/g737xg
-  type: paper
+  type: conference
   shortPublisher: IEEE IPSN'16
   description: null
   image: null
@@ -516,7 +516,7 @@
     Computer Communications
   date: '2016-04-10'
   link: https://doi.org/g737xh
-  type: paper
+  type: conference
   shortPublisher: IEEE INFOCOM'16
   description: null
   image: null
@@ -536,7 +536,7 @@
     Computer Communications
   date: '2016-04-10'
   link: https://doi.org/ggsgx2
-  type: paper
+  type: conference
   shortPublisher: IEEE INFOCOM'16
   description: null
   image: null
@@ -555,7 +555,7 @@
     Computer Communications
   date: '2016-04-10'
   link: https://doi.org/g737xm
-  type: paper
+  type: conference
   shortPublisher: IEEE INFOCOM'16
   description: null
   image: null
@@ -574,7 +574,7 @@
   publisher: 2015 IEEE International Conference on Communications (ICC)
   date: '2015-06-08'
   link: https://doi.org/g737xn
-  type: paper
+  type: conference
   shortPublisher: IEEE ICC'15
   description: null
   image: null
@@ -594,7 +594,7 @@
   publisher: 2015 IEEE Conference on Computer Communications (INFOCOM)
   date: '2015-04-26'
   link: https://doi.org/g737xx
-  type: paper
+  type: conference
   shortPublisher: IEEE INFOCOM'15
   description: null
   image: null
@@ -612,7 +612,7 @@
   publisher: 2014 IEEE Global Communications Conference
   date: '2014-12-08'
   link: https://doi.org/g737x2
-  type: paper
+  type: conference
   shortPublisher: IEEE GLOCOM'14
   description: null
   image: null
@@ -628,7 +628,7 @@
   publisher: IEEE INFOCOM 2014 - IEEE Conference on Computer Communications
   date: '2014-04-27'
   link: https://doi.org/g737x5
-  type: paper
+  type: conference
   shortPublisher: IEEE INFOCOM'14
   description: null
   image: null
@@ -646,7 +646,7 @@
   publisher: 2013 IEEE Global Communications Conference (GLOBECOM)
   date: '2013-12-09'
   link: https://doi.org/g737x7
-  type: paper
+  type: conference
   shortPublisher: IEEE GLOCOM'13
   description: null
   image: null
@@ -664,7 +664,7 @@
   publisher: 2013 IEEE Global Communications Conference (GLOBECOM)
   date: '2013-12-09'
   link: https://doi.org/g737x9
-  type: paper
+  type: conference
   shortPublisher: IEEE GLOCOM'13
   description: null
   image: null
@@ -681,7 +681,7 @@
   publisher: 2013 Proceedings IEEE INFOCOM
   date: '2013-04-14'
   link: https://doi.org/g737zb
-  type: paper
+  type: conference
   shortPublisher: IEEE INFCOM'13
   description: null
   image: null
@@ -698,7 +698,7 @@
   publisher: 2012 IEEE Global Communications Conference (GLOBECOM)
   date: '2012-12-03'
   link: https://doi.org/g737zf
-  type: paper
+  type: conference
   shortPublisher: IEEE GLOCOM'12
   description: null
   image: null
@@ -716,7 +716,7 @@
   publisher: 2011 IEEE Global Telecommunications Conference - GLOBECOM 2011
   date: '2011-12-05'
   link: https://doi.org/fx8nrv
-  type: paper
+  type: conference
   shortPublisher: IEEE GLOCOM'11
   description: null
   image: null
@@ -736,6 +736,7 @@
   publisher: IEEE Transactions on Wireless Communications
   date: '2022-06-01'
   link: https://doi.org/gnt8g4
+  type: conference
   shortPublisher: IEEE TWC'21
   image: null
   plugin: sources.py
@@ -752,6 +753,7 @@
   publisher: IEEE Internet of Things Journal
   date: '2024-01-01'
   link: https://doi.org/g73sbc
+  type: journal
   shortPublisher: IEEE IOTJ'24
   image: null
   plugin: sources.py
@@ -768,6 +770,7 @@
   publisher: IEEE Transactions on Mobile Computing
   date: '2024-01-01'
   link: https://doi.org/g73sbf
+  type: journal
   shortPublisher: IEEE TMC'24
   image: null
   plugin: sources.py
@@ -784,6 +787,7 @@
   publisher: IEEE Transactions on Mobile Computing
   date: '2024-01-01'
   link: https://doi.org/g24cbc
+  type: journal
   shortPublisher: IEEE TMC'24
   image: null
   plugin: sources.py
@@ -799,6 +803,7 @@
   publisher: IEEE Transactions on Intelligent Transportation Systems
   date: '2024-01-01'
   link: https://doi.org/g24cbh
+  type: journal
   shortPublisher: IEEE TITS'23
   image: null
   plugin: sources.py
@@ -814,6 +819,7 @@
   publisher: IEEE Transactions on Signal Processing
   date: '2023-01-01'
   link: https://doi.org/g73sbj
+  type: journal
   shortPublisher: IEEE TSP'23
   image: null
   plugin: sources.py
@@ -829,6 +835,7 @@
   publisher: Science China Information Sciences
   date: '2023-02-23'
   link: https://doi.org/g73sbm
+  type: journal
   shortPublisher: Science China. Information Sciences
   image: null
   plugin: sources.py
@@ -844,6 +851,7 @@
   publisher: IEEE Internet of Things Journal
   date: '2023-06-01'
   link: https://doi.org/g73sbp
+  type: journal
   shortPublisher: IEEE IOTJ'23
   image: null
   plugin: sources.py
@@ -860,7 +868,8 @@
     Technologies
   date: '2022-12-21'
   link: https://doi.org/g24b95
-  shortPublisher: ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+  type: conference
+  shortPublisher: ACM UbiComp'22
   image: null
   plugin: sources.py
   file: sources.yaml
@@ -875,6 +884,7 @@
   publisher: IEEE Transactions on Mobile Computing
   date: '2022-01-01'
   link: https://doi.org/gtxgqd
+  type: journal
   shortPublisher: IEEE TMC'22
   image: null
   plugin: sources.py
@@ -892,6 +902,7 @@
   publisher: IEEE Transactions on Mobile Computing
   date: '2022-01-01'
   link: https://doi.org/g73sbv
+  type: conference
   shortPublisher: IEEE TMC'22
   image: null
   plugin: sources.py
@@ -906,6 +917,7 @@
   publisher: IEEE Internet of Things Journal
   date: '2022-06-15'
   link: https://doi.org/g73sbx
+  type: conference
   shortPublisher: IEEE IOTJ'21
   image: null
   plugin: sources.py
@@ -983,6 +995,7 @@
   publisher: IEEE Transactions on Mobile Computing
   date: '2022-12-01'
   link: https://doi.org/g73sb7
+  type: conference
   shortPublisher: IEEE TMC'21
   image: null
   plugin: sources.py
@@ -999,6 +1012,7 @@
   publisher: IEEE Transactions on Mobile Computing
   date: '2022-12-01'
   link: https://doi.org/g73sb9
+  type: conference
   shortPublisher: IEEE TMC'21
   image: null
   plugin: sources.py
@@ -1017,6 +1031,7 @@
   publisher: IEEE Internet of Things Journal
   date: '2021-03-15'
   link: https://doi.org/gjh9wx
+  type: conference
   shortPublisher: IEEE IOTJ'21
   image: null
   plugin: sources.py
@@ -1032,6 +1047,7 @@
   publisher: IEEE Transactions on Mobile Computing
   date: '2021-01-01'
   link: https://doi.org/g73scd
+  type: conference
   shortPublisher: IEEE TMC'21
   image: null
   plugin: sources.py
@@ -1046,6 +1062,7 @@
   publisher: IEEE Transactions on Communications
   date: '2020-01-01'
   link: https://doi.org/g73sch
+  type: conference
   shortPublisher: IEEE TCOMM'20
   image: null
   plugin: sources.py
@@ -1060,6 +1077,7 @@
   publisher: IEEE/ACM Transactions on Networking
   date: '2021-04-01'
   link: https://doi.org/g73sck
+  type: conference
   shortPublisher: IEEE TNET'21
   image: null
   plugin: sources.py
@@ -1090,6 +1108,7 @@
   publisher: China Communications
   date: '2020-12-01'
   link: https://doi.org/gnfsbz
+  type: conference
   shortPublisher: IEEE JCC'20
   image: null
   plugin: sources.py
@@ -1105,6 +1124,7 @@
   publisher: IEEE Transactions on Mobile Computing
   date: '2022-06-01'
   link: https://doi.org/gmkqpv
+  type: conference
   shortPublisher: IEEE TMC'20
   image: null
   plugin: sources.py
@@ -1118,6 +1138,7 @@
   publisher: IEEE Transactions on Vehicular Technology
   date: '2020-11-01'
   link: https://doi.org/gm83pc
+  type: conference
   shortPublisher: IEEE TVT'20
   image: null
   plugin: sources.py
@@ -1150,6 +1171,7 @@
   publisher: IEEE Transactions on Wireless Communications
   date: '2020-09-01'
   link: https://doi.org/g73sc2
+  type: conference
   shortPublisher: IEEE TWC'20
   image: null
   plugin: sources.py
@@ -1165,6 +1187,7 @@
   publisher: IEEE Transactions on Wireless Communications
   date: '2020-08-01'
   link: https://doi.org/gk7697
+  type: conference
   shortPublisher: IEEE TWC'20
   image: null
   plugin: sources.py
@@ -1178,6 +1201,7 @@
   publisher: IEEE Transactions on Industrial Electronics
   date: '2021-05-01'
   link: https://doi.org/g73sc5
+  type: conference
   shortPublisher: IEEE TIE'20
   image: null
   plugin: sources.py
@@ -1195,6 +1219,7 @@
   publisher: IEEE Internet of Things Journal
   date: '2020-08-01'
   link: https://doi.org/g73sc9
+  type: conference
   shortPublisher: IEEE IOTJ'20
   image: null
   plugin: sources.py
@@ -1209,6 +1234,7 @@
   publisher: IEEE/ACM Transactions on Networking
   date: '2020-04-01'
   link: https://doi.org/g73sdb
+  type: conference
   shortPublisher: IEEE TNET'20
   image: null
   plugin: sources.py
@@ -1223,6 +1249,7 @@
   publisher: IEEE Transactions on Wireless Communications
   date: '2020-05-01'
   link: https://doi.org/gn3k97
+  type: conference
   shortPublisher: IEEE TWC'20
   image: null
   plugin: sources.py
@@ -1237,6 +1264,7 @@
   publisher: IEEE Internet of Things Journal
   date: '2020-03-01'
   link: https://doi.org/gg4q2n
+  type: conference
   shortPublisher: IEEE IOTJ'19
   image: null
   plugin: sources.py
@@ -1252,6 +1280,7 @@
   publisher: IEEE Transactions on Wireless Communications
   date: '2020-02-01'
   link: https://doi.org/g73sdg
+  type: conference
   shortPublisher: IEEE TWC'19
   image: null
   plugin: sources.py
@@ -1268,6 +1297,7 @@
   publisher: IEEE Transactions on Vehicular Technology
   date: '2020-01-01'
   link: https://doi.org/g73sdj
+  type: conference
   shortPublisher: IEEE TVT'19
   image: null
   plugin: sources.py
@@ -1284,6 +1314,7 @@
   publisher: IEEE Transactions on Multimedia
   date: '2020-06-01'
   link: https://doi.org/ghphjn
+  type: conference
   shortPublisher: IEEE TMM'19
   image: null
   plugin: sources.py
@@ -1300,6 +1331,7 @@
   publisher: IEEE Transactions on Multimedia
   date: '2020-02-01'
   link: https://doi.org/g73sdq
+  type: conference
   shortPublisher: IEEE TMM'19
   image: null
   plugin: sources.py
@@ -1315,6 +1347,7 @@
   publisher: IEEE Journal of Selected Topics in Signal Processing
   date: '2019-09-01'
   link: https://doi.org/gjkd6c
+  type: conference
   shortPublisher: IEEE JSTSP'19
   image: null
   plugin: sources.py
@@ -1331,6 +1364,7 @@
   publisher: IEEE Transactions on Wireless Communications
   date: '2019-02-01'
   link: https://doi.org/g73sdt
+  type: conference
   shortPublisher: IEEE TWC'19
   image: null
   plugin: sources.py
@@ -1456,6 +1490,7 @@
   publisher: ACM Transactions on Cyber-Physical Systems
   date: '2018-06-13'
   link: https://doi.org/g737zz
+  type: journal
   shortPublisher: ACM TCPS'18
   image: null
   plugin: sources.py
@@ -1485,6 +1520,7 @@
   publisher: IEEE Journal on Selected Areas in Communications
   date: '2018-04-01'
   link: https://doi.org/g737z4
+  type: journal
   shortPublisher: IEEE JSAC'18
   image: null
   plugin: sources.py
@@ -1502,6 +1538,7 @@
   publisher: IEEE Wireless Communications
   date: '2018-04-01'
   link: https://doi.org/gfxgb6
+  type: journal
   shortPublisher: IEEE TWC'18
   image: null
   plugin: sources.py
@@ -1591,6 +1628,7 @@
   publisher: IEEE Internet of Things Journal
   date: '2017-06-01'
   link: https://doi.org/g7372h
+  type: journal
   shortPublisher: IEEE IOTJ'17
   image: null
   plugin: sources.py
@@ -1607,6 +1645,7 @@
   publisher: IEEE Transactions on Mobile Computing
   date: '2017-01-01'
   link: https://doi.org/g7372m
+  type: journal
   shortPublisher: IEEE TMC'16
   image: null
   plugin: sources.py
@@ -1619,6 +1658,7 @@
   publisher: IEEE/ACM Transactions on Networking
   date: '2016-12-01'
   link: https://doi.org/f9mgd5
+  type: journal
   shortPublisher: IEEE TNET'16
   image: null
   plugin: sources.py
@@ -1675,6 +1715,7 @@
   publisher: IEEE Transactions on Wireless Communications
   date: '2016-02-01'
   link: https://doi.org/f8b5d7
+  type: journal
   shortPublisher: IEEE TWC'15
   image: null
   plugin: sources.py
@@ -1745,6 +1786,7 @@
   publisher: IEEE Transactions on Wireless Communications
   date: '2014-11-01'
   link: https://doi.org/f6qd3x
+  type: journal
   shortPublisher: IEEE TWC'14
   image: null
   plugin: sources.py
@@ -1757,6 +1799,7 @@
   publisher: IEEE Transactions on Wireless Communications
   date: '2015-02-01'
   link: https://doi.org/f62v2k
+  type: journal
   shortPublisher: IEEE TWC'14
   image: null
   plugin: sources.py
@@ -1769,6 +1812,7 @@
   publisher: IEEE Wireless Communications
   date: '2014-04-01'
   link: https://doi.org/f54486
+  type: conference
   shortPublisher: IEEE MWC'14
   image: null
   plugin: sources.py
@@ -1781,6 +1825,7 @@
   publisher: SpringerBriefs in Computer Science
   date: '2013-12-26'
   link: https://doi.org/g73724
+  type: book
   shortPublisher: Location Privacy Preservation in Cognitive Radio Networks
   image: null
   plugin: sources.py
@@ -1793,6 +1838,7 @@
   publisher: SpringerBriefs in Computer Science
   date: '2013-12-26'
   link: https://doi.org/g73726
+  type: book
   shortPublisher: Location Privacy Preservation in Cognitive Radio Networks
   image: null
   plugin: sources.py
@@ -1807,6 +1853,7 @@
   publisher: SpringerBriefs in Computer Science
   date: '2022-01-01'
   link: https://doi.org/g73727
+  type: book
   shortPublisher: Location Privacy Preservation in Cognitive Radio Networks
   image: null
   plugin: sources.py
@@ -1819,6 +1866,7 @@
   publisher: SpringerBriefs in Computer Science
   date: '2014-01-01'
   link: https://doi.org/g7373b
+  type: book
   shortPublisher: SpringerBriefs in Computer Science, Springer
   image: null
   plugin: sources.py
