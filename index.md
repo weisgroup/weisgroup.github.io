@@ -2,13 +2,20 @@
 ---
 
 # MetaIoT Lab
-[MetaIoT Lab](https://metaiot.group/) is leaded by Prof. Wei Wang.
-Our mission is to tackle significant real-world problems by identifying key challenges and developing groundbreaking solutions. We adopt a holistic research approach, blending rigorous theoretical exploration with practical implementations. Through this integrated process, we create, test, and refine prototypes, ensuring that our innovations are not only pioneering but also practical and ready for real-world application. Our cycle of continuous improvement drives us to adapt and evolve our solutions to meet changing needs effectively.
-
-{% include carousel.html %}
+Here at Mobile, Sensing, Automative & Internet of Things Lab (MetaIoT), which is leaded by [Prof. Wei Wang](https://metaiot.group/) in Huazhong University of Science and Technology. we create the next generation of intelligent wireless systems for communication and sensing with applications in autonomous systems, IoT network, wireless communication and sensing.
 
 ## Research Overview
-Our research group is at the forefront of developing innovative sensing, communication, and networking technologies to transform robotics, autonomous systems, and everyday devices. We tackle the full spectrum of challenges, from building an initial system prototype to understanding real problems, then developing a theoretical model, coming up with theoretical breakthroughs to practical prototype development for breakthroughs, and finally, deployment in the real world.
+Our research group is currently focused on the following key areas: 
+- **Wireless SLAM, mmWave 3D Perception:** including mmWave for autovehicle navagation, sensing, V2X, and interference cancellation applications.
+- **Backscatter Communication/Sensing:** including WiFi/BLE/LoRa/GPS backscatter communication and localization applications
+- **Video Compression/Transmission for Edge IoT:** such as reliable video streaming for UAVs and batteryless devices, 3D Lidar point cloud compression, etc.
+
+Some of our completed research includes:
+- WiFi Sensing and Localization by repurposing the pervasive signals for Human Sensing, Indoor Navigation, and finding hidden IoT devices.
+- Backscatter Communication for Battery-free IoT: including WiFi/LoRa/BLE Tags, and backscatter localization.
+
+
+
 ## Key Research Areas
 
 {% capture text %}
@@ -39,7 +46,7 @@ Our research group is at the forefront of developing innovative sensing, communi
 {% capture text %}
 
 - Novel sensing technologies
-- CM-accurate Localization
+- GPS localization and sensing
 
 {%
   include button.html
