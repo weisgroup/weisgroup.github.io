@@ -124,7 +124,6 @@
   # repo: greenelab/meta-review
 
 # FedGR: Federated Learning with Gravitation Regulation for Double Imbalance Distribution
-
 - id: doi:10.1007/978-3-031-30637-2_47
   type: conference
   shortPublisher: DASFAA'23
