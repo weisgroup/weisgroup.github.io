@@ -72,6 +72,19 @@ button {
   }
 }
 
+.button[data-style="slides"] {
+  line-height: 2em;
+  height: 1.8em;
+  background: #337ab7;
+  border-color: #2e6da4;
+  border-radius: 5px;
+
+  &:hover {
+    background-color: #286090;
+    border-color: #204d74;
+  }
+}
+
 .button[data-flip] {
   flex-direction: row-reverse;
 }
