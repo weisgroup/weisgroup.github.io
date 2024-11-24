@@ -19,6 +19,9 @@
   - type: docs
     text: PDF
     link: https://metaiot.group/publication/paper/mobicom24-GPSense.pdf
+  - type: video
+    text: VIDEO
+    link: https://cdn.metaiot.group/metaiot/video/Mobicom24Demo.mp4
   tags:
   - GPS Sensing
   plugin: sources.py
