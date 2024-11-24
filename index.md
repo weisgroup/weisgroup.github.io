@@ -2,7 +2,7 @@
 ---
 
 # MetaIoT Lab
-[MetaIoT Lab](https://metaiot.group/) is a XXXX lab lead by Prof. Wei Wang.
+[MetaIoT Lab](https://metaiot.group/) is leaded by Prof. Wei Wang.
 Our mission is to tackle significant real-world problems by identifying key challenges and developing groundbreaking solutions. We adopt a holistic research approach, blending rigorous theoretical exploration with practical implementations. Through this integrated process, we create, test, and refine prototypes, ensuring that our innovations are not only pioneering but also practical and ready for real-world application. Our cycle of continuous improvement drives us to adapt and evolve our solutions to meet changing needs effectively.
 
 {% include carousel.html %}
@@ -13,9 +13,10 @@ Our research group is at the forefront of developing innovative sensing, communi
 
 {% capture text %}
 
-- LowPower,LongRange Backscatter
-- BLE，WiFi, mmWave, LoRa
-- Universal wireless, batteryless
+- Low power and long range backscatter
+- BLE，WiFi, mmWave, LoRa communication technology
+- Wireless, batteryless computation on edge device
+  
 {%
   include button.html
   link="publication"
@@ -31,13 +32,13 @@ Our research group is at the forefront of developing innovative sensing, communi
   include feature.html
   image="images/areas/iot.jpg"
   link="publication"
-  title="Ubiquitous loT"
+  title="Ubiquitous loT Communication"
   text=text
 %}
 
 {% capture text %}
 
-- Multiple Technologies: WiFi, UWB, BLE, LoRa
+- Novel sensing technologies
 - CM-accurate Localization
 
 {%
@@ -69,7 +70,7 @@ Our research group is at the forefront of developing innovative sensing, communi
 
 {%
   include button.html
-  link="team"
+  link="publication"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
