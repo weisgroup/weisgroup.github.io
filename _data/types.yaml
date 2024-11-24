@@ -190,5 +190,5 @@ package:
 
 video:
   icon: fa-solid fa-file-video
-  text: Documentation
-  tooltip: Documentation
+  text: VIDEO
+  tooltip: video

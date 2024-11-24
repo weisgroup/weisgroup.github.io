@@ -59,6 +59,19 @@ button {
   }
 }
 
+.button[data-style="video"] {
+  line-height: 2em;
+  height: 1.8em;
+  background: #d9534f;
+  border-color: #d43f3a;
+  border-radius: 5px;
+
+  &:hover {
+    background-color: #c9302c;
+    border-color: #ac2925;
+  }
+}
+
 .button[data-flip] {
   flex-direction: row-reverse;
 }
