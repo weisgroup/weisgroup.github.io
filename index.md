@@ -75,7 +75,7 @@ Some of our completed research includes:
 
 - Multi-sensor fusion: Radar, Camera, Lidar, GPS, IMU
   
-- Autonomous navigation, Path  planning
+- Autonomous navigation, path planning
   
 - Indoor mapping for smart infrastructure
 
