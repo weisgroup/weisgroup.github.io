@@ -47,17 +47,16 @@
 - id: doi:10.1145/3570361.3592511
   type: conference
   shortPublisher: ACM MobiCom'23
-  description: Expanding the GNSS signals coverage with backscatter tags.
+  description: 'GPSMirror: Expanding the GNSS signals coverage with backscatter tags'.
   date: 2023-6-10
   image: https://www.catalyzex.com/_next/image?url=https%3A%2F%2Fd3i71xaburhd42.cloudfront.net%2F531429cc78035c2fc43560d8a7dd09d93fd8b201%2F2-Figure1-1.png&w=384&q=75
-  buttons:
-  # - type: manubot
-  #   link: https://greenelab.github.io/meta-review/
-  #  - type: docs
-  #    text: PDF
-  #    link: https://metaiot.group/publication/paper/mobicom24-GPSense.pdf
-  # - type: website
-  #  link: http://manubot.org/
+buttons:
+    - type: docs
+      text: PDF
+      link: https://arxiv.org/pdf/2304.07572
+    - type: slides
+      text: Slides
+      link: https://sigmobile.org/mobicom/2023/media/presentations/DongGPSMirror.pptx
   tags:
     - Backscatter Network
     - GPS Sensing
@@ -814,7 +813,7 @@
   # 2023 Robust Metric Localization in Autonomous Driving via Doppler Compensation With Single-Chip Radar
 - id: doi:10.1109/TITS.2023.3305487
   type: journal
-  shortPublisher: IEEE TITS'23
+  shortPublisher: IEEE TITS'24
   image: 
 
   # 2023 Low-Complexity Symbol Reconstruction Based on Direct Symbol Decision for FBMC-OQAM Systems
