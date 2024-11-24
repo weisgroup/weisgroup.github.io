@@ -21,8 +21,10 @@ Some of our completed research includes:
 {% capture text %}
 
 - Low power and long range backscatter
-- BLE，WiFi, mmWave, LoRa communication technology
-- Wireless, batteryless computation on edge device
+  
+- BLE，WiFi, mmWave, LoRa communication
+  
+- Wireless, batteryless computation on edge devices
   
 {%
   include button.html
@@ -39,7 +41,7 @@ Some of our completed research includes:
   include feature.html
   image="images/areas/iot.jpg"
   link="publication"
-  title="Ubiquitous loT Communication"
+  title="Ubiquitous loT"
   text=text
 %}
 
@@ -71,9 +73,11 @@ Some of our completed research includes:
 
 {% capture text %}
 
-- Multi-sensor fusion:Radar, Camera, Lidar, GPS, IMU
-- Autonomous navigation, path  planning,
-- Indoor mapping Low-power reflective tags for smart infrastructure
+- Multi-sensor fusion: Radar, Camera, Lidar, GPS, IMU
+  
+- Autonomous navigation, Path  planning
+  
+- Indoor mapping for smart infrastructure
 
 {%
   include button.html
