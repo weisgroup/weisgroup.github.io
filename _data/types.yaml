@@ -190,5 +190,10 @@ package:
 
 video:
   icon: fa-solid fa-file-video
-  text: VIDEO
+  text: Video
   tooltip: video
+
+slides:
+  icon: fa-solid fa-file-powerpoint
+  text: Slides
+  tooltip: slides
