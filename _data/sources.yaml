@@ -386,7 +386,8 @@
 
 - id: doi:10.1145/3274783.3275157
   type: conference
-  shortPublisher: ACM Conference on Embedded Networked Sensor Systems
+  title: 'Wins: Wifi-inertial indoor state estimation for mavs'
+  shortPublisher: ACM SenSys'18
   description: 
   date: 2018-11-4
   image: 
@@ -406,7 +407,8 @@
 
 - id: doi:10.1145/3274783.3274841
   type: conference
-  shortPublisher: ACM Conference on Embedded Networked Sensor Systems
+  title: 'ShieldScatter: Improving IoT security with backscatter assistance'
+  shortPublisher: ACM SenSys'18
   description: 
   date: 2018-11-4
   image: 
@@ -646,7 +648,7 @@
 
 - id: doi:10.1109/GLOCOM.2014.7037570
   type: conference
-  shortPublisher: IEEE GLOCOM'14
+  shortPublisher: IEEE GLOBECOM'14
   description: 
   date: 2014-12-8
   image: 
@@ -686,7 +688,7 @@
 
 - id: doi:10.1109/GLOCOM.2013.6831555
   type: conference
-  shortPublisher: IEEE GLOCOM'13
+  shortPublisher: IEEE GLOBECOM'13
   description: 
   date: 2013-12-9
   image: 
@@ -706,7 +708,7 @@
 
 - id: doi:10.1109/GLOCOM.2013.6831542
   type: conference
-  shortPublisher: IEEE GLOCOM'13
+  shortPublisher: IEEE GLOBECOM'13
   description: 
   date: 2013-12-9
   image: 
@@ -746,7 +748,7 @@
 
 - id: doi:10.1109/GLOCOM.2012.6503935
   type: conference
-  shortPublisher: IEEE GLOCOM'12
+  shortPublisher: IEEE GLOBECOM'12
   description: 
   date: 2012-12-3
   image: 
@@ -766,7 +768,7 @@
 
 - id: doi:10.1109/GLOCOM.2011.6133802
   type: conference
-  shortPublisher: IEEE GLOCOM'11
+  shortPublisher: IEEE GLOBECOM'11
   description: 
   date: 2011-12-5
   image: 
