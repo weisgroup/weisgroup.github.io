@@ -1,0 +1,10 @@
+.interval::before {
+  display: block;
+  font-size: 1.9rem;
+  color: #888;
+  text-align: center;
+  letter-spacing: 1.5rem;
+  content: "...";
+}
+
+/*# sourceMappingURL=interval.css.map */
