@@ -7,7 +7,7 @@ role: pi
 aliases:
   - W. Wang
   - W Wang
-url: https://weisgroup.github.io/weiwang.html
+home-url : https://weisgroup.github.io/weiwang.html
 links:
   home-page: https://weiwang.cslee.cc
   orcid: 0000-0001-8713-9213

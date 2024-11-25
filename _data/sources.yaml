@@ -55,7 +55,7 @@
       text: PDF
       link: https://arxiv.org/pdf/2304.07572
     - type: slides
-      text: Slides
+      text: SLIDES
       link: https://sigmobile.org/mobicom/2023/media/presentations/DongGPSMirror.pptx
   tags:
     - Backscatter Network
