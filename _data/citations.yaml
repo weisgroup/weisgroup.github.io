@@ -370,7 +370,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3274783.3275157
-  title: WINS
+  title: 'Wins: Wifi-inertial indoor state estimation for mavs'
   authors:
   - Shengkai Zhang
   - Sheyang Tang
@@ -380,7 +380,7 @@
   date: '2018-11-04'
   link: https://doi.org/g737w4
   type: conference
-  shortPublisher: ACM Conference on Embedded Networked Sensor Systems
+  shortPublisher: ACM SenSys'18
   description: null
   image: null
   tags:
@@ -388,7 +388,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3274783.3274841
-  title: ShieldScatter
+  title: 'ShieldScatter: Improving IoT security with backscatter assistance'
   authors:
   - Zhiqing Luo
   - Wei Wang
@@ -399,7 +399,7 @@
   date: '2018-11-04'
   link: https://doi.org/g737w7
   type: conference
-  shortPublisher: ACM Conference on Embedded Networked Sensor Systems
+  shortPublisher: ACM SenSys'18
   description: null
   image: null
   tags:
@@ -622,7 +622,7 @@
   date: '2014-12-08'
   link: https://doi.org/g737x2
   type: conference
-  shortPublisher: IEEE GLOCOM'14
+  shortPublisher: IEEE GLOBECOM'14
   description: null
   image: null
   tags:
@@ -656,7 +656,7 @@
   date: '2013-12-09'
   link: https://doi.org/g737x7
   type: conference
-  shortPublisher: IEEE GLOCOM'13
+  shortPublisher: IEEE GLOBECOM'13
   description: null
   image: null
   tags:
@@ -674,7 +674,7 @@
   date: '2013-12-09'
   link: https://doi.org/g737x9
   type: conference
-  shortPublisher: IEEE GLOCOM'13
+  shortPublisher: IEEE GLOBECOM'13
   description: null
   image: null
   tags:
@@ -708,7 +708,7 @@
   date: '2012-12-03'
   link: https://doi.org/g737zf
   type: conference
-  shortPublisher: IEEE GLOCOM'12
+  shortPublisher: IEEE GLOBECOM'12
   description: null
   image: null
   tags:
@@ -726,7 +726,7 @@
   date: '2011-12-05'
   link: https://doi.org/fx8nrv
   type: conference
-  shortPublisher: IEEE GLOCOM'11
+  shortPublisher: IEEE GLOBECOM'11
   description: null
   image: null
   tags:
@@ -1379,7 +1379,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3287077
-  title: NALoc
+  title: 'NALoc: Nonlinear Ambient-Light-Sensor-based Localization System'
   authors:
   - Lin Yang
   - Zeyu Wang
@@ -1389,6 +1389,7 @@
     Technologies
   date: '2018-12-27'
   link: https://doi.org/ghkqxr
+  type: conference
   shortPublisher: ACM IMWUT'18
   image: null
   plugin: sources.py
