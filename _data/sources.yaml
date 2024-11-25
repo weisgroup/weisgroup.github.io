@@ -1030,6 +1030,8 @@
 
   # 2018 NALoc: Nonlinear ambient-light-sensor-based localization system
 - id: doi:10.1145/3287077
+  type: conference
+  title: 'NALoc: Nonlinear Ambient-Light-Sensor-based Localization System'
   shortPublisher: ACM IMWUT'18
   image:
 
