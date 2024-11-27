@@ -9,5 +9,5 @@ nav:
 
 Colorful activities in the metaIoT lab
 
-{% include carousel.html %}
+
 

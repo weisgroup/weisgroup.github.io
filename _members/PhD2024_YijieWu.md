@@ -1,7 +1,7 @@
 ---
 name: Yijie Wu
 image: ../images/members/YijieWu.jpg
-description: PhD,2024
+description: Ph.D. Student 2024
 role: PhD
 links:
   email: yijiewu@hust.edu.cn

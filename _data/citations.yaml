@@ -14,6 +14,7 @@
   date: '2024-11-21'
   link: https://metaiot.group/publication/paper/mobicom24-GPSense.pdf
   type: conference
+  co-author: true
   shortPublisher: ACM MobiCom'24
   buttons:
   - type: docs
@@ -42,7 +43,7 @@
   link: https://doi.org/g2qdtt
   type: conference
   shortPublisher: ACM MobiCom'23
-  description: 'GPSMirror: Expanding the GNSS signals coverage with backscatter tags'
+  co-author: true
   image: https://www.catalyzex.com/_next/image?url=https%3A%2F%2Fd3i71xaburhd42.cloudfront.net%2F531429cc78035c2fc43560d8a7dd09d93fd8b201%2F2-Figure1-1.png&w=384&q=75
   buttons:
   - type: docs
@@ -50,7 +51,7 @@
     link: https://arxiv.org/pdf/2304.07572
   - type: slides
     text: SLIDES
-    link: https://sigmobile.org/mobicom/2023/media/presentations/DongGPSMirror.pptx
+    link: /publication/slides/DongGPSMirror.pdf
   tags:
   - Backscatter Network
   - GPS Sensing

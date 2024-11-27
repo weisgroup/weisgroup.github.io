@@ -21,11 +21,8 @@ Some of our completed research includes:
 {% capture text %}
 
 - Low power and long range backscatter
-  
 - BLE，WiFi, mmWave, LoRa communication
-  
 - Wireless, batteryless computation on edge devices
-  
 {%
   include button.html
   link="publication"
@@ -45,8 +42,9 @@ Some of our completed research includes:
   text=text
 %}
 
-{% capture text %}
 
+
+{% capture text %}
 - Novel sensing technologies
 - GPS localization and sensing
 
@@ -66,19 +64,16 @@ Some of our completed research includes:
   image="images/areas/sensing.jpg"
   link="publication"
   title="Wireless Sensing"
-  flip=true
-  style="bare"
   text=text
 %}
 
+
+
+
 {% capture text %}
-
 - Multi-sensor fusion: Radar, Camera, Lidar, GPS, IMU
-  
 - Autonomous navigation, path planning
-  
 - Indoor mapping for smart infrastructure
-
 {%
   include button.html
   link="publication"
@@ -97,8 +92,3 @@ Some of our completed research includes:
   title="Autonomous Vehicles"
   text=text
 %}
-
-
-
-## Cool System Demos
-{% include video-box.html %}

@@ -30,11 +30,15 @@
       >
         {%- assign authors = citation.authors | join: "," | split: "," -%}
         {%- for author in authors -%}
-        {%- if author == "Wei Wang" -%}
-        <a href="https://weiwang.cslee.cc"><b>Wei Wang</b></a>
-        {%- else -%}
-        {{ author }}
-        {%- endif -%}
+          {%- if author == "Wei Wang" -%}
+            {%- if citation.co-author == true -%}
+              <a href="https://weiwang.cslee.cc"><b>Wei Wang*</b></a>
+            {%- else -%}
+              <a href="https://weiwang.cslee.cc"><b>Wei Wang</b></a>
+            {%- endif -%}
+          {%- else -%}
+            {{ author }}
+          {%- endif -%}
         {%- if forloop.last == false -%}, {% endif -%}
         {%- endfor -%}
       </div>
@@ -48,9 +52,6 @@
           {{- citation.date | default: "[no date info]" | date: "%d %b %Y" -}}
         </span>
         &nbsp;·&nbsp;
-        <span class="citation-id">
-          {{- citation.id | default: "[no id info]" -}}
-        </span>
       </div>
 
       {% if citation.buttons.size > 0 %}
@@ -66,10 +67,6 @@
             %}
           {% endfor %}
         </div>
-
-        {% if citation.tags.size > 0 or citation.repo %}
-          {% include tags.html tags=citation.tags repo=citation.repo %}
-        {% endif %}
       {% endif %}
     </div>
   </div>

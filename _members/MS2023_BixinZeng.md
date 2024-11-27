@@ -1,7 +1,7 @@
 ---
 name: Bixin Zeng
 image: ../images/members/BixingZeng.jpg
-description: Ms,2023
+description: Ms, 2023
 role: Master
 links:
   email: bixinzeng@hust.edu.cn
