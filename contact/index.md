@@ -8,7 +8,7 @@ nav:
 {%
   include button.html
   type="email"
-  text="weiwang@hust.edu.cn"
+  text="weiwangw@hust.edu.cn"
   link="weiwangw@hust.edu.cn"
 %}
 
