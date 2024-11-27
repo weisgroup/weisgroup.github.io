@@ -927,6 +927,7 @@
   publisher: IEEE Internet of Things Journal
   date: '2022-06-15'
   link: https://doi.org/g73sbx
+  co-author: true
   type: conference
   shortPublisher: IEEE IOTJ'21
   image: null
