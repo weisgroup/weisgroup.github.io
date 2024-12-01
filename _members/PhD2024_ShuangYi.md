@@ -1,7 +1,7 @@
 ---
 name: Shuang Yi
 image: ../images/members/ShuangYi.jpg
-description: PhD,2024
+description: Ph.D. Student 2024
 role: PhD
 links:
   email: shuangyi821@gmail.com

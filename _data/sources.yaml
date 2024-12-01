@@ -22,6 +22,7 @@
 - id: url:https://metaiot.group/publication/paper/mobicom24-GPSense.pdf
   type: conference
   title: 'GPSense: Passive Sensing with Pervasive GPS Signals'
+  co-author: true
   authors:
     - Huixin Dong
     - Minhao Cui
@@ -47,7 +48,7 @@
 - id: doi:10.1145/3570361.3592511
   type: conference
   shortPublisher: ACM MobiCom'23
-  description: 'GPSMirror: Expanding the GNSS signals coverage with backscatter tags'
+  co-author: true
   date: 2023-6-10
   image: https://www.catalyzex.com/_next/image?url=https%3A%2F%2Fd3i71xaburhd42.cloudfront.net%2F531429cc78035c2fc43560d8a7dd09d93fd8b201%2F2-Figure1-1.png&w=384&q=75
   buttons:
@@ -56,7 +57,7 @@
       link: https://arxiv.org/pdf/2304.07572
     - type: slides
       text: SLIDES
-      link: https://sigmobile.org/mobicom/2023/media/presentations/DongGPSMirror.pptx
+      link: /publication/slides/DongGPSMirror.pdf
   tags:
     - Backscatter Network
     - GPS Sensing
@@ -855,6 +856,7 @@
 
   # 2021 Single-Antenna Device-to-Device Localization in Smart Environments With Backscatter
 - id: doi:10.1109/JIOT.2021.3121794
+  co-author: true
   type: conference
   shortPublisher: IEEE IOTJ'21
   image: 

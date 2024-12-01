@@ -5,7 +5,7 @@ description: Class of 2024.Wuhan University of Technology(Wuhan)
 role: Alumni
 group: alusm # 校友，毕业后拉入
 links:
-  email: xuedouxiao(AT)whut.edu.cn
+  email: xuedouxiao@whut.edu.cn
   twitter: sarahjohnson
 ---
 

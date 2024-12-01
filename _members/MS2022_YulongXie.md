@@ -1,7 +1,7 @@
 ---
 name: Yulong Xie
 image: ../images/members/YulongXie.jpg
-description: Ms,2022
+description: Ms, 2022
 role: Master
 links:
   email: ylrk@outlook.com

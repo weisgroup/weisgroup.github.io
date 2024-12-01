@@ -1,7 +1,7 @@
 ---
 name: Xin Chen
 image: ../images/members/XinChen.jpg
-description: Ms,2024
+description: Ms, 2024
 role: Master
 links:
   email: cx12417@163.com
