@@ -1,6 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: url:https://metaiot.group/publication/paper/mobicom24-GPSense.pdf
+- id: doi:10.1145/3636534.3690674
   title: 'GPSense: Passive Sensing with Pervasive GPS Signals'
   authors:
   - Huixin Dong
@@ -11,8 +11,8 @@
   - Wei Wang
   publisher: Proceedings of the 30th Annual International Conference on Mobile Computing
     and Networking
-  date: '2024-11-21'
-  link: https://metaiot.group/publication/paper/mobicom24-GPSense.pdf
+  date: '2024-12-04'
+  link: https://doi.org/g8tvpt
   type: conference
   co-author: true
   shortPublisher: ACM MobiCom'24
@@ -927,6 +927,7 @@
   publisher: IEEE Internet of Things Journal
   date: '2022-06-15'
   link: https://doi.org/g73sbx
+  co-author: true
   type: conference
   shortPublisher: IEEE IOTJ'21
   image: null
