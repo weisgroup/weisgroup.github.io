@@ -19,7 +19,7 @@
 # ###############################################Conference Papers ###########################################################
 
 # 2024
-- id: url:https://metaiot.group/publication/paper/mobicom24-GPSense.pdf
+- id: doi:10.1145/3636534.3690674
   type: conference
   title: 'GPSense: Passive Sensing with Pervasive GPS Signals'
   co-author: true
