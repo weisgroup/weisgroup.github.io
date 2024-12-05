@@ -71,6 +71,7 @@
   publisher: IEEE INFOCOM 2023 - IEEE Conference on Computer Communications
   date: '2023-05-17'
   link: https://doi.org/g2xzvf
+  co-author: true
   type: conference
   shortPublisher: IEEE INFOCOM'23
   description: We propose Fiammetta, the first meta-RL-based bitrate adaptation algorithm
@@ -94,6 +95,7 @@
   publisher: Proceedings of the 31st ACM International Conference on Multimedia
   date: '2023-10-27'
   link: https://doi.org/g24b9x
+  co-author: true
   type: conference
   shortPublisher: ACM MM'23
   description: null
@@ -153,6 +155,7 @@
   publisher: IEEE INFOCOM 2022 - IEEE Conference on Computer Communications
   date: '2022-05-02'
   link: https://doi.org/grbtcc
+  co-author: true
   type: conference
   shortPublisher: IEEE INFOCOM'22
   description: null
@@ -173,6 +176,7 @@
   publisher: 2021 IEEE International Conference on Robotics and Automation (ICRA)
   date: '2021-05-30'
   link: https://doi.org/gqrgm6
+  co-author: true
   type: conference
   shortPublisher: IEEE ICRA'21
   description: null
@@ -193,6 +197,7 @@
   publisher: IEEE INFOCOM 2021 - IEEE Conference on Computer Communications
   date: '2021-05-10'
   link: https://doi.org/gmr36h
+  co-author: true
   type: conference
   shortPublisher: IEEE INFOCOM'21
   description: null
@@ -211,6 +216,7 @@
   publisher: IEEE INFOCOM 2020 - IEEE Conference on Computer Communications
   date: '2020-07-06'
   link: https://doi.org/ghkkwn
+  co-author: true
   type: conference
   shortPublisher: IEEE INFOCOM'20
   description: null
@@ -229,6 +235,7 @@
   publisher: IEEE INFOCOM 2020 - IEEE Conference on Computer Communications
   date: '2020-07-06'
   link: https://doi.org/ghkk3v
+  co-author: true
   type: conference
   shortPublisher: IEEE INFOCOM'20
   description: null
@@ -248,6 +255,7 @@
   publisher: IEEE INFOCOM 2020 - IEEE Conference on Computer Communications
   date: '2020-07-06'
   link: https://doi.org/ghkk6h
+  co-author: true
   type: conference
   shortPublisher: IEEE INFOCOM'20
   description: null
@@ -286,6 +294,7 @@
   publisher: 2019 IEEE Global Communications Conference (GLOBECOM)
   date: '2019-12-09'
   link: https://doi.org/g73r93
+  co-author: true
   type: conference
   shortPublisher: IEEE GLOBECOM'19
   description: null
@@ -305,6 +314,7 @@
   publisher: 2019 IEEE Global Communications Conference (GLOBECOM)
   date: '2019-12-09'
   link: https://doi.org/g35rp7
+  co-author: true
   type: conference
   shortPublisher: IEEE GLOBECOM'19
   description: null
@@ -323,6 +333,7 @@
   publisher: 2019 IEEE Global Communications Conference (GLOBECOM)
   date: '2019-12-09'
   link: https://doi.org/g73r98
+  co-author: true
   type: conference
   shortPublisher: IEEE GLOBECOM'19
   description: null
@@ -343,6 +354,7 @@
   publisher: ICC 2019 - 2019 IEEE International Conference on Communications (ICC)
   date: '2019-05-20'
   link: https://doi.org/g73sbb
+  co-author: true
   type: conference
   shortPublisher: IEEE ICC'19
   description: null
@@ -362,6 +374,7 @@
   publisher: 2018 IEEE Global Communications Conference (GLOBECOM)
   date: '2018-12-09'
   link: https://doi.org/g737w2
+  co-author: true
   type: conference
   shortPublisher: IEEE GLOBECOM'18
   description: null
@@ -380,6 +393,7 @@
   publisher: Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems
   date: '2018-11-04'
   link: https://doi.org/g737w4
+  co-author: true
   type: conference
   shortPublisher: ACM SenSys'18
   description: null
@@ -399,6 +413,7 @@
   publisher: Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems
   date: '2018-11-04'
   link: https://doi.org/g737w7
+  co-author: true
   type: conference
   shortPublisher: ACM SenSys'18
   description: null
@@ -622,6 +637,7 @@
   publisher: 2014 IEEE Global Communications Conference
   date: '2014-12-08'
   link: https://doi.org/g737x2
+  co-author: true
   type: conference
   shortPublisher: IEEE GLOBECOM'14
   description: null
@@ -751,6 +767,7 @@
   image: null
   plugin: sources.py
   file: sources.yaml
+  co-author: true
 - id: doi:10.1109/JIOT.2024.3468428
   title: Accurate Indoor Localization for Bluetooth Low Energy Backscatter
   authors:
@@ -878,6 +895,7 @@
     Technologies
   date: '2022-12-21'
   link: https://doi.org/g24b95
+  co-author: true
   type: conference
   shortPublisher: ACM UbiComp'22
   image: null
@@ -944,6 +962,7 @@
   publisher: 2022 International Conference on Robotics and Automation (ICRA)
   date: '2022-05-23'
   link: https://doi.org/g73sb2
+  co-author: true
   shortPublisher: IEEE ICRA'22
   image: null
   plugin: sources.py
@@ -991,6 +1010,7 @@
   publisher: IEEE/ACM Transactions on Networking
   date: '2022-08-01'
   link: https://doi.org/g73sb6
+  co-author: true
   shortPublisher: IEEE TNET'21
   image: null
   plugin: sources.py
@@ -1006,6 +1026,7 @@
   publisher: IEEE Transactions on Mobile Computing
   date: '2022-12-01'
   link: https://doi.org/g73sb7
+  co-author: true
   type: conference
   shortPublisher: IEEE TMC'21
   image: null
@@ -1023,6 +1044,7 @@
   publisher: IEEE Transactions on Mobile Computing
   date: '2022-12-01'
   link: https://doi.org/g73sb9
+  co-author: true
   type: conference
   shortPublisher: IEEE TMC'21
   image: null
@@ -1058,6 +1080,7 @@
   publisher: IEEE Transactions on Mobile Computing
   date: '2021-01-01'
   link: https://doi.org/g73scd
+  co-author: true
   type: conference
   shortPublisher: IEEE TMC'21
   image: null
@@ -1073,6 +1096,7 @@
   publisher: IEEE Transactions on Communications
   date: '2020-01-01'
   link: https://doi.org/g73sch
+  co-author: true
   type: conference
   shortPublisher: IEEE TCOMM'20
   image: null
@@ -1088,6 +1112,7 @@
   publisher: IEEE/ACM Transactions on Networking
   date: '2021-04-01'
   link: https://doi.org/g73sck
+  co-author: true
   type: conference
   shortPublisher: IEEE TNET'21
   image: null
@@ -1149,6 +1174,7 @@
   publisher: IEEE Transactions on Vehicular Technology
   date: '2020-11-01'
   link: https://doi.org/gm83pc
+  co-author: true
   type: conference
   shortPublisher: IEEE TVT'20
   image: null
@@ -1167,6 +1193,7 @@
     Technologies
   date: '2020-09-04'
   link: https://doi.org/gk6c68
+  co-author: true
   shortPublisher: ACM IMWUT'20
   image: null
   plugin: sources.py
@@ -1182,6 +1209,7 @@
   publisher: IEEE Transactions on Wireless Communications
   date: '2020-09-01'
   link: https://doi.org/g73sc2
+  co-author: true
   type: conference
   shortPublisher: IEEE TWC'20
   image: null
@@ -1198,6 +1226,7 @@
   publisher: IEEE Transactions on Wireless Communications
   date: '2020-08-01'
   link: https://doi.org/gk7697
+  co-author: true
   type: conference
   shortPublisher: IEEE TWC'20
   image: null
@@ -1212,6 +1241,7 @@
   publisher: IEEE Transactions on Industrial Electronics
   date: '2021-05-01'
   link: https://doi.org/g73sc5
+  co-author: true
   type: conference
   shortPublisher: IEEE TIE'20
   image: null
@@ -1275,6 +1305,7 @@
   publisher: IEEE Internet of Things Journal
   date: '2020-03-01'
   link: https://doi.org/gg4q2n
+  co-author: true
   type: conference
   shortPublisher: IEEE IOTJ'19
   image: null
@@ -1308,6 +1339,7 @@
   publisher: IEEE Transactions on Vehicular Technology
   date: '2020-01-01'
   link: https://doi.org/g73sdj
+  co-author: true
   type: conference
   shortPublisher: IEEE TVT'19
   image: null
@@ -1325,6 +1357,7 @@
   publisher: IEEE Transactions on Multimedia
   date: '2020-06-01'
   link: https://doi.org/ghphjn
+  co-author: true
   type: conference
   shortPublisher: IEEE TMM'19
   image: null
@@ -1473,6 +1506,7 @@
     Technologies
   date: '2018-09-18'
   link: https://doi.org/g737zx
+  co-author: true
   shortPublisher: ACM IMWUT'18
   image: null
   plugin: sources.py
@@ -1488,6 +1522,7 @@
   publisher: IEEE Transactions on Vehicular Technology
   date: '2018-10-01'
   link: https://doi.org/gfjk7g
+  co-author: true
   shortPublisher: IEEE TVT'18
   image: null
   plugin: sources.py
