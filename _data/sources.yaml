@@ -64,7 +64,7 @@
 # xuedou Xiao From Ember to Blaze: Swift Interactive Video Adaptation via Meta-Reinforcement Learning
 
 - id: 10.1109/INFOCOM53939.2023.10228909
-  co-author: true
+  co-author: true
   type: conference
   shortPublisher: IEEE INFOCOM'23
   description: We propose Fiammetta, the first meta-RL-based bitrate adaptation algorithm for interactive video streaming.
@@ -86,7 +86,7 @@
 # Think before You Leap: Content-Aware Low-Cost Edge-Assisted Video Semantic Segmentation
 
 - id: doi:10.1145/3581783.3613808
-  co-author: true
+  co-author: true
   type: conference
   shortPublisher: ACM MM'23
   description: 
