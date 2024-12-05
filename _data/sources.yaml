@@ -33,8 +33,6 @@
   publisher: Proceedings of the 30th Annual International Conference on Mobile Computing
     and Networking
   shortPublisher: ACM MobiCom'24
-  link: https://metaiot.group/publication/paper/mobicom24-GPSense.pdf
-  date: 2024-11-21
   buttons:
     - type: docs
       text: PDF
