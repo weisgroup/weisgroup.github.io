@@ -3,7 +3,7 @@ name: Shiyue He
 image: ../images/members/ShiyueHe.jpg
 description: Class of 2023. Hisilicon (HangZhou)
 role: Alumni
-group: alusm # 校友，毕业后拉入
+group: PhD # 校友，毕业后拉入
 links:
   email: shiyuehe(AT)hust.edu.cn
   twitter: sarahjohnson

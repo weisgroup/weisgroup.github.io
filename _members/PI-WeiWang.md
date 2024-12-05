@@ -3,7 +3,7 @@ name: Wei Wang
 # image: images/photo.jpg
 image: /images/members/weiwang.jpg
 role: pi
-description: Professor
+description: Professor, Director
 # affiliation: Huazhong University of Science and Technology
 aliases:
   - W. Wang

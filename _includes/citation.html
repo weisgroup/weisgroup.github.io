@@ -8,6 +8,18 @@
   {% assign citation = include %}
 {% endif %}
 
+
+{% assign emptyarray = "" | split: "," %}
+{% assign member = site.data["members"]
+| default: site["members"]
+| default: emptyarray
+%}
+
+{% assign student_names = emptyarray %}
+{% for d in member %}
+  {% assign student_names = student_names | push: d.name %}
+{% endfor %}
+
 <div class="citation-container">
   <div class="citation">
     <div class="citation-text">
@@ -31,13 +43,19 @@
         {%- assign authors = citation.authors | join: "," | split: "," -%}
         {%- for author in authors -%}
           {%- if author == "Wei Wang" -%}
+          <a href="/weiwang.html">
             {%- if citation.co-author == true -%}
-              <a href="https://weiwang.cslee.cc"><b>Wei Wang*</b></a>
+              <b>Wei Wang*</b>
             {%- else -%}
-              <a href="https://weiwang.cslee.cc"><b>Wei Wang</b></a>
+              <b>Wei Wang</b>
             {%- endif -%}
+            </a>
           {%- else -%}
-            {{ author }}
+            {% if student_names contains author %}
+              <u>{{ author }}</u>
+            {% else %}
+              {{ author }}
+            {% endif %}
           {%- endif -%}
         {%- if forloop.last == false -%}, {% endif -%}
         {%- endfor -%}
