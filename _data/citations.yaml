@@ -781,6 +781,7 @@
   date: '2024-01-01'
   link: https://doi.org/g73sbc
   type: journal
+  co-author: true
   shortPublisher: IEEE IOTJ'24
   image: null
   plugin: sources.py
