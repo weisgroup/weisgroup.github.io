@@ -18,6 +18,50 @@
 
 # ###############################################Conference Papers ###########################################################
 
+# 2025
+- url: https://metaiot.group/publication/paper/10.1145.xxx
+  type: conference
+  title: 'PDStream: Slashing Long-Tail Delay in Interactive Video Streaming via Pseudo-Dua Streaming'
+  co-author: true
+  authors:
+    - Xuedou Xiao
+    - Yingying Zuo
+    - Mingxuan Yan
+    - Kezhong Liu
+    - Wei Wang
+  publisher: IEEE Conference on Computer Communications
+  shortPublisher: IEEE INFOCOM'25
+  # buttons:
+  #   - type: docs
+  #     text: PDF
+  #     link: https://metaiot.group/publication/paper/mobicom24-GPSense.pdf
+  #   - type: video
+  #     text: VIDEO
+  #     link: https://cdn.metaiot.group/metaiot/video/Mobicom24Demo.mp4
+  tags:
+    - Video Streaming
+
+- url: https://metaiot.group/publication/paper/10.1145/3636534.xxx
+  type: conference
+  title: 'Improving Multi-Vehicle Perception Fusion with Millimeter-Wave Radar Assistance'
+  co-author: true
+  authors:
+    - Zhiqing Luo
+    - Yi Wang
+    - Yingying He
+    - Wei Wang
+  publisher: IEEE Conference on Computer Communications
+  shortPublisher: IEEE INFOCOM'25
+  # buttons:
+  #   - type: docs
+  #     text: PDF
+  #     link: https://metaiot.group/publication/paper/mobicom24-GPSense.pdf
+  #   - type: video
+  #     text: VIDEO
+  #     link: https://cdn.metaiot.group/metaiot/video/Mobicom24Demo.mp4
+  tags:
+    - Cooperative Perception
+
 # 2024
 - id: doi:10.1145/3636534.3690674
   type: conference
@@ -878,7 +922,7 @@
   image: 
 
   # 2022 DC-Loc: Accurate Automotive Radar Based Metric Localization with Explicit Doppler Compensation
-- id: doi:10.1109/ICRA46639.2022.9811561
+- id: doi:10.1109/ICRA46639.2022.9811561 
   co-author: true
   shortPublisher: IEEE ICRA'22
   image: 
@@ -945,11 +989,6 @@
   co-author: true
   type: conference
   shortPublisher: IEEE TNET'21
-  image:
-
-  # 2021 Accurate Automotive Radar Based Metric Localization with Explicit Doppler Compensation
-- id: doi:10.48550/arXiv.2112.14887
-  shortPublisher: arXiv'21
   image:
 
   # 2020 Spatial modulation-based ambient backscatter: Bringing energy self-sustainability to massive internet of everything in 6G
