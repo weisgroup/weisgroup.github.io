@@ -8,7 +8,6 @@ Here at Mobile, Sensing, Automative & Internet of Things Lab (MetaIoT), which is
 Our research group is currently focused on the following key areas: 
 - **Wireless SLAM, mmWave 3D Perception:** including mmWave for autovehicle navagation, sensing, V2X, and interference cancellation applications.
 - **Backscatter Communication/Sensing:** including WiFi/BLE/LoRa/GPS backscatter communication and localization applications
-- **Video Compression/Transmission for Edge IoT:** such as reliable video streaming for UAVs and batteryless devices, 3D Lidar point cloud compression, etc.
 
 Some of our completed research includes:
 - WiFi Sensing and Localization by repurposing the pervasive signals for Human Sensing, Indoor Navigation, and finding hidden IoT devices.
@@ -38,7 +37,7 @@ Some of our completed research includes:
   include feature.html
   image="images/areas/iot.jpg"
   link="publication"
-  title="Ubiquitous loT"
+  title="Ambient loT"
   text=text
 %}
 
