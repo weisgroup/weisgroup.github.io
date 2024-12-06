@@ -1,6 +1,6 @@
 ---
 name: Huixin Dong
-image: https://academic.huixin.space/images/Avatar.png
+image: https://academic.huixin.space/images/avatar.png
 description: Ph.D. Student 2020
 role: PhD
 links:
