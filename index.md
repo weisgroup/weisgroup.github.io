@@ -45,32 +45,6 @@ Some of our completed research includes:
 
 
 {% capture text %}
-- Novel sensing technologies
-- GPS localization and sensing
-
-{%
-  include button.html
-  link="publication"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/areas/sensing.jpg"
-  link="publication"
-  title="Wireless Sensing"
-  text=text
-%}
-
-
-
-
-{% capture text %}
 - Multi-sensor fusion: Radar, Camera, Lidar, GPS, IMU
 - Autonomous navigation, path planning
 - Indoor mapping for smart infrastructure

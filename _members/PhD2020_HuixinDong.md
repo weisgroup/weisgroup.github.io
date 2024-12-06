@@ -3,6 +3,7 @@ name: Huixin Dong
 image: https://academic.huixin.space/images/avatar.png
 description: Ph.D. Student 2020
 role: PhD
+home-url : https://academic.huixin.space
 links:
   email: dxhuixin@gmail.com
   # twitter: sarahjohnson
