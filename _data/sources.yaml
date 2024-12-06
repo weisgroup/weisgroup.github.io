@@ -811,6 +811,7 @@
   # 2024 Accurate Indoor Localization for Bluetooth Low Energy Backscatter
 - id: doi:10.1109/JIOT.2024.3468428
   type: journal
+  co-author: true
   shortPublisher: IEEE IOTJ'24
   image: 
 
