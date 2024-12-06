@@ -985,7 +985,7 @@
   link: https://doi.org/g73sbx
   co-author: true
   type: conference
-  shortPublisher: IEEE IOTJ'21
+  shortPublisher: IEEE IOTJ'22
   image: null
   plugin: sources.py
   file: sources.yaml
@@ -1066,7 +1066,7 @@
   link: https://doi.org/g73sb7
   co-author: true
   type: conference
-  shortPublisher: IEEE TMC'21
+  shortPublisher: IEEE TMC'22
   image: null
   plugin: sources.py
   file: sources.yaml
@@ -1184,7 +1184,7 @@
   date: '2022-06-01'
   link: https://doi.org/gmkqpv
   type: conference
-  shortPublisher: IEEE TMC'20
+  shortPublisher: IEEE TMC'22
   image: null
   plugin: sources.py
   file: sources.yaml
