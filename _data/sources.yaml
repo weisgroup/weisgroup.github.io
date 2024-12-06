@@ -923,7 +923,7 @@
 - id: doi:10.1109/JIOT.2021.3121794
   co-author: true
   type: conference
-  shortPublisher: IEEE IOTJ'21
+  shortPublisher: IEEE IOTJ'22
   image: 
 
   # 2022 DC-Loc: Accurate Automotive Radar Based Metric Localization with Explicit Doppler Compensation
@@ -959,7 +959,7 @@
 - id: doi:10.1109/TMC.2021.3084754
   co-author: true
   type: conference
-  shortPublisher: IEEE TMC'21
+  shortPublisher: IEEE TMC'22
   image:  
 
   # 2021 Exploiting Channel Polarization for Reliable Wide-Area Backscatter Networks
@@ -1005,7 +1005,7 @@
   # 2020 LoRadar: Enabling Concurrent Radar Sensing and LoRa Communication
 - id: doi:10.1109/TMC.2020.3035797
   type: conference
-  shortPublisher: IEEE TMC'20
+  shortPublisher: IEEE TMC'22
   image:
 
   # 2020 A Two-Stage Game Framework to Secure Transmission in Two-Tier UAV Networks
