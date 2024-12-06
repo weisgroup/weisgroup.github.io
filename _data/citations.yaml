@@ -1,5 +1,37 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- url: https://metaiot.group/publication/paper/10.1145.xxx
+  type: conference
+  title: 'PDStream: Slashing Long-Tail Delay in Interactive Video Streaming via Pseudo-Dua
+    Streaming'
+  co-author: true
+  authors:
+  - Xuedou Xiao
+  - Yingying Zuo
+  - Mingxuan Yan
+  - Kezhong Liu
+  - Wei Wang
+  publisher: IEEE Conference on Computer Communications
+  shortPublisher: IEEE INFOCOM'25
+  tags:
+  - Video Streaming
+  plugin: sources.py
+  file: sources.yaml
+- url: https://metaiot.group/publication/paper/10.1145/3636534.xxx
+  type: conference
+  title: Improving Multi-Vehicle Perception Fusion with Millimeter-Wave Radar Assistance
+  co-author: true
+  authors:
+  - Zhiqing Luo
+  - Yi Wang
+  - Yingying He
+  - Wei Wang
+  publisher: IEEE Conference on Computer Communications
+  shortPublisher: IEEE INFOCOM'25
+  tags:
+  - Cooperative Perception
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3636534.3690674
   title: 'GPSense: Passive Sensing with Pervasive GPS Signals'
   authors:
@@ -1116,21 +1148,6 @@
   co-author: true
   type: conference
   shortPublisher: IEEE TNET'21
-  image: null
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2112.14887
-  title: 'DC-Loc: Accurate Automotive Radar Based Metric Localization with Explicit
-    Doppler Compensation'
-  authors:
-  - Pengen Gao
-  - Shengkai Zhang
-  - Wei Wang
-  - Chris Xiaoxuan Lu
-  publisher: arXiv
-  date: '2021-01-01'
-  link: https://doi.org/g73scn
-  shortPublisher: arXiv'21
   image: null
   plugin: sources.py
   file: sources.yaml
