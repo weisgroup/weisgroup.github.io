@@ -5,7 +5,7 @@
   title: 'PDStream: Slashing Long-Tail Delay in Interactive Video Streaming via Pseudo-Dua
     Streaming'
   co-author: true
-  date: '2024-12-06'
+  date: '2025-05-22'
   authors:
   - Xuedou Xiao
   - Yingying Zuo
@@ -22,7 +22,7 @@
   type: conference
   title: Improving Multi-Vehicle Perception Fusion with Millimeter-Wave Radar Assistance
   co-author: true
-  date: '2024-12-06'
+  date: '2024-05-22'
   authors:
   - Zhiqing Luo
   - Yi Wang
@@ -985,7 +985,7 @@
   link: https://doi.org/g73sbx
   co-author: true
   type: conference
-  shortPublisher: IEEE IOTJ'21
+  shortPublisher: IEEE IOTJ'22
   image: null
   plugin: sources.py
   file: sources.yaml
@@ -1066,7 +1066,7 @@
   link: https://doi.org/g73sb7
   co-author: true
   type: conference
-  shortPublisher: IEEE TMC'21
+  shortPublisher: IEEE TMC'22
   image: null
   plugin: sources.py
   file: sources.yaml
@@ -1184,7 +1184,7 @@
   date: '2022-06-01'
   link: https://doi.org/gmkqpv
   type: conference
-  shortPublisher: IEEE TMC'20
+  shortPublisher: IEEE TMC'22
   image: null
   plugin: sources.py
   file: sources.yaml
