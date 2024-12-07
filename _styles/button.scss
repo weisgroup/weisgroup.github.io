@@ -46,6 +46,17 @@ button {
   }
 }
 
+.button[data-style="more"] {
+  padding: 5px;
+  margin-top: -5px;
+  background: none;
+  color: var(--primary);
+
+  &:hover {
+    color: var(--text);
+  }
+}
+
 .button[data-style="docs"] {
   line-height: 2em;
   height: 1.8em;

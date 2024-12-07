@@ -1,47 +1,51 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
+- title: mmWave Radar
+  subtitle: High-precision perception for automotive vehicles
+  group: theme
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  link: https://metaiot.group/
+  description: Millimeter wave radar provides an ideal solution for low-power, self-monitored, ultra accurate radar systems in various industrial applications, such as automotive vehicles, factory automation, drones, material handling, traffic monitoring, and surveillance.
   repo: greenelab/lab-website-template
   tags:
-    - resource
+    - mmWave
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
+- title: Backscatter Communication
+  subtitle: Ultra-low-power IoT network powered with ambient energy
+  group: theme
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  link: https://metaiot.group/
+  description: Backscatter uses existing radio frequency signals, such as radio, television, and mobile telephony, to transmit data without a battery or power grid connection. Each such device harvest energy from the ambient signals. It uses that power to modify and reflect the signal with encoded data for communication.
   repo: greenelab/lab-website-template
   tags:
-    - resource
+    - IoT
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+
+
+
+
+- title: 'Improving Multi-Vehicle Perception with mmWave Radar Assistance'
+  subtitle: INFOCOM'25
+  group: project
+  image: images/PaperCover/CP_infocom25.jpg
+  link: https://metaiot.group/
+  description: We present a lightweight system that enables accurate and realtime perception fusion with mmWave radar point clouds to improve driving safety.  The key insight is that fine-grained spatial information provided by the radar present unique associations with all the vehicles even in two separate views.
   tags:
     - resource
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: 'GPSense: Passive Sensing with Pervasive GPS signals'
+  subtitle: Mobicom'24
+  group: project
+  image: images/PaperCover/gpsense_compressed.gif
+  link: https://metaiot.group/
+  description: To address the coverage limitation of existing wireless sensing technologies, we propose to utilize GPS signals for sensing and prototype the first GPS wireless sensing system on commercial GPS receiver modules. Comprehensive experiments demonstrate that the proposed system can realize meaningful sensing applications
   tags:
     - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: 'GPSMirror: Expanding GPS Positioning  with Backscatter'
+  subtitle: Mobicom'23
+  group: project
+  image: images/PaperCover/GPSMirror.png
+  link: https://metaiot.group/
+  description: GPS services still suffer from intermittent positioning with poor accuracy in partially shadowed regions like urban canyons, flyover shadows, etc. We fill the gap with GPSMirror, the first GPS-strengthening system that works for unmodified smartphones with the assistance of newly-designed GPS backscatter tags. 
   tags:
     - software

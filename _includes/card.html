@@ -24,7 +24,7 @@
         {% if include.tooltip %}
           data-tooltip="{{ include.tooltip }}"
         {% endif %}
-        class="card-title"
+        class="card-title" data-style="{{ include.style }}"
       >
         {{ include.title }}
     </a>
@@ -35,13 +35,19 @@
     {% endif %}
 
     {% if include.description %}
-      <p>
+      <p class="card-description" data-style="{{ include.style }}">
         {{ include.description | markdownify | remove: "<p>" | remove: "</p>" }}
       </p>
     {% endif %}
 
-    {% if include.tags or include.repo %}
-      {% include tags.html tags=include.tags repo=include.repo %}
-    {% endif %}
+    {%
+    include button.html
+    link="publication"
+    text="Learn More"
+    icon="fa-solid fa-arrow-right"
+    flip=true
+    style="more"
+    %}
+
   </div>
 </div>
