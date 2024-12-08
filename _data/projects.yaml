@@ -36,8 +36,8 @@
   subtitle: ACM Mobicom'24
   group: project
   image: images/PaperCover/gpsense_compressed.gif
-  link: https://metaiot.group/
-  description: To address the coverage limitation of existing wireless sensing technologies, we propose to utilize GPS signals for sensing and prototype the first GPS wireless sensing system on commercial GPS receiver modules. Comprehensive experiments demonstrate that the proposed system can realize meaningful sensing applications
+  link: https://mp.weixin.qq.com/s/ZlKyq775pbjZJMsQQrudTQ
+  description: To address the coverage limitation of existing wireless sensing technologies, we propose to utilize GPS signals for sensing and prototype the first GPS wireless sensing system on commercial GPS receiver modules. Comprehensive experiments demonstrate that the proposed system can realize meaningful sensing applications.
   tags:
     - software
 
@@ -45,7 +45,7 @@
   subtitle: ACM Mobicom'23
   group: project
   image: images/PaperCover/GPSMirror.png
-  link: https://metaiot.group/
+  link: https://mp.weixin.qq.com/s/TSSfItfpoPL3kE2MPTTZtw
   description: GPS services still suffer from intermittent positioning with poor accuracy in partially shadowed regions like urban canyons, flyover shadows, etc. We fill the gap with GPSMirror, the first GPS-strengthening system that works for unmodified smartphones with the assistance of newly-designed GPS backscatter tags. 
   tags:
     - software
