@@ -1,8 +1,8 @@
 - title: mmWave Radar
   subtitle: High-precision perception for automotive vehicles
   group: theme
-  image: images/photo.jpg
-  link: https://metaiot.group/
+  image: images/areas/mmWave.gif
+  link: https://metaiot.group/research/mmWave
   description: Millimeter wave radar provides an ideal solution for low-power, self-monitored, ultra accurate radar systems in various industrial applications, such as automotive vehicles, factory automation, drones, material handling, traffic monitoring, and surveillance.
   repo: greenelab/lab-website-template
   tags:
@@ -11,8 +11,8 @@
 - title: Backscatter Communication
   subtitle: Ultra-low-power IoT network powered with ambient energy
   group: theme
-  image: images/photo.jpg
-  link: https://metaiot.group/
+  image: images/areas/backscatter.png
+  link: https://metaiot.group/research/backscatter
   description: Backscatter uses existing radio frequency signals, such as radio, television, and mobile telephony, to transmit data without a battery or power grid connection. Each such device harvest energy from the ambient signals. It uses that power to modify and reflect the signal with encoded data for communication.
   repo: greenelab/lab-website-template
   tags:
