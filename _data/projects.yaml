@@ -23,7 +23,7 @@
 
 
 - title: 'Improving Multi-Vehicle Perception with mmWave Radar Assistance'
-  subtitle: INFOCOM'25
+  subtitle: IEEE INFOCOM'25
   group: project
   image: images/PaperCover/CP_infocom25.jpg
   link: https://metaiot.group/
@@ -33,7 +33,7 @@
     - publication
 
 - title: 'GPSense: Passive Sensing with Pervasive GPS signals'
-  subtitle: Mobicom'24
+  subtitle: ACM Mobicom'24
   group: project
   image: images/PaperCover/gpsense_compressed.gif
   link: https://metaiot.group/
@@ -42,7 +42,7 @@
     - software
 
 - title: 'GPSMirror: Expanding GPS Positioning  with Backscatter'
-  subtitle: Mobicom'23
+  subtitle: ACM Mobicom'23
   group: project
   image: images/PaperCover/GPSMirror.png
   link: https://metaiot.group/
