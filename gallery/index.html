@@ -156,6 +156,10 @@
   
 
   
+    <link href="/_styles/clickable-image.css" rel="stylesheet">
+  
+
+  
     <link href="/_styles/code.css" rel="stylesheet">
   
 
@@ -297,6 +301,8 @@
 
   
     <link href="/_styles/util.css" rel="stylesheet">
+  
+
   
 
   
@@ -557,7 +563,7 @@
 <h2 id="colorful-activities">Colorful activities</h2>
 
 <div class="gallery" data-style="">
-  <a href="https://metaiot.group/" aria-label="Travel in Washington, DC" class="gallery-image">
+  <a aria-label="Travel in Washington, DC" class="gallery-image">
     <img src="/images/galleries/TravelinWashington_afterMobiCom2024.jpg" alt="Travel in Washington, DC" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
   </a>
 
@@ -569,7 +575,7 @@
 </div>
 
 <div class="gallery" data-style="">
-  <a href="https://metaiot.group/" aria-label="Attend MobiCom 2024" class="gallery-image">
+  <a aria-label="Attend MobiCom 2024" class="gallery-image">
     <img src="/images/galleries/AttendMobiCom2024.jpg" alt="Attend MobiCom 2024" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
   </a>
 
@@ -581,7 +587,7 @@
 </div>
 
 <div class="gallery" data-style="">
-  <a href="https://metaiot.group/" aria-label="Group gathering in ACM SenSys 2024, Hangzhou" class="gallery-image">
+  <a aria-label="Group gathering in ACM SenSys 2024, Hangzhou" class="gallery-image">
     <img src="/images/galleries/AttendSenSys2024.jpg" alt="Group gathering in ACM SenSys 2024, Hangzhou" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
   </a>
 
@@ -593,7 +599,7 @@
 </div>
 
 <div class="gallery" data-style="">
-  <a href="https://metaiot.group/" aria-label="Biu, biu, biu, have fun in the group spring trip." class="gallery-image">
+  <a aria-label="Biu, biu, biu, have fun in the group spring trip." class="gallery-image">
     <img src="/images/galleries/20240601-16-9.jpg" alt="Biu, biu, biu, have fun in the group spring trip." loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
   </a>
 
@@ -605,7 +611,7 @@
 </div>
 
 <div class="gallery" data-style="">
-  <a href="https://metaiot.group/" aria-label="Football drumming." class="gallery-image">
+  <a aria-label="Football drumming." class="gallery-image">
     <img src="/images/galleries/Keep-up.jpg" alt="Football drumming." loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
   </a>
 
@@ -617,7 +623,7 @@
 </div>
 
 <div class="gallery" data-style="">
-  <a href="https://metaiot.group/" aria-label="Group camping in the Liangzi lake." class="gallery-image">
+  <a aria-label="Group camping in the Liangzi lake." class="gallery-image">
     <img src="/images/galleries/20230405-16-9.jpg" alt="Group camping in the Liangzi lake." loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
   </a>
 
@@ -629,7 +635,7 @@
 </div>
 
 <div class="gallery" data-style="">
-  <a href="https://metaiot.group/" aria-label="Go boating." class="gallery-image">
+  <a aria-label="Go boating." class="gallery-image">
     <img src="/images/galleries/GoBoating.jpg" alt="Go boating." loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
   </a>
 
@@ -639,6 +645,37 @@
     
   </div>
 </div>
+
+<div id="image-cover-modal" class="image-cover-modal">
+    <img id="image-cover-image" class="image-cover-modal-content">
+    <div id="image-cover-caption"></div>
+</div>
+
+<script>
+    // Get the DOM
+    var modal = document.getElementById('image-cover-modal');
+    var modalImg = document.getElementById("image-cover-image");
+    var captionText = document.getElementById("image-cover-caption");
+    var span = document.getElementsByClassName("image-cover-close")[0];
+
+    // When the user clicks on <span> (x), close the modal
+    modal.onclick = function () {
+        this.classList.remove("model-shown");
+    }
+
+    var i;
+    for (i = 0; i < document.images.length; i++) {
+
+        // Get the image and insert it inside the modal - use its "alt" text as a caption
+        var img = document.images[i];
+
+        img.onclick = function () {
+            modal.classList.add("model-shown");
+            modalImg.src = this.src;
+            captionText.innerHTML = this.alt;
+        }
+    }
+</script>
   </section>
 
 
