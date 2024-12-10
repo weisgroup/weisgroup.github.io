@@ -8,14 +8,14 @@
     - images/galleries/AttendMobiCom2024.jpg
     - images/galleries/TravelinWashington_afterMobiCom2024.jpg
 
-    - title: "Travel in Washington, DC"
-    date: 2024-11-25
-    group: conference
-    link: https://metaiot.group/
-    description: We .
-    images:
-      - images/galleries/AttendMobiCom2024.jpg
-      - images/galleries/TravelinWashington_afterMobiCom2024.jpg
+- title: "Travel in Washington, DC"
+  date: 2024-11-25
+  group: conference
+  link: https://metaiot.group/
+  description: We .
+  images:
+    - images/galleries/AttendMobiCom2024.jpg
+    - images/galleries/TravelinWashington_afterMobiCom2024.jpg
 
 - title: "Group gathering in ACM SenSys 2024, Hangzhou"
   date: 2024-11-04
