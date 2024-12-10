@@ -1,6 +1,6 @@
 
 - title: "MobiCom 2024"
-  subtitle: ACM MobiCom'24
+  date: 2024-11-25
   group: conference
   link: https://metaiot.group/
   description: We .
@@ -9,7 +9,7 @@
     - images/galleries/TravelinWashington_afterMobiCom2024.jpg
 
 - title: "SenSys 2024"
-  subtitle: "ACM SenSys'24"
+  date: 2024-11-04
   group: conference
   link: https://metaiot.group/
   description: We .
@@ -17,11 +17,20 @@
     - images/galleries/AttendSenSys2024.jpg
 
 - title: "SenSys 2024"
-  subtitle: "ACM SenSys'24"
+  date: 2024-06-01
   group: conference
   link: https://metaiot.group/
   description: We .
   images:
-    - images/galleries/AttendSenSys2024.jpg
+    - images/galleries/20240601-16-9.jpg
+
+- title: "SenSys 2024"
+  date: 2023-04-05
+  group: conference
+  link: https://metaiot.group/
+  description: We .
+  images:
+    - images/galleries/20230405-16-9.jpg
+
 
 
