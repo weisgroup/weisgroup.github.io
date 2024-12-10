@@ -3,7 +3,7 @@
   justify-content: stretch;
   align-items: center;
   flex-direction: column;
-  width: 400px;
+  width: 31%;
   max-width: calc(100% - 20px - 20px);
   margin: 10px;
   background: var(--background);
@@ -38,18 +38,6 @@
 }
 
 .gallery-title {
-  font-family: var(--heading);
-  font-weight: var(--semi-bold);
-  font-size: larger;
-}
-
-.gallery-title[data-style=project] {
-  font-family: var(--heading);
-  font-weight: var(--semi-bold);
-  font-size: medium;
-}
-
-.gallery-subtitle {
   margin-top: -10px !important;
   font-style: italic;
 }

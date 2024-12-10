@@ -8,7 +8,7 @@ section {
 }
 
 #colorful-activities {
-  padding: 20px max(20px, (100% - 1500px) / 2);
+  padding: 20px 2%;
 }
 
 section[data-size=wide] {
