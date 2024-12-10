@@ -1,9 +1,6 @@
 {{ " " }}
 <div class="gallery" data-style="{{ include.style }}">
   <a
-    {% if include.link %}
-      href="{{ include.link | relative_url }}"
-    {% endif %}
     aria-label="{{ include.title | default: "gallery link" }}"
     class="gallery-image"
   >
