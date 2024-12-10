@@ -5,19 +5,7 @@
   | data_filter: include.filters
 %}
 
-{% assign years = data
-  | group_by_exp: "d", "d.date | date: '%Y'"
-  | sort: "name"
-  | reverse
-%}
-
-{% for year in years %}
-  {% assign data = year.items %}
-
-  {% if years.size > 1 %}
-      {{--}}<h3 id="{{ year.name }}">{{ year.name }}</h3>
-    {% assign data = data | sort: "date" | reverse %}
-  {% endif %}
+{% assign data = data | sort: "date" | reverse %}
 
   {% for d in data %}
     {% assign style = d.style | default: include.style %}
@@ -58,5 +46,5 @@
       width=d.width
       home-url=d.home-url
     %}
-  {% endfor %}
 {% endfor %}
+

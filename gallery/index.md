@@ -13,6 +13,5 @@ nav:
 ## Colorful activities
 
 
-{% include list.html component="gallery" data="galleries" %}
-
+{% include list-without-year.html component="gallery" data="galleries" with_years=false %}
 
