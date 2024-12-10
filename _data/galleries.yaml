@@ -31,6 +31,14 @@
   images:
     - images/galleries/20240601-16-9.jpg
 
+- title: "Go boating."
+  date: 2023-04-05
+  group: conference
+  link: https://metaiot.group/
+  description: We.
+  images:
+    - images/galleries/GoBoating.jpg
+
 - title: "Group camping in the Liangzi lake."
   date: 2023-04-05
   group: conference
@@ -38,6 +46,14 @@
   description: We.
   images:
     - images/galleries/20230405-16-9.jpg
+
+- title: "Football drumming."
+  date: 2023-04-05
+  group: conference
+  link: https://metaiot.group/
+  description: We.
+  images:
+      - images/galleries/Keep-up.jpg
 
 
 
