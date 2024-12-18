@@ -27,13 +27,17 @@
 }
 
 .gallery-text {
-  display: inline-flex;
+  display: flow;
   justify-content: flex-start;
   align-items: center;
   flex-direction: column;
   gap: 15px;
   max-width: 100%;
   padding: 10px 20px;
+}
+
+.gallery-date{
+  padding-right: inherit;
 }
 
 .gallery-text > * {
