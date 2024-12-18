@@ -6,7 +6,7 @@
 %}
 
 {% assign data = data | sort: "date" | reverse %}
-
+<div class="row" id="Viewer">
   {% for d in data %}
     {% assign style = d.style | default: include.style %}
     {%
@@ -48,3 +48,17 @@
     %}
 {% endfor %}
 
+</div>
+
+
+<script type="text/javascript">
+  // 用法实例
+  new Viewer(document.getElementById('Viewer'), {
+
+    title: true,
+    rotatable: false,
+    scalable: false,
+    fullsreen: false,
+    zoomRatio: 0.5,
+  });
+</script>

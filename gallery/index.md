@@ -17,4 +17,3 @@ nav:
 
 {% include list-without-year.html component="gallery" data="galleries" with_years=false %}
 
-{% include clickable-image.html %}
