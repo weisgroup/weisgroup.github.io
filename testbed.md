@@ -1,7 +1,7 @@
 ---
 title: Testbed
-header: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1024px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg
-footer: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1024px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg
+header: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.webp/1024px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.webp
+footer: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.webp/1024px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.webp
 header-dark: false
 footer-dark: false
 ---
@@ -49,7 +49,7 @@ Text with extra blank lines above and below
 
 Plain image:
 
-![plain image](/images/photo.jpg)
+![plain image](/images/photo.webp)
 
 # Heading 1
 
@@ -137,7 +137,7 @@ pie title Pets adopted by volunteers
 
 ## Section
 
-{% include section.html background="images/background.jpg" %}
+{% include section.html background="images/background.webp" %}
 
 Section, `background`
 
@@ -145,7 +145,7 @@ Section, `background`
 
 Section, `dark=true`
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="images/background.webp" dark=true %}
 
 Section, `background` `dark=true`
 
@@ -157,7 +157,7 @@ Section, `size=wide`
 
 Section, `size=full` w/ figure
 
-{% include figure.html image="https://images.rawpixel.com/image_1000/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2ZsMjYyODgwODcyMjYtaW1hZ2VfMS1rb3k1Zzkxay5qcGc.jpg" link="team" width="100%" %}
+{% include figure.html image="https://images.rawpixel.com/image_1000/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2ZsMjYyODgwODcyMjYtaW1hZ2VfMS1rb3k1Zzkxay5qcGc.webp" link="team" width="100%" %}
 
 {% include section.html %}
 
@@ -325,7 +325,7 @@ With Markdown images
 {% capture content %}
 ![image](https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2)
 
-![image](https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg)
+![image](https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.webp)
 
 ![image](https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp)
 
@@ -343,7 +343,7 @@ With figure components
 
 {% capture content %}
 {% include figure.html image="https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2" %}
-{% include figure.html image="https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg" %}
+{% include figure.html image="https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.webp" %}
 {% include figure.html image="https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp" %}
 {% include figure.html image="images/icon.png" %}
 {% include figure.html image="images/icon.png" %}

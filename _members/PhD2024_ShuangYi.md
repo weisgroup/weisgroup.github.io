@@ -1,6 +1,6 @@
 ---
 name: Shuang Yi
-image: ../images/members/ShuangYi.jpg
+image: ../images/members/ShuangYi.webp
 description: Ph.D. Student 2024
 role: PhD
 links:
@@ -27,4 +27,4 @@ Services
 
 Hobbies
 ======
-![Hiking](https://cdn.britannica.com/94/125794-050-FB09B3F4/Hikers-Gore-Range-Mountains-Denver.jpg?w=400&h=300&c=crop) 
+![Hiking](https://cdn.britannica.com/94/125794-050-FB09B3F4/Hikers-Gore-Range-Mountains-Denver.webp?w=400&h=300&c=crop) 

@@ -1,6 +1,6 @@
 ---
 name: Yuxuan Wei
-image: ../images/members/YuxuanWei.jpg
+image: ../images/members/YuxuanWei.webp
 description: Ms, 2024
 role: Master
 links:
@@ -17,4 +17,4 @@ Research Interest
 
 Hobbies
 ======
-![Basketball](https://img-nos.yiyouliao.com/alph/9f608877edae8a7f33fca357e359c6fe.jpeg?yiyouliao_channel=1536235174142947329_image&yiyouliao_channel=vivo_image) 
+![Basketball](https://img-nos.yiyouliao.com/alph/9f608877edae8a7f33fca357e359c6fe.webp?yiyouliao_channel=1536235174142947329_image&yiyouliao_channel=vivo_image) 

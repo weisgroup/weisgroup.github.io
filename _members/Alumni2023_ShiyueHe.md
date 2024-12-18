@@ -1,6 +1,6 @@
 ---
 name: Shiyue He
-image: ../images/members/ShiyueHe.jpg
+image: ../images/members/ShiyueHe.webp
 description: Class of 2023. Hisilicon (HangZhou)
 role: Alumni
 group: PhD # 校友，毕业后拉入

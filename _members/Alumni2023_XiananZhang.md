@@ -1,6 +1,6 @@
 ---
 name: Xianan Zhang
-image: ../images/members/XiananZhang.jpg
+image: ../images/members/XiananZhang.webp
 description: Class of 2023.Huawei (Shanghai)
 role: Alumni
 group: alusm # 校友，毕业后拉入

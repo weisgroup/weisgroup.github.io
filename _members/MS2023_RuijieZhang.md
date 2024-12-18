@@ -1,6 +1,6 @@
 ---
 name: Ruijie Zhang
-image: ../images/members/RuijieZhang.jpg
+image: ../images/members/RuijieZhang.webp
 description: Ms, 2023
 role: Master
 links:

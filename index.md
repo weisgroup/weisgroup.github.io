@@ -35,7 +35,7 @@ Some of our completed research includes:
 
 {%
   include feature.html
-  image="images/areas/iot.jpg"
+  image="images/areas/iot.webp"
   link="publication"
   title="Ambient loT"
   text=text
@@ -60,7 +60,7 @@ Some of our completed research includes:
 
 {%
   include feature.html
-  image="images/areas/CAV.jpg"
+  image="images/areas/CAV.webp"
   link="publication"
   title="Autonomous Vehicles"
   text=text

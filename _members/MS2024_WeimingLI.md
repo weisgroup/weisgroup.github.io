@@ -1,6 +1,6 @@
 ---
 name: Weiming Li
-image: ../images/members/WeimingLi.jpg
+image: ../images/members/WeimingLi.webp
 description: Ms, 2024
 role: Master
 links:

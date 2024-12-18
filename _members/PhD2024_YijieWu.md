@@ -1,6 +1,6 @@
 ---
 name: Yijie Wu
-image: ../images/members/YijieWu.jpg
+image: ../images/members/YijieWu.webp
 description: Ph.D. Student 2024
 role: PhD
 links:

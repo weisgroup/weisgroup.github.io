@@ -1,6 +1,6 @@
 ---
 name: Bixin Zeng
-image: ../images/members/BixingZeng.jpg
+image: ../images/members/BixingZeng.webp
 description: Ms, 2023
 role: Master
 links:

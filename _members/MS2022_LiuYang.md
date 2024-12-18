@@ -1,6 +1,6 @@
 ---
 name: Liu Yang
-image: ../images/members/LiuYang.jpg
+image: ../images/members/LiuYang.webp
 description: M.S, 2022
 role: Master
 links:

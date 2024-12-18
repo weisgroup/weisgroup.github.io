@@ -2,8 +2,8 @@
 title: MetaIoT @ HUST
 subtitle: Welcome to MetaIoT Lab.
 description: We create the next generation of intelligent wireless systems for communication and sensing with applications in autonomous systems, mixed reality, and IoT.
-header: images/background.jpg
-footer: images/background.jpg
+header: images/background.webp
+footer: images/background.webp
 proofer: false
 
 # site social media and other links
@@ -57,6 +57,7 @@ theme: null
 # sass settings
 sass:
   sass_dir: _styles
+  style: compressed
 
 # force jekyll to include certain files/folders
 include:

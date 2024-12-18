@@ -1,6 +1,6 @@
 ---
 name: Lehuan Yang
-image: ../images/members/LehuanYang.jpg
+image: ../images/members/LehuanYang.webp
 description: Ph.D. Student 2024
 role: PhD
 links:
@@ -17,4 +17,4 @@ Research Interest
 
 Hobbies
 ======
-[Edge Image Viewer (allsportsystems.eu)](https://allsportsystems.eu/wp-content/uploads/2015/11/Badminton-1-M-1080x720.jpg)
+[Edge Image Viewer (allsportsystems.eu)](https://allsportsystems.eu/wp-content/uploads/2015/11/Badminton-1-M-1080x720.webp)

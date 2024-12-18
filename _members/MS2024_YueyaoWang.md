@@ -1,6 +1,6 @@
 ---
 name: Yueyao Wang
-image: ../images/members/YueyaoWang.jpg
+image: ../images/members/YueyaoWang.webp
 description: Ms, 2024
 role: Master
 links:

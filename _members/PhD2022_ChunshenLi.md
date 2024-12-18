@@ -1,6 +1,6 @@
 ---
 name: Chunshen Li
-image: https://s2.loli.net/2024/09/19/b4wKtX81RjqPCID.jpg
+image: https://s2.loli.net/2024/09/19/b4wKtX81RjqPCID.webp
 description: Ph.D. Student 2022
 role: PhD
 links:
