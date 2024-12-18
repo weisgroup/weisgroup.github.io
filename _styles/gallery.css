@@ -57,4 +57,10 @@
   min-height: 180px;
 }
 
+.viewer-toolbar ul li, .viewer-navbar ul li {
+  display: inline;
+  padding: 0px;
+  margin: 0px;
+}
+
 /*# sourceMappingURL=gallery.css.map */
