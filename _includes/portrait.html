@@ -23,8 +23,9 @@
     {% endif %} -->
 
     <img
-      src="{{ member.image | relative_url }}"
-      class="portrait-image"
+      src="/images/loading.gif"
+      data-src="{{ member.image | relative_url }}"
+      class="portrait-image lazyload"
       alt="member portrait"
       loading="lazy"
       {% include fallback.html %}
