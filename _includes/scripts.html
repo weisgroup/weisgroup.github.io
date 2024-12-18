@@ -14,6 +14,9 @@
 <!-- Viewer JS -->
 <script src="https://cdn.bootcdn.net/ajax/libs/viewerjs/1.10.0/viewer.min.js"></script>
 
+<!-- Lazyload JS -->
+<script src="https://cdn.jsdelivr.net/npm/lazyload@2.0.0-rc.2/lazyload.js"></script>
+
 <!-- include all js in scripts folder -->
 {% assign scripts = site.static_files | where_exp: "file", "file.path contains '/_scripts'" %}
 {% for script in scripts %}

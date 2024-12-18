@@ -4,8 +4,10 @@
     aria-label="{{ include.title | default: "gallery link" }}"
     class="gallery-image"
   >
-    <img 
-      src="{{ include.images[0]  | relative_url }}" 
+    <img
+      class="lazyload"
+      src="/images/loading.gif"
+      data-src="{{ include.images[0]  | relative_url }}" 
       alt="{{ include.title | default: " card image" }}" 
       loading="lazy" {% include fallback.html %}>
   </a>
