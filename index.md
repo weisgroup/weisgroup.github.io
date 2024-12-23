@@ -2,7 +2,7 @@
 ---
 
 # MetaIoT Lab
-Here at Mobile, Sensing, Automative & Internet of Things Lab (MetaIoT), which is leaded by [Prof. Wei Wang](https://metaiot.group/) in Huazhong University of Science and Technology. we create the next generation of intelligent wireless systems for communication and sensing with applications in autonomous systems, IoT network, wireless communication and sensing.
+Here at Mobile, Sensing, Automative & Internet of Things Lab (MetaIoT), which is leaded by [Prof. Wei Wang](https://metaiot.group/) in Huazhong University of Science and Technology. We create the next generation of intelligent wireless systems for communication and sensing with applications in autonomous systems, IoT network, wireless communication and sensing.
 
 ## Research Overview
 Our research group is currently focused on the following key areas: 
