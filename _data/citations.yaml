@@ -841,7 +841,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TMC.2024.3408751
-  title: Fairness-aware Two-stage Hybrid Sensing Method in Vehicular Crowdsensing
+  title: Fairness-Aware Two-Stage Hybrid Sensing Method in Vehicular Crowdsensing
   authors:
   - Zhenning Wang
   - Yue Cao
@@ -850,7 +850,7 @@
   - Wei Wang
   - Geyong Min
   publisher: IEEE Transactions on Mobile Computing
-  date: '2024-01-01'
+  date: '2024-12-01'
   link: https://doi.org/g24cbc
   type: journal
   shortPublisher: IEEE TMC'24
