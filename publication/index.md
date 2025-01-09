@@ -1,19 +1,23 @@
 ---
-title: Publication
+title: Publication 
 nav:
   order: 1
   tooltip: Published works
 ---
 
+
 # {% include icon.html icon="fa-solid fa-microscope" %}Publication
 
+###### (underlined authors are students in our lab)
 {% include section.html %}
 
-### (underlined authors are students in our lab)
 
 ## Highlighted
 
-{% include citation.html lookup="GPSMirror GPSense PassiveBLE" style="rich" %}
+
+{% include citation.html lookup="PassiveBLE" style="rich" %}
+{% include citation.html lookup="GPSense" style="rich" %}
+{% include citation.html lookup="GPSMirror" style="rich" %}
 
 {% include section.html %}
 
