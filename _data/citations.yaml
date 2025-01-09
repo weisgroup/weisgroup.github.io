@@ -1,6 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: https://metaiot.group/publication/paper/10.1145.xxxxxx
+- id: https://metaiot.group/publication/paper/10.1125.xxxx
   title: 'PassiveBLE: Towards Fully Commodity-Compatible BLE Backscatter'
   authors:
   - Huixin Dong
@@ -12,8 +12,8 @@
   - Wei Wang
   publisher: Proceedings of the 31th Annual International Conference on Mobile Computing
     and Networking
-  date: ''
-  link: https://metaiot.group/publication/paper/10.1145.xxxxxx
+  date: '2025-11-22'
+  link: https://metaiot.group/publication/paper/10.1125.xxxx
   type: conference
   co-author: true
   shortPublisher: ACM MobiCom'25
