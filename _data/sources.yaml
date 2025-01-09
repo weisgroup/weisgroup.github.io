@@ -19,6 +19,35 @@
 # ###############################################Conference Papers ###########################################################
 
 # 2025
+# 2024
+- id: https://metaiot.group/publication/paper/10.1145.xxxxxx
+  type: conference
+  title: 'PassiveBLE: Towards Fully Commodity-Compatible BLE Backscatter'
+  co-author: true
+  authors:
+    - Huixin Dong
+    - Yijie Wu
+    - Feiyu Li
+    - Wei Kuang
+    - Yuan He
+    - Qian Zhang
+    - Wei Wang
+  publisher: Proceedings of the 31th Annual International Conference on Mobile Computing
+    and Networking
+  shortPublisher: ACM MobiCom'25
+  # buttons:
+  #   - type: docs
+  #     text: PDF
+  #     link: https://metaiot.group/publication/paper/mobicom24-GPSense.pdf
+  #   - type: slides
+  #     text: SLIDES
+  #     link: /publication/slides/MobiCom2024_GPSense_slides.pdf
+  #   - type: video
+  #     text: VIDEO
+  #     link: https://cdn.metaiot.group/metaiot/video/Mobicom24Demo.mp4
+  tags:
+    - BLE Backscatter
+
 - url: https://metaiot.group/publication/paper/10.1145.xxx
   type: conference
   title: 'PDStream: Slashing Long-Tail Delay in Interactive Video Streaming via Pseudo-Dua Streaming'
@@ -93,6 +122,7 @@
     - GPS Sensing
 # 2023
 - id: doi:10.1145/3570361.3592511
+  title: 'GPSMirror: Expanding Accurate GPS Positioning to Shadowed and Indoor Regions with Backscatter'
   type: conference
   shortPublisher: ACM MobiCom'23
   co-author: true

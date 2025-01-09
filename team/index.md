@@ -15,7 +15,7 @@ nav:
 
 {% include section.html %}
 
-## Collaborations and Postdoctoral Researchers
+## Postdoctoral Researchers
 {% include list.html data="members" component="portrait" filters="role: Postdoc" %}
 
 {% include section.html %}

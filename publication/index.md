@@ -11,7 +11,7 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="GPSense" style="rich" %}
+{% include citation.html lookup="GPSMirror GPSense PassiveBLE" style="rich" %}
 
 {% include section.html %}
 
