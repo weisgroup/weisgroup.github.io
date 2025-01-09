@@ -1,5 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: https://metaiot.group/publication/paper/10.1145.xxxxxx
+  title: 'PassiveBLE: Towards Fully Commodity-Compatible BLE Backscatter'
+  authors:
+  - Huixin Dong
+  - Yijie Wu
+  - Feiyu Li
+  - Wei Kuang
+  - Yuan He
+  - Qian Zhang
+  - Wei Wang
+  publisher: Proceedings of the 31th Annual International Conference on Mobile Computing
+    and Networking
+  date: ''
+  link: https://metaiot.group/publication/paper/10.1145.xxxxxx
+  type: conference
+  co-author: true
+  shortPublisher: ACM MobiCom'25
+  tags:
+  - BLE Backscatter
+  plugin: sources.py
+  file: sources.yaml
 - url: https://metaiot.group/publication/paper/10.1145.xxx
   type: conference
   title: 'PDStream: Slashing Long-Tail Delay in Interactive Video Streaming via Pseudo-Dua
@@ -824,7 +845,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TMC.2024.3446185
-  title: Task-Oriented Video Compressive Streaming for Real-time Semantic Segmentation
+  title: Task-Oriented Video Compressive Streaming for Real-Time Semantic Segmentation
   authors:
   - Xuedou Xiao
   - Yingying Zuo
@@ -833,7 +854,7 @@
   - Jianhua He
   - Qian Zhang
   publisher: IEEE Transactions on Mobile Computing
-  date: '2024-01-01'
+  date: '2024-12-01'
   link: https://doi.org/g73sbf
   type: journal
   shortPublisher: IEEE TMC'24
