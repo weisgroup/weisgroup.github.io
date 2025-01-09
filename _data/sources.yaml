@@ -20,7 +20,7 @@
 
 # 2025
 # 2024
-- id: https://metaiot.group/publication/paper/10.1125.xxxx
+- url: https://metaiot.group/publication/paper/10.1125.xxxx
   type: conference
   title: 'PassiveBLE: Towards Fully Commodity-Compatible BLE Backscatter'
   co-author: true

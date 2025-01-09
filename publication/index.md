@@ -9,6 +9,8 @@ nav:
 
 {% include section.html %}
 
+### (underlined authors are students in our lab)
+
 ## Highlighted
 
 {% include citation.html lookup="GPSMirror GPSense PassiveBLE" style="rich" %}
