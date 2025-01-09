@@ -162,13 +162,13 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-981-99-7872-4_19
-  title: "Step and\_Save: A Wearable Technology Based Incentive Mechanism for\_Health\
-    \ Insurance"
+  title: 'Step and Save: A Wearable Technology Based Incentive Mechanism for Health
+    Insurance'
   authors:
   - Qianyi Huang
   - Wei Wang
   - Qian Zhang
-  publisher: Lecture Notes in Computer Science
+  publisher: International Symposium on Advanced Parallel Processing Technologies
   date: '2023-11-08'
   link: https://doi.org/g73r8s
   type: journal
