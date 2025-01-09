@@ -20,10 +20,11 @@
 
 # 2025
 # 2024
-- id: https://metaiot.group/publication/paper/10.1145.xxxxxx
+- id: https://metaiot.group/publication/paper/10.1125.xxxx
   type: conference
   title: 'PassiveBLE: Towards Fully Commodity-Compatible BLE Backscatter'
   co-author: true
+  date: 2025-11-22
   authors:
     - Huixin Dong
     - Yijie Wu
