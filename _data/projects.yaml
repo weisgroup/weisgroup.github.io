@@ -1,5 +1,4 @@
-- title: mmWave Radar
-  subtitle: High-precision perception for automotive vehicles
+- title: High-precision perception for automotive vehicles
   group: theme
   image: images/areas/mmWave.gif
   link: https://metaiot.group/research/
@@ -8,8 +7,7 @@
   tags:
     - mmWave
 
-- title: Backscatter Communication
-  subtitle: Ultra-low-power IoT network powered with ambient energy
+- title: Ultra-low-power IoT network powered with ambient energy
   group: theme
   image: images/areas/backscatter.png
   link: https://metaiot.group/research/
