@@ -362,9 +362,9 @@
   shortPublisher: IEEE TWC'20
 
 # Blockchain Enabled Federated Slicing for 5G Networks with AI Accelerated Optimizatio
-- id: doi:10.1109/MNET.2020.1900653
+- id: doi:10.1109/MNET.021.1900653
   type: journal
-  shortPublisher: IEEE MNET'20
+  shortPublisher: IEEE Network'20
 
 # A Two-Stage Game Framework to Secure Transmission in Two-Tier UAV Networks
 - id: doi:10.1109/TVT.2020.3026184
@@ -806,12 +806,10 @@
 - id: doi:10.1007/978-3-319-01943-7
   title: 'Location Privacy Preservation in Cognitive Radio Networks'
   type: book
-  co-author: false
   shortPublisher: Book
 
 
 # 2014 Long-Term Quality of Protection
 - id: doi:10.1007/978-3-319-32903-1_50-1
   type: book
-  co-author: false
   shortPublisher: Book
