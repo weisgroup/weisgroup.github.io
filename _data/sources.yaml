@@ -51,6 +51,10 @@
   publisher: Proceedings of the 31th Annual International Conference on Mobile Computing
     and Networking
   shortPublisher: ACM MobiCom'25
+  buttons:
+    - type: docs
+      text: PDF
+      link: https://arxiv.org/pdf/2503.11490
   tags:
     - BLE Backscatter
 
