@@ -1,6 +1,6 @@
 ---
 name: Lehuan Yang
-image: ../images/members/LehuanYang.webp
+image: ../images/members/2024/PhD/LehuanYang.webp
 description: Ph.D. Student 2024
 role: PhD
 links:

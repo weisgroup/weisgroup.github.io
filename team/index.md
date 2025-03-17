@@ -10,13 +10,9 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-
-
-{% include section.html %}
-
-## Postdoctoral Researchers
-{% include list.html data="members" component="portrait" filters="role: Postdoc" %}
+## Supervisors
+{% include list.html data="members" component="portrait" filters="role: Prof" %}
+{% include list.html data="members" component="portrait" filters="role: AP" %}
 
 {% include section.html %}
 ## PhD Students
@@ -37,7 +33,7 @@ nav:
 - Wenyuan Ma (PhD student,2017-2022; now with Southwest Jiaotong University as a lectuer, Chengdu)
 - [Shengkai Zhang (Co-supervised PhD student, 2017-2021; now with WUT as an associate professor, Wuhan)](https://www.sheng-kai.top/)
 - Guochao Song (Co-supervised PhD student, 2015-2019; now with CAICT (special offer), Beijing)
-- Zhiang Niu (Co-supervised PhD student, 2017-2023)
+- Zhiang Niu (Co-supervised PhD student, 2017-2023; now with National Natural Science Foundation of China, Beijing)
 - [Shiyue He (PhD student, 2018-2023; Now with Huawei)](https://xxdhome.github.io/)
 - Xianan Zhang (PhD student, 2017-2023; Now with Huawei (special offer))
 
@@ -62,7 +58,7 @@ nav:
 - Ning Zhang (Master student, 2018-2020; Previously@Advanced Class, 2014; now with Xiaomi, Beijing)
 - Pan Wang ((Master student, 2018-2020; Previously@EIC, 2014; now an Officer)
 - Taobin Chen (Master student, 2017-2019; Excellent Engineer Program; now with Tencent, Shenzhen)
-- Ziliang Hu (Master student, 2017-2019; now with Netease, Guangzhou)
+- Ziliang Hu (Master student, 2017-2019; now with Civil servants, Shenzhen)
 - Xiaojie Yue (Master student, 2016-2019; Outstanding Graduate; now with Huawei, Shenzhen)
 - Bingjiang Cai (Master student, 2016-2018; Outstanding Graduate; now with China Railway Siyuan Survey and Design Group)
 

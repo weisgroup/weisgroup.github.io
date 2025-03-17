@@ -2,15 +2,14 @@
 name: Wei Wang
 # image: images/photo.webp
 image: /images/members/weiwang.webp
-role: pi
+role: Prof
 description: Professor, Director
 # affiliation: Huazhong University of Science and Technology
 aliases:
   - W. Wang
   - W Wang
 home-url : https://weisgroup.github.io/weiwang.html
-links:
-  home-page: https://weiwang.cslee.cc
+links: 
   orcid: 0000-0001-8713-9213
 ---
 

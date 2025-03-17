@@ -1,6 +1,6 @@
 ---
 name: Kun Zhang
-image: ../images/members/KunZhang.webp
+image: ../images/members/2021/PhD/KunZhang.webp
 description: Ph.D. Student 2021
 role: PhD
 links:

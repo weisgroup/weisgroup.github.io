@@ -1,6 +1,6 @@
 ---
 name: Shengpeng Wang
-image: ../images/members/ShengpengWang.webp
+image: ../images/members/2022/PhD/ShengpengWang.webp
 description: Ph.D. Student 2022
 role: PhD
 links:

@@ -1,6 +1,6 @@
 ---
 name: Yi Wang
-image: ../images/members/YiWang.webp
+image: ../images/members/2022/Master/YiWang.webp
 description: Ms, 2022
 role: Master
 links:

@@ -1,6 +1,6 @@
 ---
 name: Yulong Xie
-image: ../images/members/YulongXie.webp
+image: ../images/members/2022/Master/YulongXie.webp
 description: Ms, 2022
 role: Master
 links:

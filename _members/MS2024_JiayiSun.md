@@ -1,6 +1,6 @@
 ---
 name: Jiayi Sun
-image: ../images/members/JiayiSun.webp
+image: ../images/members/2024/Master/JiayiSun.webp
 description: Ms, 2024
 role: Master
 links:

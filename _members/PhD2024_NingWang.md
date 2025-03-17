@@ -1,6 +1,6 @@
 ---
 name: Ning Wang
-image: ../images/members/NingWang.webp
+image: ../images/members/2024/PhD/NingWang.webp
 description: Ph.D. Student 2024
 role: PhD
 links:

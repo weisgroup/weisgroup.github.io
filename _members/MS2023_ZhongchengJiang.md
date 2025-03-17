@@ -1,6 +1,6 @@
 ---
 name: Zhongcheng Jiang
-image: ../images/members/ZhongchengJiang.webp
+image: ../images/members/2023/Master/ZhongchengJiang.webp
 description: Ms, 2023
 role: Master
 links:

@@ -1,6 +1,6 @@
 ---
 name: Zhaoying Huang
-image: ../images/members/ZhaoyingHuang.webp
+image: ../images/members/2024/Master/ZhaoyingHuang.webp
 description: Ms, 2024
 role: Master
 links:

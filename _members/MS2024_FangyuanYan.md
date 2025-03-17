@@ -1,6 +1,6 @@
 ---
 name: Fangyuan Yan
-image: ../images/members/FangyuanYan.webp
+image: ../images/members/2024/Master/FangyuanYan.webp
 description: Ms, 2024
 role: Master
 links:

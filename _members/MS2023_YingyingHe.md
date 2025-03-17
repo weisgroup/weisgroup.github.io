@@ -1,6 +1,6 @@
 ---
 name: Yingying He
-image: ../images/members/YingyingHe.webp
+image: ../images/members/2023/Master/YingyingHe.webp
 description: Ms, 2023
 role: Master
 links:

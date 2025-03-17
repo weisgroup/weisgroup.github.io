@@ -1,6 +1,6 @@
 ---
 name: Xinyi Wu
-image: ../images/members/XinyiWu.webp
+image: ../images/members/2022/Master/XinyiWu.webp
 description: Ms, 2022
 role: Master
 links:

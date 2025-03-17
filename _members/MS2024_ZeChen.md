@@ -1,6 +1,6 @@
 ---
 name: Ze Chen
-image: ../images/members/ZeChen.webp
+image: ../images/members/2024/Master/ZeChen.webp
 description: Ms, 2024
 role: Master
 links:

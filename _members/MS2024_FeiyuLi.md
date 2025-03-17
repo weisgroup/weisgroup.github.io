@@ -1,6 +1,6 @@
 ---
 name: Feiyu Li
-image: ../images/members/FeiyuLi.webp
+image: ../images/members/2024/Master/FeiyuLi.webp
 description: Ms, 2024
 role: Master
 links:

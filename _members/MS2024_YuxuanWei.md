@@ -1,6 +1,6 @@
 ---
 name: Yuxuan Wei
-image: ../images/members/YuxuanWei.webp
+image: ../images/members/2024/Master/YuxuanWei.webp
 description: Ms, 2024
 role: Master
 links:

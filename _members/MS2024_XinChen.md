@@ -1,6 +1,6 @@
 ---
 name: Xin Chen
-image: ../images/members/XinChen.webp
+image: ../images/members/2024/Master/XinChen.webp
 description: Ms, 2024
 role: Master
 links:

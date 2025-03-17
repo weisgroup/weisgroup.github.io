@@ -1,6 +1,6 @@
 ---
 name: Zhongye Cao
-image: ../images/members/ZhongyeCao.webp
+image: ../images/members/2023/Master/ZhongyeCao.webp
 description: Ms, 2023
 role: Master
 links:

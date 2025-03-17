@@ -1,6 +1,6 @@
 ---
 name: Shuang Yi
-image: ../images/members/ShuangYi.webp
+image: ../images/members/2024/PhD/ShuangYi.webp
 description: Ph.D. Student 2024
 role: PhD
 links:

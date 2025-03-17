@@ -1,6 +1,6 @@
 ---
 name: Chunshen Li
-image: images/members/ChushenLi.webp
+image: images/members/2022/PhD/ChushenLi.webp
 description: Ph.D. Student 2022
 role: PhD
 links:
