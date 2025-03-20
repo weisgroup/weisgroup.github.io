@@ -96,10 +96,6 @@
 # ########################### 2024 ############################
 # #############################################################
 
-# Performance Analysis and Optimization of NOMA URLLC Systems with Imperfect CSI
-- id: doi:10.1109/TVT.2024.3516740
-  type: journal
-  shortPublisher: IEEE TVT'24
 
   # 2024 Accurate Indoor Localization for Bluetooth Low Energy Backscatter
 - id: doi:10.1109/JIOT.2024.3468428
@@ -190,51 +186,28 @@
   type: conference
   shortPublisher: DASFAA'23
 
-# Step and Save: A Wearable Technology Based Incentive Mechanism for Health Insurance
-- id: doi:10.1007/978-981-99-7872-4_19
-  type: journal
-  shortPublisher: APPT'23
-
 # Non-intrusive Anomaly Detection of Industrial Robot Operations by Exploiting Nonlinear Effect
 - id: doi:10.1145/3569477
   co-author: true
   type: conference
   shortPublisher: ACM UbiComp'22
 
-# Toward Ubiquitous and Intelligent 6G Networks: from Architecture to Technology
-- id: doi:10.1007/s11432-023-3704-8
-  type: journal
-  shortPublisher: SCIS'23
-
-# Low-Complexity Symbol Reconstruction Based on Direct Symbol Decision for FBMC-OQAM Systems
-- id: doi:10.1109/TSP.2023.3328061
-  type: journal
-  shortPublisher: IEEE TSP'23
-
   # 2022 InFit: Combination Movement Recognition for Intensive Fitness Assistant via Wi-Fi
 - id: doi:10.1109/TMC.2022.3209656
   type: conference
-  shortPublisher: IEEE TMC'23
+  shortPublisher: IEEE TMC'22
 
 # 2022 Delay-Aware Cooperative Task Offloading for Multi-UAV Enabled Edge-Cloud Computing
 - id: doi:10.1109/TMC.2022.3232375                                                                            
   type: journal
-  shortPublisher: IEEE TMC'23
+  shortPublisher: IEEE TMC'22
 
-# 2023 Over-the-Air Adversarial Attacks on Deep Learning Wi-Fi Fingerprinting
-- id: doi:10.1109/JIOT.2023.3236314
-  type: journal
-  shortPublisher: IEEE IOTJ'23
 
 
 # #############################################################
 # ########################### 2022 ############################
 # #############################################################
 
-# 2022 Ultra-low-power backscatter-based software-defined radio for intelligent and simplified IoT network
-- id: doi:10.1631/FITEE.2100321
-  type: journal
-  shortPublisher: FITEE'22
 
 # 2020 LoRadar: Enabling Concurrent Radar Sensing and LoRa Communication
 - id: doi:10.1109/TMC.2020.3035797
@@ -264,17 +237,17 @@
   type: conference
   shortPublisher: IEEE TMC'22
 
-# 2021 Exploiting Channel Polarization for Reliable Wide-Area Backscatter Networks
+# 2022 Exploiting Channel Polarization for Reliable Wide-Area Backscatter Networks
 - id: doi:10.1109/TMC.2021.3075549
   co-author: true
   type: conference
-  shortPublisher: IEEE TMC'21
+  shortPublisher: IEEE TMC'22
 
 # 2021 Forgery Attack Detection in Surveillance Video Streams Using Wi-Fi Channel State Information
 - id: doi:10.1109/TWC.2021.3129188
   co-author: true
   type: conference
-  shortPublisher: IEEE TWC'21
+  shortPublisher: IEEE TWC'22
 
 # 2021 Sensor-Assisted Rate Adaptation for UAV MU-MIMO Networks
 - id: doi:10.1109/TNET.2021.3136911
@@ -340,10 +313,6 @@
 # ########################### 2020 ############################
 # #############################################################
 
-# Spatial modulation-based ambient backscatter: Bringing energy self-sustainability to massive internet of everything in 6G
-- id: doi:10.23919/JCC.2020.12.004
-  type: conference
-  shortPublisher: IEEE JCC'20
 
 # FreeScatter: Enabling Concurrent Backscatter Communication Using Antenna Arrays
 - id: doi:10.1109/JIOT.2020.2984877
@@ -364,11 +333,6 @@
 - id: doi:10.1109/TWC.2020.2970412
   type: conference
   shortPublisher: IEEE TWC'20
-
-# Blockchain Enabled Federated Slicing for 5G Networks with AI Accelerated Optimizatio
-- id: doi:10.1109/MNET.021.1900653
-  type: journal
-  shortPublisher: IEEE Network'20
 
 # A Two-Stage Game Framework to Secure Transmission in Two-Tier UAV Networks
 - id: doi:10.1109/TVT.2020.3026184
@@ -446,25 +410,11 @@
 # ########################### 2019 ############################
 # #############################################################
 
-# Multi-bitrate video caching for D2D-enabled cellular networks
-- id: doi:10.1109/MMUL.2018.2879589
-  type: journal
-  shortPublisher: IEEE TMM'19
-
-# New Multicarrier Modulation for Satellite-Ground Transmission in Space Information Networks
-- id: doi:10.1109/MNET.2019.1900058
-  type: journal
-  shortPublisher: IEEE Network
 
 # Caching transient data for Internet of Things: A deep reinforcement learning approach
 - id: doi:10.1109/JIOT.2018.2882583
   type: journal
   shortPublisher: IEEE IOTJ'19
-
-# Downlink Channel Prediction for Time-Varying FDD Massive MIMO Systems
-- id: doi:10.1109/JSTSP.2019.2931671
-  type: conference
-  shortPublisher: IEEE JSTSP'19
 
 # Cross-Technology Communications for Heterogeneous IoT Devices Through Artificial Doppler Shifts
 - id: doi:10.1109/TWC.2018.2883443
@@ -503,6 +453,7 @@
 
 # Wins: Wifi-inertial indoor state estimation for mavs
 - id: doi:10.1145/3274783.3275157
+  title: 'Wins: Wifi-inertial indoor state estimation for mavs'
   co-author: true
   type: conference
   shortPublisher: ACM SenSys'18
@@ -520,6 +471,7 @@
 
 # ShieldScatter: Improving IoT security with backscatter assistance
 - id: doi:10.1145/3274783.3274841
+  title: 'ShieldScatter: Improving IoT security with backscatter assistance'
   co-author: true
   type: conference
   shortPublisher: ACM SenSys'18
@@ -534,20 +486,11 @@
   type: journal
   shortPublisher: ACM TCPS'18
 
-# Deep reinforcement learning for mobile edge caching: Review, new features, and open issues
-- id: doi:10.1109/MNET.2018.1800109
-  type: journal
-  shortPublisher: IEEE Network'18
 
 # NALoc: Nonlinear ambient-light-sensor-based localization system
 - id: doi:10.1145/3287077
   type: journal
   shortPublisher: ACM IMWUT/UbiComp'18
-
-# KPI/KQI-driven coordinated multipoint in 5G: Measurements, field trials, and technical solutions
-- id: doi:10.1109/MWC.2018.1800041
-  type: journal
-  shortPublisher: IEEE MWC'18
 
 # Nonlinear-precoded multiuser secure transmission with cooperative jamming and adaptive limited feedback
 - id: doi:10.1109/TVT.2018.2864178
@@ -565,11 +508,6 @@
 - id: doi:10.1109/MWC.2018.1700081
   type: journal
   shortPublisher: IEEE TWC'18
-
-# Configurations and diagnosis for ultra-dense heterogeneous networks: From empirical measurements to technical solutions
-- id: doi:10.1109/MNET.2017.1700015
-  type: journal
-  shortPublisher: IEEE MNET'18
 
 # Resonance-based secure pairing for wearables
 - id: doi:10.1109/TMC.2018.2809736
@@ -652,12 +590,6 @@
   type: conference
   shortPublisher: ACM UbiComp'16
 
-
-# 2016 A software-defined wireless networking enabled spectrum management architecture
-- id: doi:10.1109/MCOM.2016.7378423
-  type: journal
-  shortPublisher: IEEE Commun. Mag.
-
 # Privacy-Preserving Location Authentication in Wi-Fi Networks Using Fine-Grained Physical Layer Signatures
 - id: doi:10.1109/TWC.2015.2487453
   type: journal
@@ -673,128 +605,6 @@
   type: journal
   shortPublisher: IEEE TON'16  
 
-
-
-# #############################################################
-# ########################### 2015 ############################
-# #############################################################
-
-# TiSA: time-dependent social network advertising
-- id: doi:10.1109/ICC.2015.7248484
-  type: conference
-  shortPublisher: IEEE ICC'15
-
-# Less transmissions, more throughput: Bringing carpool to public WLANs
-- id: doi:10.1109/ICDCS.2015.100
-  type: conference
-  shortPublisher: IEEE ICDCS'15
-
-# Changing channel without strings: Coordination-free wideband spectrum adaptation
-- id: doi:10.1109/INFOCOM.2015.7218412
-  type: conference
-  shortPublisher: IEEE INFOCOM'15
-
-# Energy Budget Aware Device-to-Device Cooperation for Mobile Videos
-- id: doi:10.1109/GLOCOM.2015.7417171
-  type: conference
-  shortPublisher: IEEE GLOBECOM'15
-
-# Privacy-preserving collaborative spectrum sensing with multiple service providers
-- id: doi:10.1109/TWC.2014.2363357
-  type: journal
-  shortPublisher: IEEE TWC'15
-
-# Toward long-term quality of protection in mobile networks: a context-aware perspective
-- id: doi:10.1109/MWC.2015.7224725
-  type: journal
-  shortPublisher: IEEE MWC'15
-
-# Outsourcing high-dimensional healthcare data to cloud with personalized privacy preservation
-- id: doi:10.1016/j.comnet.2015.06.014
-  type: journal
-  shortPublisher: Computer Networks
-
-# A privacy-aware framework for targeted advertising
-- id: doi:10.1016/j.comnet.2014.12.017
-  type: journal
-  shortPublisher: Computer Networks
-
-# Privacy preservation in location-based advertising: A contract-based approach
-- id: doi:10.1016/j.comnet.2015.10.020
-  type: journal
-  shortPublisher: Computer Networks
-
-# QoE-aware repaper allocation for adaptive device-to-device video streaming
-- id: doi:10.1109/MNET.2015.7340418
-  type: journal
-  shortPublisher: IEEE MNET'15
-
-
-# #############################################################
-# ########################### 2014 ############################
-# #############################################################
-
-# Privacy-preserving location authentication in WiFi with fine-grained physical layer information
-- id: doi:10.1109/GLOCOM.2014.7037570
-  co-author: true
-  type: conference
-  shortPublisher: IEEE GLOBECOM'14
-
-# A stochastic game for privacy preserving context sensing on mobile phone
-- id: doi:10.1109/INFOCOM.2014.6848177
-  type: conference
-  shortPublisher: IEEE INFOCOM'14
-
-# COD: A Cooperative Cell Outage Detection Architecture for Self-Organizing Femtocell Networks
-- id: doi:10.1109/TWC.2014.2360865
-  type: journal
-  shortPublisher: IEEE TWC'14
-
-# Local cooperation architecture for self-healing femtocell networks
-- id: doi:10.1109/MWC.2014.6812290
-  type: conference
-  shortPublisher: IEEE MWC'14
-
-
-
-# #############################################################
-# ########################### 2013 ############################
-# #############################################################
-
-# Cooperative Cell Outage Detection in Self-Organizing Femtocell Networks
-- id: doi:10.1109/INFCOM.2013.6566865
-  type: conference
-  shortPublisher: IEEE INFOCOM'13
-
-# A Privacy-aware Framework for Online Advertisement Targeting
-- id: doi:10.1109/GLOCOM.2013.6831555
-  type: conference
-  shortPublisher: IEEE GLOBECOM'13
-
-# Analyzing the Influential People in Sina Weibo Dataset
-- id: doi:10.1109/GLOCOM.2013.6831542
-  type: conference
-  shortPublisher: IEEE GLOBECOM'13
-
-
-# #############################################################
-# ########################### 2012 ############################
-# #############################################################
-
-# LOGA: Local Grouping Architecture for Self-Healing Femtocell Networks
-- id: doi:10.1109/GLOCOM.2012.6503935
-  type: conference
-  shortPublisher: IEEE GLOBECOM'12
-
-
-# #############################################################
-# ########################### 2011 ############################
-# #############################################################
-
-# Transfer Learning Based Diagnosis for Configuration Troubleshooting in Self-Organizing Femtocell Networks
-- id: doi:10.1109/GLOCOM.2011.6133802
-  type: conference
-  shortPublisher: IEEE GLOBECOM'11
 
 
 
