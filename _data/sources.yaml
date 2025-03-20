@@ -285,7 +285,7 @@
 
 # Joint Energy Harvest and Information Transfer for Energy Beamforming in Backscatter Multiuser Networks
 - id: doi:10.1109/TCOMM.2020.3036049
-  date: '2021-02-01'
+  date: 2021-02-01
   co-author: true
   type: conference
   shortPublisher: IEEE TCOMM'21
@@ -629,7 +629,6 @@
 
 # Long-Term Quality of Protection Wei Wang, Tao Jiang, Qian Zhang  in Encyclopedia of Wireless Networks, Edited by Sherman Shen, Xiaodong Lin, Kuan Zhang, Springer, 2018. (DOI:10.1007/978-3-319-32903-1_50-1)
 - id: doi:10.1007/978-3-319-32903-1_50-1
-  title: Long-Term Quality of Protection
   type: book
   publisher: Encyclopedia of Wireless Networks
   shortPublisher: Springer
