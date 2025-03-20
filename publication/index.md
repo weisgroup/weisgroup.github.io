@@ -1,12 +1,12 @@
 ---
-title: selected publications 
+title: Publication
 nav:
   order: 1
   tooltip: Published works
 ---
 
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Publication
+# {% include icon.html icon="fa-solid fa-microscope" %} Selected publications
 
 ###### (underlined authors are students in our lab)
 {% include section.html %}
