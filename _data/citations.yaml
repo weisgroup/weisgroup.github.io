@@ -1309,3 +1309,16 @@
   shortPublisher: IEEE TON'16
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1007/978-3-319-32903-1_50-1
+  title: Long-Term Quality of Protection
+  authors:
+  - Wei Wang
+  - Tao Jiang
+  - Qian Zhang
+  publisher: Encyclopedia of Wireless Networks
+  date: '2018-01-01'
+  link: https://doi.org/g8rkv5
+  type: book
+  shortPublisher: Springer
+  plugin: sources.py
+  file: sources.yaml
