@@ -460,11 +460,13 @@
 
 # Rainbow: Preventing Mobile-Camera-based Piracy in the Physical World
 - id: doi:10.1109/INFOCOM.2018.8485881
+  title: 'Rainbow: Preventing Mobile-Camera-based Piracy in the Physical World'
   type: conference
   shortPublisher: IEEE INFOCOM'18
 
 # On secure transmission design: An information leakage perspective
 - id: doi:10.1109/GLOCOM.2018.8648032
+  title: 'On secure transmission design: An information leakage perspective'
   co-author: true
   type: conference
   shortPublisher: IEEE GLOBECOM'18
@@ -483,12 +485,14 @@
 
 # Toward battery-free wearable devices: The synergy between two feet
 - id: doi:10.1145/3185503
+  title: 'Toward battery-free wearable devices: The synergy between two feet'
   type: journal
   shortPublisher: ACM TCPS'18
 
 
 # NALoc: Nonlinear ambient-light-sensor-based localization system
 - id: doi:10.1145/3287077
+  title: 'NALoc: Nonlinear ambient-light-sensor-based localization system'
   type: journal
   shortPublisher: ACM IMWUT/UbiComp'18
 
@@ -506,6 +510,7 @@
 
 # Toward cross-layer design for non-orthogonal multiple access: A quality-of-experience perspective
 - id: doi:10.1109/MWC.2018.1700081
+  title: 'Toward cross-layer design for non-orthogonal multiple access: A quality-of-experience perspective'
   type: journal
   shortPublisher: IEEE TWC'18
 
@@ -532,6 +537,7 @@
 
 # Your glasses know your diet: Dietary monitoring using electromyography sensors
 - id: doi:10.1109/JIOT.2017.2656151
+  title: 'Your glasses know your diet: Dietary monitoring using electromyography sensors'
   type: journal
   shortPublisher: IEEE IOTJ'17
 
@@ -562,6 +568,7 @@
 
 # Secret from muscle: Enabling secure pairing with electromyography
 - id: doi:10.1145/2994551.2994556
+  title: 'Secret from muscle: Enabling secure pairing with electromyography'
   type: conference
   shortPublisher: ACM SenSys'16
 
@@ -572,6 +579,7 @@
 
 # Battery-free sensing platform for wearable devices: The synergy between two feet
 - id: doi:10.1109/INFOCOM.2016.7524543
+  title: 'Battery-free sensing platform for wearable devices: The synergy between two feet'
   type: conference
   shortPublisher: IEEE INFOCOM'16
 
@@ -587,6 +595,7 @@
   
 # Touch-and-guard: secure pairing through hand resonance
 - id: doi:10.1145/2971648.2971688
+  title: 'Touch-and-guard: secure pairing through hand resonance'
   type: conference
   shortPublisher: ACM UbiComp'16
 
@@ -616,14 +625,4 @@
 # ###########################################################################################################################
 
 ## Books
-# 2014 Location Privacy Preservation in Cognitive Radio Networks
-- id: doi:10.1007/978-3-319-01943-7
-  title: 'Location Privacy Preservation in Cognitive Radio Networks'
-  type: book
-  shortPublisher: Book
 
-
-# 2014 Long-Term Quality of Protection
-- id: doi:10.1007/978-3-319-32903-1_50-1
-  type: book
-  shortPublisher: Book
