@@ -940,7 +940,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/GLOCOM.2018.8648032
-  title: 'On Secure Transmission Design: An Information Leakage Perspective'
+  title: 'On secure transmission design: An information leakage perspective'
   authors:
   - Yong Huang
   - Wei Wang
@@ -987,7 +987,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3185503
-  title: Toward Battery-Free Wearable Devices
+  title: 'Toward battery-free wearable devices: The synergy between two feet'
   authors:
   - Qianyi Huang
   - Yan Mei
@@ -1001,7 +1001,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3287077
-  title: NALoc
+  title: 'NALoc: Nonlinear ambient-light-sensor-based localization system'
   authors:
   - Lin Yang
   - Zeyu Wang
@@ -1050,8 +1050,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/MWC.2018.1700081
-  title: 'Toward Cross-Layer Design for Non-Orthogonal Multiple Access: A Quality-of-Experience
-    Perspective'
+  title: 'Toward cross-layer design for non-orthogonal multiple access: A quality-of-experience
+    perspective'
   authors:
   - Wei Wang
   - Yuanwei Liu
@@ -1110,7 +1110,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JIOT.2017.2656151
-  title: 'Your Glasses Know Your Diet: Dietary Monitoring Using Electromyography Sensors'
+  title: 'Your glasses know your diet: Dietary monitoring using electromyography sensors'
   authors:
   - Qianyi Huang
   - Wei Wang
@@ -1181,7 +1181,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/2994551.2994556
-  title: Secret from Muscle
+  title: 'Secret from muscle: Enabling secure pairing with electromyography'
   authors:
   - Lin Yang
   - Wei Wang
@@ -1255,7 +1255,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/2971648.2971688
-  title: Touch-and-guard
+  title: 'Touch-and-guard: secure pairing through hand resonance'
   authors:
   - Wei Wang
   - Lin Yang
@@ -1307,30 +1307,5 @@
   link: https://doi.org/f9mgd5
   type: journal
   shortPublisher: IEEE TON'16
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1007/978-3-319-01943-7
-  title: Location Privacy Preservation in Cognitive Radio Networks
-  authors:
-  - Wei Wang
-  - Qian Zhang
-  publisher: SpringerBriefs in Computer Science
-  date: '2014-01-01'
-  link: https://doi.org/g7373b
-  type: book
-  shortPublisher: Book
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1007/978-3-319-32903-1_50-1
-  title: Long-Term Quality of Protection
-  authors:
-  - Wei Wang
-  - Tao Jiang
-  - Qian Zhang
-  publisher: Encyclopedia of Wireless Networks
-  date: '2018-01-01'
-  link: https://doi.org/g8rkv5
-  type: book
-  shortPublisher: Book
   plugin: sources.py
   file: sources.yaml
