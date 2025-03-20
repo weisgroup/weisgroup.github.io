@@ -285,6 +285,7 @@
 
 # Joint Energy Harvest and Information Transfer for Energy Beamforming in Backscatter Multiuser Networks
 - id: doi:10.1109/TCOMM.2020.3036049
+  date: '2021-02-01'
   co-author: true
   type: conference
   shortPublisher: IEEE TCOMM'21
@@ -533,7 +534,7 @@
 # Personalized user engagement modeling for mobile videos
 - id: doi:10.1016/j.comnet.2017.07.012
   type: journal
-  shortPublisher: Computer Networks
+  shortPublisher: Computer Networks'17
 
 # Your glasses know your diet: Dietary monitoring using electromyography sensors
 - id: doi:10.1109/JIOT.2017.2656151
