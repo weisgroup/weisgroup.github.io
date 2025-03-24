@@ -72,6 +72,10 @@
     - Wei Wang
   publisher: IEEE Conference on Computer Communications
   shortPublisher: IEEE INFOCOM'25
+  buttons:
+    - type: docs
+      text: PDF
+      link: https://www.arxiv.org/abs/2502.04691
   tags:
     - Video Streaming
 
