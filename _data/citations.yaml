@@ -1,5 +1,46 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- url: https://metaiot.group/publication/paper/10.1212.xxxx
+  type: conference
+  title: 'GPSoil: Towards low-cost soil moisture sensing using GNSS signals'
+  co-author: true
+  date: '2025-11-22'
+  authors:
+  - Huixin Dong
+  - Jingqi Lin
+  - Minhao Cui
+  - Serene Zhang
+  - Lili Qiu
+  - Jie Xiong
+  - Wei Wang
+  publisher: Proceedings of the 31th Annual International Conference on Mobile Computing
+    and Networking
+  shortPublisher: ACM MobiCom'25
+  tags:
+  - GPS Sensing
+  plugin: sources.py
+  file: sources.yaml
+- url: https://metaiot.group/publication/paper/10.1212.xxxx
+  type: conference
+  title: 'SDDiff: Boost Radar Perception via Spatial-Doppler Diffusion'
+  co-author: true
+  date: '2025-08-23'
+  authors:
+  - Shengpeng Wang
+  - Xin Luo
+  - Yulong Xie
+  - Wei Wang
+  publisher: Proceedings of the Thirty-Fourth International Joint Conference on Artificial
+    Intelligence
+  shortPublisher: IJCAI'25
+  buttons:
+  - type: docs
+    text: PDF
+    link: https://arxiv.org/abs/2506.16936
+  tags:
+  - mmWave Radar
+  plugin: sources.py
+  file: sources.yaml
 - url: https://metaiot.group/publication/paper/10.1125.xxxx
   type: conference
   title: 'PassiveBLE: Towards Fully Commodity-Compatible BLE Backscatter'
