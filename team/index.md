@@ -41,6 +41,10 @@ nav:
 
 ## Master Student Alumni
 
+- Xinyi Wu (Master student, 2022; Previously@HUST, 2018; now with Hisilicon, Shanghai)
+- Liu Yang (Master student, 2022; Previously@HUST, 2018; now with Shokz, Shenzhen)
+- Yulong Xie (Master student, 2022; Previously@CUG, 2018; now with China Southern Power Grid, CSG, Guiyang)
+- Yi Wang (Master student, 2022; Previously@Xidian University, 2018)
 - Wei Kuang (Master student, 2021; Previously@HUST, 2017; now with Hubei Academy of Aerospace Technology, Wuhan)
 - Yingying Zuo (Master student, 2021; Previously@SDU, 2017; now with ByteDance, Shanghai)
 - Haoyu Xiong (Master student, 2021; Previously@CQU, 2017; now with Huawei, Chengdu )

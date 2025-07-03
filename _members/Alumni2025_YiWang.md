@@ -1,8 +1,9 @@
 ---
 name: Yi Wang
 image: ../images/members/2022/Master/YiWang.webp
-description: Ms, 2022
-role: Master
+description: (Master student, 2022; Previously@Xidian University, 2018)
+role: Alumni
+group: Master
 links:
   email: yiwang_js@163.com
   # twitter: sarahjohnson

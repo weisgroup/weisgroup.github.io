@@ -1,8 +1,9 @@
 ---
 name: Liu Yang
 image: ../images/members/2022/Master/LiuYang.webp
-description: M.S, 2022
-role: Master
+description: (Master student, 2022; Previously@HUST, 2018; now with Shokz, Shenzhen)
+role: Alumni
+Group: Master
 links:
   email: youngerliu@hust.edu.cn
 

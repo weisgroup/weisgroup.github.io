@@ -1,8 +1,9 @@
 ---
 name: Xinyi Wu
 image: ../images/members/2022/Master/XinyiWu.webp
-description: Ms, 2022
-role: Master
+description: (Master student, 2022; Previously@HUST, 2018; now with Hisilicon, Shanghai)
+role: Alumni
+group: Master
 links:
   email: xinyee@hust.edu.cn
   

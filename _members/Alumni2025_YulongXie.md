@@ -1,8 +1,9 @@
 ---
 name: Yulong Xie
 image: ../images/members/2022/Master/YulongXie.webp
-description: Ms, 2022
-role: Master
+description: (Master student, 2022; Previously@CUG, 2018; now with China Southern Power Grid, CSG, Guiyang)
+role: Alumni
+group: Master
 links:
   email: ylrk@outlook.com
   github: https://github.com/YLRK
