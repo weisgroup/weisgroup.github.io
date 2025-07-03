@@ -1,8 +1,9 @@
 ---
 name: Huixin Dong
 image: https://academic.huixin.space/images/avatar.png
-description: Ph.D. Student 2020
-role: PhD
+description: Class of 2020. Hong Kong University of Science and Technology (HKUST)
+role: Alumni
+group: alusm # 校友，毕业后拉入
 home-url : https://academic.huixin.space
 links:
   email: dxhuixin@gmail.com

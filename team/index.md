@@ -27,15 +27,16 @@ nav:
 
 ## PhD Student Alumni
 
+- [Huixin Dong (PhD student, 2019-2025; Now with HKUST as a postdoc, Hong Kong)](https://academic.huixin.space/)
 - [Xuedou Xiao (PhD student, 2019-2023; Now with WUT as an associate professor, Wuhan)](https://xxdhome.github.io/)
-- Zhiqing Luo (PhD student, 2018-2022; Postdoc 2022-2025, Now with Wuhan University as an associate research fellow.)
-- [Yong Huang (PhD student, 2017-2021; now with Zhengzhou University as an associate professor, Zhengzhou)](https://phygroup.github.io/)
-- Wenyuan Ma (PhD student,2017-2022; now with Southwest Jiaotong University as a lectuer, Chengdu)
-- [Shengkai Zhang (Co-supervised PhD student, 2017-2021; now with WUT as an associate professor, Wuhan)](https://www.sheng-kai.top/)
-- Guochao Song (Co-supervised PhD student, 2015-2019; now with CAICT (special offer), Beijing)
 - Zhiang Niu (Co-supervised PhD student, 2017-2023; now with National Natural Science Foundation of China, Beijing)
 - [Shiyue He (PhD student, 2018-2023; Now with Huawei)](https://xxdhome.github.io/)
 - Xianan Zhang (PhD student, 2017-2023; Now with Huawei (special offer))
+- Zhiqing Luo (PhD student, 2018-2022; Postdoc 2022-2025, Now with Wuhan University as an associate research fellow.)
+- Wenyuan Ma (PhD student,2017-2022; now with Southwest Jiaotong University as a lectuer, Chengdu)
+- [Yong Huang (PhD student, 2017-2021; now with Zhengzhou University as an associate professor, Zhengzhou)](https://phygroup.github.io/)
+- [Shengkai Zhang (Co-supervised PhD student, 2017-2021; now with WUT as an associate professor, Wuhan)](https://www.sheng-kai.top/)
+- Guochao Song (Co-supervised PhD student, 2015-2019; now with CAICT (special offer), Beijing)
 
 
 ## Master Student Alumni
