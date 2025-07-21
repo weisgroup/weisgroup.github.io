@@ -91,6 +91,12 @@ github:
   tooltip: GitHub
   link: https://github.com/$VALUE
 
+youtube:
+  icon: fa-brands fa-youtube
+  text: YouTube
+  tooltip: YouTube
+  link: https://www.youtube.com/$VALUE
+
 instagram:
   icon: fa-brands fa-instagram
   text: Instagram
