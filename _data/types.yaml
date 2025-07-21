@@ -95,7 +95,7 @@ youtube:
   icon: fa-brands fa-youtube
   text: YouTube
   tooltip: YouTube
-  link: https://www.youtube.com/$VALUE
+  link: https://www.youtube.com/@$VALUE
 
 instagram:
   icon: fa-brands fa-instagram
