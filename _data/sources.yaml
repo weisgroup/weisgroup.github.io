@@ -191,7 +191,11 @@
 # A Unified Tunnel-diode Based Low Power Signal Waveform Transform Hardware for RF Computing
 - id: doi:10.1145/3698386.3699993
   type: conference
+  co-author: true
   shortPublisher: ACM RFCom'24
+  tags:
+    - RF Computing
+    - Best Paper Award
 
 
 

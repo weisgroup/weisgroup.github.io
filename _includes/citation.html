@@ -31,6 +31,9 @@
         <a {% if citation.link %} href="{{ citation.link | relative_url }}" {% endif %} class="citation-title">
           {{ citation.title | default: "[no title info]" }}
         </a>
+        {% if citation.tags contains "Best Paper Award" %}
+           <span style="color:red; font-weight:bold;"> (Best Paper Award)</span>
+        {% endif %}
       </div>      
 
       <div
