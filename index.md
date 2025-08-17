@@ -2,66 +2,25 @@
 ---
 
 # MetaIoT Lab
-Here at Mobile, Sensing, Automative & Internet of Things Lab (MetaIoT), which is leaded by [Prof. Qian Zhang](https://www.cse.ust.hk/~qianzh/) and [Prof. Wei Wang](https://weisgroup.github.io/weiwang.html). We create the next generation of intelligent wireless systems for communication and sensing with applications in autonomous systems, IoT network, wireless communication and sensing.
+Here at Mobile, Sensing, Automative & Internet of Things Lab (MetaIoT), which is leaded by [Prof. Qian Zhang](https://www.cse.ust.hk/~qianzh/) and [Prof. Wei Wang](https://metaiot.group/weiwang.html). We create the next generation of intelligent unmanned systems for sensing and perception with applications in autonomous systems, AIoT, and embodied AI.
 
 ## Research Overview
-Our research group is currently focused on the following key areas: 
-- **Wireless SLAM, mmWave 3D Perception:** including mmWave for autovehicle navagation, sensing, V2X, and interference cancellation applications.
-- **Backscatter Communication/Sensing:** including WiFi/BLE/LoRa/GPS backscatter communication and localization applications
-
-Some of our completed research includes:
-- WiFi Sensing and Localization by repurposing the pervasive signals for Human Sensing, Indoor Navigation, and finding hidden IoT devices.
-- Backscatter Communication for Battery-free IoT: including WiFi/LoRa/BLE Tags, and backscatter localization.
+- **mmWave/multi-modal 3D Perception and SLAM:** including mmWave perception, multi-modal SLAM/navigation for embodied AI and self-driving vehicles.
+- **AIoT:** including AIoT hardware design and embedded systems for industry and healthcare.
 
 
+# {% include icon.html icon="fa-solid fa-wrench" %}Research
 
-## Key Research Areas
+Our research group is at the forefront of developing innovative sensing, communication, and networking technologies to transform robotics, autonomous systems, and everyday devices. We tackle the full spectrum of challenges, from building an initial system prototype to understanding real problems, then developing a theoretical model, coming up with theoretical breakthroughs to practical prototype development for breakthroughs, and finally, deployment in the real world.
 
-{% capture text %}
+{% include section.html %}
 
-- Low power and long range backscatter
-- BLE，WiFi, mmWave, LoRa communication
-- Wireless, batteryless computation on edge devices
-{%
-  include button.html
-  link="publication"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+## Research Themes
 
-{% endcapture %}
+{% include list.html component="card" data="projects" filters="group: theme" %}
 
-{%
-  include feature.html
-  image="images/areas/iot.webp"
-  link="publication"
-  title="Ambient loT"
-  text=text
-%}
+{% include section.html %}
 
+## Recent Research Projects
 
-
-{% capture text %}
-- Multi-sensor fusion: Radar, Camera, Lidar, GPS, IMU
-- Autonomous navigation, path planning
-- Indoor mapping for smart infrastructure
-{%
-  include button.html
-  link="publication"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/areas/CAV.webp"
-  link="publication"
-  title="Autonomous Vehicles"
-  text=text
-%}
+{% include list.html component="card" data="projects" filters="group: project" style="project" %}
