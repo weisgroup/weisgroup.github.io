@@ -217,6 +217,7 @@
   date: '2024-11-04'
   link: https://doi.org/g8zhwg
   type: conference
+  co-author: true
   shortPublisher: ACM RFCom'24
   tags:
   - RF Computing
