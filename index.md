@@ -8,11 +8,6 @@ Here at Mobile, Sensing, Automative & Internet of Things Lab (MetaIoT), which is
 - **mmWave/multi-modal 3D Perception and SLAM:** including mmWave perception, multi-modal SLAM/navigation for embodied AI and self-driving vehicles.
 - **AIoT:** including AIoT hardware design and embedded systems for industry and healthcare.
 
-
-
-
-## Research Themes
-
 {% include list.html component="card" data="projects" filters="group: theme" %}
 
 
