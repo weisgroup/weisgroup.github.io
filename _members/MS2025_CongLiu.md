@@ -1,7 +1,7 @@
 ---
 name: Cong Liu
 image: ../images/members/2025/Master/CongLiu.webp
-description: Ms, 2025, co-supervised with Prof Qian Zhang 
+description: Ms, 2025
 role: Master
 links:
   email: 1132145346@qq.com

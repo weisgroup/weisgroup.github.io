@@ -1,7 +1,7 @@
 ---
 name: Shuo Ding
 image: ../images/members/2025/PhD/ShuoDing.webp
-description: Ph.D. Student 2025, co-supervised with Prof Qian Zhang
+description: Ph.D. Student 2025
 role: PhD
 links:
   email: yijiewu@hust.edu.cn

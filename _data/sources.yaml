@@ -58,6 +58,27 @@
   tags:
     - GPS Sensing
 
+# SE: Self-Supervised State Estimation for Radar-Inertial System
+- url: https://iccv.thecvf.com/virtual/2025/poster/2131
+  type: conference
+  title: 'S^3E: Self-Supervised State Estimation for Radar-Inertial System'
+  co-author: true
+  date: 2025-10-22
+  authors:
+    - Shengpeng Wang
+    - Yulong Xie
+    - Qing Liao
+    - Wei Wang
+  publisher: International Conference on Computer Vision, ICCV 2025
+  shortPublisher: ICCV'25
+  # buttons:
+  #   - type: docs
+  #     text: PDF
+  #     link: https://arxiv.org/abs/2506.16936
+  tags:
+    - mmWave Radar
+    - ICCV
+
 # SDDiff: Boost Radar Perception via Spatial-Doppler Diffusion
 - url: https://metaiot.group/publication/paper/10.1100.xxxx
   type: conference
@@ -139,17 +160,16 @@
   tags:
     - Cooperative Perception
 
+  # 2024 Accurate Indoor Localization for Bluetooth Low Energy Backscatter
+- id: doi:10.1109/JIOT.2024.3468428
+  type: journal
+  co-author: true
+  shortPublisher: IEEE IOTJ'25
 
 # #############################################################
 # ########################### 2024 ############################
 # #############################################################
 
-
-  # 2024 Accurate Indoor Localization for Bluetooth Low Energy Backscatter
-- id: doi:10.1109/JIOT.2024.3468428
-  type: journal
-  co-author: true
-  shortPublisher: IEEE IOTJ'24
 
 # Fairness-Aware Two-Stage Hybrid Sensing Method in Vehicular Crowdsensing
 - id: doi:10.1109/TMC.2024.3408751

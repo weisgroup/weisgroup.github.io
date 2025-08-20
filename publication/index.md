@@ -18,6 +18,8 @@ nav:
 {% include citation.html lookup="PassiveBLE" style="rich" %}
 {% include citation.html lookup="GPSense" style="rich" %}
 {% include citation.html lookup="GPSMirror" style="rich" %}
+{% include citation.html lookup="SDDiff" style="rich" %}
+{% include citation.html lookup="S^3E" style="rich" %}
 
 {% include section.html %}
 
