@@ -20,6 +20,23 @@
   - GPS Sensing
   plugin: sources.py
   file: sources.yaml
+- url: https://iccv.thecvf.com/virtual/2025/poster/2131
+  type: conference
+  title: 'S^3E: Self-Supervised State Estimation for Radar-Inertial System'
+  co-author: true
+  date: '2025-10-22'
+  authors:
+  - Shengpeng Wang
+  - Yulong Xie
+  - Qing Liao
+  - Wei Wang
+  publisher: International Conference on Computer Vision, ICCV 2025
+  shortPublisher: ICCV'25
+  tags:
+  - mmWave Radar
+  - ICCV
+  plugin: sources.py
+  file: sources.yaml
 - url: https://metaiot.group/publication/paper/10.1100.xxxx
   type: conference
   title: 'SDDiff: Boost Radar Perception via Spatial-Doppler Diffusion'
@@ -117,7 +134,7 @@
   link: https://doi.org/g73sbc
   type: journal
   co-author: true
-  shortPublisher: IEEE IOTJ'24
+  shortPublisher: IEEE IOTJ'25
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TMC.2024.3408751
