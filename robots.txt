@@ -1,1 +1,1 @@
-Sitemap: https://metaiot.group/sitemap.xml
+Sitemap: http://metaiot.group/sitemap.xml
