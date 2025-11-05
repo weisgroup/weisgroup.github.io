@@ -1,5 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1109/tmc.2025.3610963
+  title: Mitigating Interference for Automotive Millimeter-wave Radar Perception in
+    Dense Traffic Scenarios
+  authors:
+  - Wei Wang
+  - Chunshen Li
+  - Bixin Zeng
+  - Lieke Chen
+  - Liang Sun
+  - Kai Luo
+  - Da Chen
+  publisher: IEEE Transactions on Mobile Computing
+  date: '2025-01-01'
+  link: https://doi.org/g987sm
+  type: journal
+  shortPublisher: IEEE TMC'25
+  plugin: sources.py
+  file: sources.yaml
 - url: https://metaiot.group/publication/paper/10.1212.xxxx
   type: conference
   title: 'GPSoil: Towards low-cost soil moisture sensing using GNSS signals'
@@ -339,7 +357,7 @@
   date: '2022-12-21'
   link: https://doi.org/g24b95
   co-author: true
-  type: conference
+  type: journal
   shortPublisher: ACM UbiComp'22
   plugin: sources.py
   file: sources.yaml
@@ -356,7 +374,7 @@
   publisher: IEEE Transactions on Mobile Computing
   date: '2022-01-01'
   link: https://doi.org/g73sbv
-  type: conference
+  type: journal
   shortPublisher: IEEE TMC'22
   plugin: sources.py
   file: sources.yaml
@@ -386,7 +404,7 @@
   publisher: IEEE Transactions on Mobile Computing
   date: '2022-06-01'
   link: https://doi.org/gmkqpv
-  type: conference
+  type: journal
   shortPublisher: IEEE TMC'22
   plugin: sources.py
   file: sources.yaml
