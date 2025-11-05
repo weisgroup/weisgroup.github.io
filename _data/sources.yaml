@@ -34,6 +34,11 @@
 # ########################### 2025 ############################
 # #############################################################
 
+# 2025 Mitigating Interference for Automotive Millimeter-wave Radar Perception in Dense Traffic Scenarios
+- id: doi:10.1109/tmc.2025.3610963
+  type: journal
+  shortPublisher: IEEE TMC'25
+
 # GPSoil: Towards low-cost soil moisture sensing using GNSS signals
 - url: https://metaiot.group/publication/paper/10.1212.xxxx
   type: conference
@@ -261,12 +266,12 @@
 # Non-intrusive Anomaly Detection of Industrial Robot Operations by Exploiting Nonlinear Effect
 - id: doi:10.1145/3569477
   co-author: true
-  type: conference
+  type: journal
   shortPublisher: ACM UbiComp'22
 
   # 2022 InFit: Combination Movement Recognition for Intensive Fitness Assistant via Wi-Fi
 - id: doi:10.1109/TMC.2022.3209656
-  type: conference
+  type: journal
   shortPublisher: IEEE TMC'22
 
 # 2022 Delay-Aware Cooperative Task Offloading for Multi-UAV Enabled Edge-Cloud Computing
@@ -283,7 +288,7 @@
 
 # 2020 LoRadar: Enabling Concurrent Radar Sensing and LoRa Communication
 - id: doi:10.1109/TMC.2020.3035797
-  type: conference
+  type: journal
   shortPublisher: IEEE TMC'22
 
   # 2022 Covert Communication With Uninformed Backscatters in Hybrid Active/Passive Wireless Networks: Modeling and Performance Analysis

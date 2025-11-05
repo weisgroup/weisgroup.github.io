@@ -1,13 +1,19 @@
 
+- title: "MobiCom25@Hong Kong, China"
+  date: 2025-11-05
+  group: conference
+  description: We .
+  images:
+    - images/galleries/2025-11-05_Mobicom25_HK.webp
 
-- title: "ICCV 25@Honolulu, Hawai'i, USA"
+- title: "ICCV25@Honolulu, Hawai'i, USA"
   date: 2025-10-23
   group: conference
   description: We.
   images:
     - images/galleries/2025-10-23_ICCV.webp
 
-- title: "IJCAI 25 satellite event@Guangzhou, China"
+- title: "IJCAI25 satellite event@Guangzhou, China"
   date: 2025-08-31
   group: conference
   description: We.
