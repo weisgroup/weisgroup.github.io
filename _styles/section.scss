@@ -9,6 +9,9 @@ section {
   transition: background var(--transition), color var(--transition);
 }
 
+#metaiot-lab {
+  padding: $padding max($padding, calc((100% - 1400px) / 2));
+}
 // #recent-research-projects, #research, #research-themes {
 //   padding: $padding max($padding, calc((100% - 1200px) / 2));
 // }
