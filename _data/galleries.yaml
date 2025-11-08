@@ -1,4 +1,18 @@
 
+- title: "Hosted RFCom workshop@MobiCom 2025"
+  date: 2025-11-05
+  group: conference
+  description: We .
+  images:
+    - images/galleries/2025-11-08_RFCom_HK.webp
+
+- title: "MobiCom@HKUST"
+  date: 2025-11-07
+  group: conference
+  description: We .
+  images:
+    - images/galleries/2025-11-07_Mobicom25_HKUST.webp
+
 - title: "MobiCom25@Hong Kong, China"
   date: 2025-11-05
   group: conference
