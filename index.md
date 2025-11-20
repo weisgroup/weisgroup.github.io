@@ -2,7 +2,7 @@
 ---
 
 # MetaIoT Lab
-Here at Mobile, Sensing, Automotive & Internet of Things Lab (MetaIoT), which is leaded by [Prof. Qian Zhang](https://www.cse.ust.hk/~qianzh/) and [Prof. Wei Wang](https://metaiot.group/weiwang.html)([学校主页](https://cs.whu.edu.cn/info/1019/55961.htm)). We create the next generation of intelligent unmanned systems for sensing and perception with applications in autonomous systems, AIoT, and embodied AI.
+Here at Mobile, Sensing, Automative & Internet of Things Lab (MetaIoT), which is leaded by [Prof. Qian Zhang](https://www.cse.ust.hk/~qianzh/) and [Prof. Wei Wang](https://metaiot.group/weiwang.html)([学校主页](https://cs.whu.edu.cn/info/1019/55961.htm)). We create the next generation of intelligent unmanned systems for sensing and perception with applications in autonomous systems, AIoT, and embodied AI.
 
 ## Research Overview
 - **Spatial Perception and Intelligence for Embodied AI:** including embodied spatial intelligence, integrating perception, cognition, and action for autonomous agents in complex environments. 
